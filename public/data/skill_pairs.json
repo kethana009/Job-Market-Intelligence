@@ -1,0 +1,8172 @@
+[
+  {
+    "pair": "JavaScript + HTML/CSS",
+    "skill_a": "JavaScript",
+    "skill_b": "HTML/CSS",
+    "postings_together": 1594,
+    "n_a": 3953,
+    "n_b": 2644,
+    "lift": 6.03,
+    "jaccard": 0.319
+  },
+  {
+    "pair": "Java + Spring Boot",
+    "skill_a": "Java",
+    "skill_b": "Spring Boot",
+    "postings_together": 1131,
+    "n_a": 3132,
+    "n_b": 1396,
+    "lift": 10.22,
+    "jaccard": 0.333
+  },
+  {
+    "pair": "SQL + JavaScript",
+    "skill_a": "SQL",
+    "skill_b": "JavaScript",
+    "postings_together": 915,
+    "n_a": 5690,
+    "n_b": 3953,
+    "lift": 1.61,
+    "jaccard": 0.105
+  },
+  {
+    "pair": "SQL + Python",
+    "skill_a": "SQL",
+    "skill_b": "Python",
+    "postings_together": 766,
+    "n_a": 5690,
+    "n_b": 2499,
+    "lift": 2.13,
+    "jaccard": 0.103
+  },
+  {
+    "pair": "C# + .NET",
+    "skill_a": "C#",
+    "skill_b": ".NET",
+    "postings_together": 755,
+    "n_a": 1077,
+    "n_b": 1662,
+    "lift": 16.66,
+    "jaccard": 0.381
+  },
+  {
+    "pair": "JavaScript + Frontend Development",
+    "skill_a": "JavaScript",
+    "skill_b": "Frontend Development",
+    "postings_together": 730,
+    "n_a": 3953,
+    "n_b": 1548,
+    "lift": 4.71,
+    "jaccard": 0.153
+  },
+  {
+    "pair": "SQL + Agile/Scrum",
+    "skill_a": "SQL",
+    "skill_b": "Agile/Scrum",
+    "postings_together": 714,
+    "n_a": 5690,
+    "n_b": 4824,
+    "lift": 1.03,
+    "jaccard": 0.073
+  },
+  {
+    "pair": "JavaScript + React",
+    "skill_a": "JavaScript",
+    "skill_b": "React",
+    "postings_together": 654,
+    "n_a": 3953,
+    "n_b": 1259,
+    "lift": 5.19,
+    "jaccard": 0.143
+  },
+  {
+    "pair": "SQL + .NET",
+    "skill_a": "SQL",
+    "skill_b": ".NET",
+    "postings_together": 632,
+    "n_a": 5690,
+    "n_b": 1662,
+    "lift": 2.64,
+    "jaccard": 0.094
+  },
+  {
+    "pair": "SQL + HTML/CSS",
+    "skill_a": "SQL",
+    "skill_b": "HTML/CSS",
+    "postings_together": 612,
+    "n_a": 5690,
+    "n_b": 2644,
+    "lift": 1.61,
+    "jaccard": 0.079
+  },
+  {
+    "pair": "SQL + Linux",
+    "skill_a": "SQL",
+    "skill_b": "Linux",
+    "postings_together": 612,
+    "n_a": 5690,
+    "n_b": 2997,
+    "lift": 1.42,
+    "jaccard": 0.076
+  },
+  {
+    "pair": "Agile/Scrum + Project Management",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "Project Management",
+    "postings_together": 608,
+    "n_a": 4824,
+    "n_b": 2650,
+    "lift": 1.88,
+    "jaccard": 0.089
+  },
+  {
+    "pair": "SQL + Java",
+    "skill_a": "SQL",
+    "skill_b": "Java",
+    "postings_together": 595,
+    "n_a": 5690,
+    "n_b": 3132,
+    "lift": 1.32,
+    "jaccard": 0.072
+  },
+  {
+    "pair": "JavaScript + jQuery",
+    "skill_a": "JavaScript",
+    "skill_b": "jQuery",
+    "postings_together": 582,
+    "n_a": 3953,
+    "n_b": 976,
+    "lift": 5.96,
+    "jaccard": 0.134
+  },
+  {
+    "pair": "SQL + Oracle",
+    "skill_a": "SQL",
+    "skill_b": "Oracle",
+    "postings_together": 582,
+    "n_a": 5690,
+    "n_b": 1815,
+    "lift": 2.23,
+    "jaccard": 0.084
+  },
+  {
+    "pair": "HTML/CSS + Frontend Development",
+    "skill_a": "HTML/CSS",
+    "skill_b": "Frontend Development",
+    "postings_together": 581,
+    "n_a": 2644,
+    "n_b": 1548,
+    "lift": 5.61,
+    "jaccard": 0.161
+  },
+  {
+    "pair": "Java + Microservices",
+    "skill_a": "Java",
+    "skill_b": "Microservices",
+    "postings_together": 569,
+    "n_a": 3132,
+    "n_b": 889,
+    "lift": 8.07,
+    "jaccard": 0.165
+  },
+  {
+    "pair": "JavaScript + Agile/Scrum",
+    "skill_a": "JavaScript",
+    "skill_b": "Agile/Scrum",
+    "postings_together": 568,
+    "n_a": 3953,
+    "n_b": 4824,
+    "lift": 1.18,
+    "jaccard": 0.069
+  },
+  {
+    "pair": "Networking + Technical Support",
+    "skill_a": "Networking",
+    "skill_b": "Technical Support",
+    "postings_together": 555,
+    "n_a": 2097,
+    "n_b": 3610,
+    "lift": 2.9,
+    "jaccard": 0.108
+  },
+  {
+    "pair": "SQL + ETL",
+    "skill_a": "SQL",
+    "skill_b": "ETL",
+    "postings_together": 553,
+    "n_a": 5690,
+    "n_b": 1001,
+    "lift": 3.84,
+    "jaccard": 0.09
+  },
+  {
+    "pair": "Azure + Cloud Computing",
+    "skill_a": "Azure",
+    "skill_b": "Cloud Computing",
+    "postings_together": 547,
+    "n_a": 1683,
+    "n_b": 3312,
+    "lift": 3.88,
+    "jaccard": 0.123
+  },
+  {
+    "pair": "SAP + SAP ABAP",
+    "skill_a": "SAP",
+    "skill_b": "SAP ABAP",
+    "postings_together": 534,
+    "n_a": 2642,
+    "n_b": 818,
+    "lift": 9.76,
+    "jaccard": 0.183
+  },
+  {
+    "pair": "AWS + Cloud Computing",
+    "skill_a": "AWS",
+    "skill_b": "Cloud Computing",
+    "postings_together": 521,
+    "n_a": 1470,
+    "n_b": 3312,
+    "lift": 4.23,
+    "jaccard": 0.122
+  },
+  {
+    "pair": "Linux + Technical Support",
+    "skill_a": "Linux",
+    "skill_b": "Technical Support",
+    "postings_together": 493,
+    "n_a": 2997,
+    "n_b": 3610,
+    "lift": 1.8,
+    "jaccard": 0.081
+  },
+  {
+    "pair": "Spring Boot + Microservices",
+    "skill_a": "Spring Boot",
+    "skill_b": "Microservices",
+    "postings_together": 488,
+    "n_a": 1396,
+    "n_b": 889,
+    "lift": 15.54,
+    "jaccard": 0.272
+  },
+  {
+    "pair": "SQL + Cloud Computing",
+    "skill_a": "SQL",
+    "skill_b": "Cloud Computing",
+    "postings_together": 476,
+    "n_a": 5690,
+    "n_b": 3312,
+    "lift": 1.0,
+    "jaccard": 0.056
+  },
+  {
+    "pair": "Agile/Scrum + Linux",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "Linux",
+    "postings_together": 465,
+    "n_a": 4824,
+    "n_b": 2997,
+    "lift": 1.27,
+    "jaccard": 0.063
+  },
+  {
+    "pair": "Java + JavaScript",
+    "skill_a": "Java",
+    "skill_b": "JavaScript",
+    "postings_together": 461,
+    "n_a": 3132,
+    "n_b": 3953,
+    "lift": 1.47,
+    "jaccard": 0.07
+  },
+  {
+    "pair": "JavaScript + Angular",
+    "skill_a": "JavaScript",
+    "skill_b": "Angular",
+    "postings_together": 455,
+    "n_a": 3953,
+    "n_b": 1150,
+    "lift": 3.95,
+    "jaccard": 0.098
+  },
+  {
+    "pair": "Agile/Scrum + Software Testing",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "Software Testing",
+    "postings_together": 452,
+    "n_a": 4824,
+    "n_b": 1515,
+    "lift": 2.44,
+    "jaccard": 0.077
+  },
+  {
+    "pair": "SQL + PHP",
+    "skill_a": "SQL",
+    "skill_b": "PHP",
+    "postings_together": 452,
+    "n_a": 5690,
+    "n_b": 961,
+    "lift": 3.27,
+    "jaccard": 0.073
+  },
+  {
+    "pair": "SQL + Azure",
+    "skill_a": "SQL",
+    "skill_b": "Azure",
+    "postings_together": 439,
+    "n_a": 5690,
+    "n_b": 1683,
+    "lift": 1.81,
+    "jaccard": 0.063
+  },
+  {
+    "pair": "SQL + Technical Support",
+    "skill_a": "SQL",
+    "skill_b": "Technical Support",
+    "postings_together": 437,
+    "n_a": 5690,
+    "n_b": 3610,
+    "lift": 0.84,
+    "jaccard": 0.049
+  },
+  {
+    "pair": "HTML/CSS + jQuery",
+    "skill_a": "HTML/CSS",
+    "skill_b": "jQuery",
+    "postings_together": 435,
+    "n_a": 2644,
+    "n_b": 976,
+    "lift": 6.66,
+    "jaccard": 0.137
+  },
+  {
+    "pair": "C++ + Linux",
+    "skill_a": "C++",
+    "skill_b": "Linux",
+    "postings_together": 433,
+    "n_a": 1448,
+    "n_b": 2997,
+    "lift": 3.94,
+    "jaccard": 0.108
+  },
+  {
+    "pair": "SQL + C#",
+    "skill_a": "SQL",
+    "skill_b": "C#",
+    "postings_together": 423,
+    "n_a": 5690,
+    "n_b": 1077,
+    "lift": 2.73,
+    "jaccard": 0.067
+  },
+  {
+    "pair": "JavaScript + PHP",
+    "skill_a": "JavaScript",
+    "skill_b": "PHP",
+    "postings_together": 422,
+    "n_a": 3953,
+    "n_b": 961,
+    "lift": 4.39,
+    "jaccard": 0.094
+  },
+  {
+    "pair": "Java + Agile/Scrum",
+    "skill_a": "Java",
+    "skill_b": "Agile/Scrum",
+    "postings_together": 421,
+    "n_a": 3132,
+    "n_b": 4824,
+    "lift": 1.1,
+    "jaccard": 0.056
+  },
+  {
+    "pair": "Git + Agile/Scrum",
+    "skill_a": "Git",
+    "skill_b": "Agile/Scrum",
+    "postings_together": 411,
+    "n_a": 1684,
+    "n_b": 4824,
+    "lift": 2.0,
+    "jaccard": 0.067
+  },
+  {
+    "pair": "Python + Linux",
+    "skill_a": "Python",
+    "skill_b": "Linux",
+    "postings_together": 397,
+    "n_a": 2499,
+    "n_b": 2997,
+    "lift": 2.09,
+    "jaccard": 0.078
+  },
+  {
+    "pair": "Agile/Scrum + Cloud Computing",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "Cloud Computing",
+    "postings_together": 392,
+    "n_a": 4824,
+    "n_b": 3312,
+    "lift": 0.97,
+    "jaccard": 0.051
+  },
+  {
+    "pair": "Linux + Networking",
+    "skill_a": "Linux",
+    "skill_b": "Networking",
+    "postings_together": 385,
+    "n_a": 2997,
+    "n_b": 2097,
+    "lift": 2.42,
+    "jaccard": 0.082
+  },
+  {
+    "pair": "React + HTML/CSS",
+    "skill_a": "React",
+    "skill_b": "HTML/CSS",
+    "postings_together": 385,
+    "n_a": 1259,
+    "n_b": 2644,
+    "lift": 4.57,
+    "jaccard": 0.109
+  },
+  {
+    "pair": "SQL + Git",
+    "skill_a": "SQL",
+    "skill_b": "Git",
+    "postings_together": 385,
+    "n_a": 5690,
+    "n_b": 1684,
+    "lift": 1.59,
+    "jaccard": 0.055
+  },
+  {
+    "pair": "SQL + Data Analysis",
+    "skill_a": "SQL",
+    "skill_b": "Data Analysis",
+    "postings_together": 382,
+    "n_a": 5690,
+    "n_b": 1619,
+    "lift": 1.64,
+    "jaccard": 0.055
+  },
+  {
+    "pair": "SQL + jQuery",
+    "skill_a": "SQL",
+    "skill_b": "jQuery",
+    "postings_together": 375,
+    "n_a": 5690,
+    "n_b": 976,
+    "lift": 2.67,
+    "jaccard": 0.06
+  },
+  {
+    "pair": "JavaScript + Git",
+    "skill_a": "JavaScript",
+    "skill_b": "Git",
+    "postings_together": 363,
+    "n_a": 3953,
+    "n_b": 1684,
+    "lift": 2.15,
+    "jaccard": 0.069
+  },
+  {
+    "pair": "JavaScript + .NET",
+    "skill_a": "JavaScript",
+    "skill_b": ".NET",
+    "postings_together": 359,
+    "n_a": 3953,
+    "n_b": 1662,
+    "lift": 2.16,
+    "jaccard": 0.068
+  },
+  {
+    "pair": "SQL + Data Warehousing",
+    "skill_a": "SQL",
+    "skill_b": "Data Warehousing",
+    "postings_together": 359,
+    "n_a": 5690,
+    "n_b": 654,
+    "lift": 3.81,
+    "jaccard": 0.06
+  },
+  {
+    "pair": "Angular + HTML/CSS",
+    "skill_a": "Angular",
+    "skill_b": "HTML/CSS",
+    "postings_together": 354,
+    "n_a": 1150,
+    "n_b": 2644,
+    "lift": 4.6,
+    "jaccard": 0.103
+  },
+  {
+    "pair": "Azure + CI/CD",
+    "skill_a": "Azure",
+    "skill_b": "CI/CD",
+    "postings_together": 354,
+    "n_a": 1683,
+    "n_b": 1441,
+    "lift": 5.77,
+    "jaccard": 0.128
+  },
+  {
+    "pair": "Agile/Scrum + Technical Support",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "Technical Support",
+    "postings_together": 347,
+    "n_a": 4824,
+    "n_b": 3610,
+    "lift": 0.79,
+    "jaccard": 0.043
+  },
+  {
+    "pair": "JavaScript + Node.js",
+    "skill_a": "JavaScript",
+    "skill_b": "Node.js",
+    "postings_together": 346,
+    "n_a": 3953,
+    "n_b": 704,
+    "lift": 4.91,
+    "jaccard": 0.08
+  },
+  {
+    "pair": "CI/CD + Cloud Computing",
+    "skill_a": "CI/CD",
+    "skill_b": "Cloud Computing",
+    "postings_together": 342,
+    "n_a": 1441,
+    "n_b": 3312,
+    "lift": 2.83,
+    "jaccard": 0.078
+  },
+  {
+    "pair": "HTML/CSS + PHP",
+    "skill_a": "HTML/CSS",
+    "skill_b": "PHP",
+    "postings_together": 336,
+    "n_a": 2644,
+    "n_b": 961,
+    "lift": 5.22,
+    "jaccard": 0.103
+  },
+  {
+    "pair": "Frontend Development + Backend Development",
+    "skill_a": "Frontend Development",
+    "skill_b": "Backend Development",
+    "postings_together": 333,
+    "n_a": 1548,
+    "n_b": 1270,
+    "lift": 6.69,
+    "jaccard": 0.134
+  },
+  {
+    "pair": "Cloud Computing + Oracle",
+    "skill_a": "Cloud Computing",
+    "skill_b": "Oracle",
+    "postings_together": 328,
+    "n_a": 3312,
+    "n_b": 1815,
+    "lift": 2.16,
+    "jaccard": 0.068
+  },
+  {
+    "pair": "Java + Software Testing",
+    "skill_a": "Java",
+    "skill_b": "Software Testing",
+    "postings_together": 326,
+    "n_a": 3132,
+    "n_b": 1515,
+    "lift": 2.71,
+    "jaccard": 0.075
+  },
+  {
+    "pair": "Agile/Scrum + HTML/CSS",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "HTML/CSS",
+    "postings_together": 322,
+    "n_a": 4824,
+    "n_b": 2644,
+    "lift": 1.0,
+    "jaccard": 0.045
+  },
+  {
+    "pair": ".NET + Angular",
+    "skill_a": ".NET",
+    "skill_b": "Angular",
+    "postings_together": 322,
+    "n_a": 1662,
+    "n_b": 1150,
+    "lift": 6.66,
+    "jaccard": 0.129
+  },
+  {
+    "pair": "Linux + Oracle",
+    "skill_a": "Linux",
+    "skill_b": "Oracle",
+    "postings_together": 322,
+    "n_a": 2997,
+    "n_b": 1815,
+    "lift": 2.34,
+    "jaccard": 0.072
+  },
+  {
+    "pair": "SQL + Spring Boot",
+    "skill_a": "SQL",
+    "skill_b": "Spring Boot",
+    "postings_together": 314,
+    "n_a": 5690,
+    "n_b": 1396,
+    "lift": 1.56,
+    "jaccard": 0.046
+  },
+  {
+    "pair": "Technical Support + Cloud Computing",
+    "skill_a": "Technical Support",
+    "skill_b": "Cloud Computing",
+    "postings_together": 311,
+    "n_a": 3610,
+    "n_b": 3312,
+    "lift": 1.03,
+    "jaccard": 0.047
+  },
+  {
+    "pair": "Java + Angular",
+    "skill_a": "Java",
+    "skill_b": "Angular",
+    "postings_together": 308,
+    "n_a": 3132,
+    "n_b": 1150,
+    "lift": 3.38,
+    "jaccard": 0.078
+  },
+  {
+    "pair": "JavaScript + Backend Development",
+    "skill_a": "JavaScript",
+    "skill_b": "Backend Development",
+    "postings_together": 308,
+    "n_a": 3953,
+    "n_b": 1270,
+    "lift": 2.42,
+    "jaccard": 0.063
+  },
+  {
+    "pair": "SQL + AWS",
+    "skill_a": "SQL",
+    "skill_b": "AWS",
+    "postings_together": 303,
+    "n_a": 5690,
+    "n_b": 1470,
+    "lift": 1.43,
+    "jaccard": 0.044
+  },
+  {
+    "pair": "C++ + Embedded Systems",
+    "skill_a": "C++",
+    "skill_b": "Embedded Systems",
+    "postings_together": 294,
+    "n_a": 1448,
+    "n_b": 838,
+    "lift": 9.57,
+    "jaccard": 0.148
+  },
+  {
+    "pair": "Linux + Cloud Computing",
+    "skill_a": "Linux",
+    "skill_b": "Cloud Computing",
+    "postings_together": 294,
+    "n_a": 2997,
+    "n_b": 3312,
+    "lift": 1.17,
+    "jaccard": 0.049
+  },
+  {
+    "pair": "Python + AWS",
+    "skill_a": "Python",
+    "skill_b": "AWS",
+    "postings_together": 290,
+    "n_a": 2499,
+    "n_b": 1470,
+    "lift": 3.12,
+    "jaccard": 0.079
+  },
+  {
+    "pair": "Software Testing + Quality Control",
+    "skill_a": "Software Testing",
+    "skill_b": "Quality Control",
+    "postings_together": 287,
+    "n_a": 1515,
+    "n_b": 1316,
+    "lift": 5.69,
+    "jaccard": 0.113
+  },
+  {
+    "pair": "JavaScript + XML/XSLT",
+    "skill_a": "JavaScript",
+    "skill_b": "XML/XSLT",
+    "postings_together": 286,
+    "n_a": 3953,
+    "n_b": 962,
+    "lift": 2.97,
+    "jaccard": 0.062
+  },
+  {
+    "pair": "Node.js + React",
+    "skill_a": "Node.js",
+    "skill_b": "React",
+    "postings_together": 284,
+    "n_a": 704,
+    "n_b": 1259,
+    "lift": 12.66,
+    "jaccard": 0.169
+  },
+  {
+    "pair": "React + Angular",
+    "skill_a": "React",
+    "skill_b": "Angular",
+    "postings_together": 283,
+    "n_a": 1259,
+    "n_b": 1150,
+    "lift": 7.72,
+    "jaccard": 0.133
+  },
+  {
+    "pair": "AWS + Azure",
+    "skill_a": "AWS",
+    "skill_b": "Azure",
+    "postings_together": 282,
+    "n_a": 1470,
+    "n_b": 1683,
+    "lift": 4.5,
+    "jaccard": 0.098
+  },
+  {
+    "pair": "Python + Cloud Computing",
+    "skill_a": "Python",
+    "skill_b": "Cloud Computing",
+    "postings_together": 279,
+    "n_a": 2499,
+    "n_b": 3312,
+    "lift": 1.33,
+    "jaccard": 0.05
+  },
+  {
+    "pair": "Python + Machine Learning",
+    "skill_a": "Python",
+    "skill_b": "Machine Learning",
+    "postings_together": 279,
+    "n_a": 2499,
+    "n_b": 895,
+    "lift": 4.93,
+    "jaccard": 0.09
+  },
+  {
+    "pair": "Java + HTML/CSS",
+    "skill_a": "Java",
+    "skill_b": "HTML/CSS",
+    "postings_together": 276,
+    "n_a": 3132,
+    "n_b": 2644,
+    "lift": 1.32,
+    "jaccard": 0.05
+  },
+  {
+    "pair": "AWS + CI/CD",
+    "skill_a": "AWS",
+    "skill_b": "CI/CD",
+    "postings_together": 276,
+    "n_a": 1470,
+    "n_b": 1441,
+    "lift": 5.15,
+    "jaccard": 0.105
+  },
+  {
+    "pair": "SQL + Backend Development",
+    "skill_a": "SQL",
+    "skill_b": "Backend Development",
+    "postings_together": 274,
+    "n_a": 5690,
+    "n_b": 1270,
+    "lift": 1.5,
+    "jaccard": 0.041
+  },
+  {
+    "pair": "Git + CI/CD",
+    "skill_a": "Git",
+    "skill_b": "CI/CD",
+    "postings_together": 271,
+    "n_a": 1684,
+    "n_b": 1441,
+    "lift": 4.41,
+    "jaccard": 0.095
+  },
+  {
+    "pair": "SQL + Angular",
+    "skill_a": "SQL",
+    "skill_b": "Angular",
+    "postings_together": 268,
+    "n_a": 5690,
+    "n_b": 1150,
+    "lift": 1.62,
+    "jaccard": 0.041
+  },
+  {
+    "pair": "Agile/Scrum + Quality Control",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "Quality Control",
+    "postings_together": 264,
+    "n_a": 4824,
+    "n_b": 1316,
+    "lift": 1.64,
+    "jaccard": 0.045
+  },
+  {
+    "pair": "Java + Cloud Computing",
+    "skill_a": "Java",
+    "skill_b": "Cloud Computing",
+    "postings_together": 261,
+    "n_a": 3132,
+    "n_b": 3312,
+    "lift": 0.99,
+    "jaccard": 0.042
+  },
+  {
+    "pair": "JavaScript + C#",
+    "skill_a": "JavaScript",
+    "skill_b": "C#",
+    "postings_together": 261,
+    "n_a": 3953,
+    "n_b": 1077,
+    "lift": 2.42,
+    "jaccard": 0.055
+  },
+  {
+    "pair": ".NET + HTML/CSS",
+    "skill_a": ".NET",
+    "skill_b": "HTML/CSS",
+    "postings_together": 260,
+    "n_a": 1662,
+    "n_b": 2644,
+    "lift": 2.34,
+    "jaccard": 0.064
+  },
+  {
+    "pair": "Git + Linux",
+    "skill_a": "Git",
+    "skill_b": "Linux",
+    "postings_together": 254,
+    "n_a": 1684,
+    "n_b": 2997,
+    "lift": 1.99,
+    "jaccard": 0.057
+  },
+  {
+    "pair": "GCP + Cloud Computing",
+    "skill_a": "GCP",
+    "skill_b": "Cloud Computing",
+    "postings_together": 254,
+    "n_a": 603,
+    "n_b": 3312,
+    "lift": 5.02,
+    "jaccard": 0.069
+  },
+  {
+    "pair": "Java + AWS",
+    "skill_a": "Java",
+    "skill_b": "AWS",
+    "postings_together": 253,
+    "n_a": 3132,
+    "n_b": 1470,
+    "lift": 2.17,
+    "jaccard": 0.058
+  },
+  {
+    "pair": "Agile/Scrum + System Design",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "System Design",
+    "postings_together": 252,
+    "n_a": 4824,
+    "n_b": 1232,
+    "lift": 1.68,
+    "jaccard": 0.043
+  },
+  {
+    "pair": "Agile/Scrum + SAP",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "SAP",
+    "postings_together": 252,
+    "n_a": 4824,
+    "n_b": 2642,
+    "lift": 0.78,
+    "jaccard": 0.035
+  },
+  {
+    "pair": "React + Frontend Development",
+    "skill_a": "React",
+    "skill_b": "Frontend Development",
+    "postings_together": 252,
+    "n_a": 1259,
+    "n_b": 1548,
+    "lift": 5.11,
+    "jaccard": 0.099
+  },
+  {
+    "pair": "SQL + Data Modeling",
+    "skill_a": "SQL",
+    "skill_b": "Data Modeling",
+    "postings_together": 251,
+    "n_a": 5690,
+    "n_b": 856,
+    "lift": 2.04,
+    "jaccard": 0.04
+  },
+  {
+    "pair": "SQL + Power BI",
+    "skill_a": "SQL",
+    "skill_b": "Power BI",
+    "postings_together": 247,
+    "n_a": 5690,
+    "n_b": 570,
+    "lift": 3.01,
+    "jaccard": 0.041
+  },
+  {
+    "pair": "SQL + Spark",
+    "skill_a": "SQL",
+    "skill_b": "Spark",
+    "postings_together": 246,
+    "n_a": 5690,
+    "n_b": 567,
+    "lift": 3.01,
+    "jaccard": 0.041
+  },
+  {
+    "pair": "Python + Django/Flask",
+    "skill_a": "Python",
+    "skill_b": "Django/Flask",
+    "postings_together": 245,
+    "n_a": 2499,
+    "n_b": 315,
+    "lift": 12.3,
+    "jaccard": 0.095
+  },
+  {
+    "pair": "SQL + Frontend Development",
+    "skill_a": "SQL",
+    "skill_b": "Frontend Development",
+    "postings_together": 245,
+    "n_a": 5690,
+    "n_b": 1548,
+    "lift": 1.1,
+    "jaccard": 0.035
+  },
+  {
+    "pair": "Technical Support + SAP",
+    "skill_a": "Technical Support",
+    "skill_b": "SAP",
+    "postings_together": 244,
+    "n_a": 3610,
+    "n_b": 2642,
+    "lift": 1.01,
+    "jaccard": 0.041
+  },
+  {
+    "pair": "Agile/Scrum + Frontend Development",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "Frontend Development",
+    "postings_together": 243,
+    "n_a": 4824,
+    "n_b": 1548,
+    "lift": 1.29,
+    "jaccard": 0.04
+  },
+  {
+    "pair": "Linux + Embedded Systems",
+    "skill_a": "Linux",
+    "skill_b": "Embedded Systems",
+    "postings_together": 242,
+    "n_a": 2997,
+    "n_b": 838,
+    "lift": 3.81,
+    "jaccard": 0.067
+  },
+  {
+    "pair": "JavaScript + Linux",
+    "skill_a": "JavaScript",
+    "skill_b": "Linux",
+    "postings_together": 242,
+    "n_a": 3953,
+    "n_b": 2997,
+    "lift": 0.81,
+    "jaccard": 0.036
+  },
+  {
+    "pair": ".NET + Azure",
+    "skill_a": ".NET",
+    "skill_b": "Azure",
+    "postings_together": 240,
+    "n_a": 1662,
+    "n_b": 1683,
+    "lift": 3.39,
+    "jaccard": 0.077
+  },
+  {
+    "pair": "Agile/Scrum + CI/CD",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "CI/CD",
+    "postings_together": 240,
+    "n_a": 4824,
+    "n_b": 1441,
+    "lift": 1.36,
+    "jaccard": 0.04
+  },
+  {
+    "pair": "Java + React",
+    "skill_a": "Java",
+    "skill_b": "React",
+    "postings_together": 238,
+    "n_a": 3132,
+    "n_b": 1259,
+    "lift": 2.38,
+    "jaccard": 0.057
+  },
+  {
+    "pair": "Networking + Cloud Computing",
+    "skill_a": "Networking",
+    "skill_b": "Cloud Computing",
+    "postings_together": 238,
+    "n_a": 2097,
+    "n_b": 3312,
+    "lift": 1.35,
+    "jaccard": 0.046
+  },
+  {
+    "pair": "SQL + XML/XSLT",
+    "skill_a": "SQL",
+    "skill_b": "XML/XSLT",
+    "postings_together": 235,
+    "n_a": 5690,
+    "n_b": 962,
+    "lift": 1.7,
+    "jaccard": 0.037
+  },
+  {
+    "pair": "Java + Linux",
+    "skill_a": "Java",
+    "skill_b": "Linux",
+    "postings_together": 235,
+    "n_a": 3132,
+    "n_b": 2997,
+    "lift": 0.99,
+    "jaccard": 0.04
+  },
+  {
+    "pair": "Python + JavaScript",
+    "skill_a": "Python",
+    "skill_b": "JavaScript",
+    "postings_together": 234,
+    "n_a": 2499,
+    "n_b": 3953,
+    "lift": 0.94,
+    "jaccard": 0.038
+  },
+  {
+    "pair": "Agile/Scrum + Backend Development",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "Backend Development",
+    "postings_together": 233,
+    "n_a": 4824,
+    "n_b": 1270,
+    "lift": 1.5,
+    "jaccard": 0.04
+  },
+  {
+    "pair": "JavaScript + Cloud Computing",
+    "skill_a": "JavaScript",
+    "skill_b": "Cloud Computing",
+    "postings_together": 233,
+    "n_a": 3953,
+    "n_b": 3312,
+    "lift": 0.7,
+    "jaccard": 0.033
+  },
+  {
+    "pair": "Agile/Scrum + Oracle",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "Oracle",
+    "postings_together": 233,
+    "n_a": 4824,
+    "n_b": 1815,
+    "lift": 1.05,
+    "jaccard": 0.036
+  },
+  {
+    "pair": "ETL + Data Warehousing",
+    "skill_a": "ETL",
+    "skill_b": "Data Warehousing",
+    "postings_together": 230,
+    "n_a": 1001,
+    "n_b": 654,
+    "lift": 13.88,
+    "jaccard": 0.161
+  },
+  {
+    "pair": "Python + Java",
+    "skill_a": "Python",
+    "skill_b": "Java",
+    "postings_together": 230,
+    "n_a": 2499,
+    "n_b": 3132,
+    "lift": 1.16,
+    "jaccard": 0.043
+  },
+  {
+    "pair": "Python + Spark",
+    "skill_a": "Python",
+    "skill_b": "Spark",
+    "postings_together": 223,
+    "n_a": 2499,
+    "n_b": 567,
+    "lift": 6.22,
+    "jaccard": 0.078
+  },
+  {
+    "pair": "Python + Agile/Scrum",
+    "skill_a": "Python",
+    "skill_b": "Agile/Scrum",
+    "postings_together": 221,
+    "n_a": 2499,
+    "n_b": 4824,
+    "lift": 0.72,
+    "jaccard": 0.031
+  },
+  {
+    "pair": "CI/CD + Linux",
+    "skill_a": "CI/CD",
+    "skill_b": "Linux",
+    "postings_together": 220,
+    "n_a": 1441,
+    "n_b": 2997,
+    "lift": 2.01,
+    "jaccard": 0.052
+  },
+  {
+    "pair": "Python + Data Analysis",
+    "skill_a": "Python",
+    "skill_b": "Data Analysis",
+    "postings_together": 220,
+    "n_a": 2499,
+    "n_b": 1619,
+    "lift": 2.15,
+    "jaccard": 0.056
+  },
+  {
+    "pair": "SQL + React",
+    "skill_a": "SQL",
+    "skill_b": "React",
+    "postings_together": 220,
+    "n_a": 5690,
+    "n_b": 1259,
+    "lift": 1.21,
+    "jaccard": 0.033
+  },
+  {
+    "pair": "C++ + Agile/Scrum",
+    "skill_a": "C++",
+    "skill_b": "Agile/Scrum",
+    "postings_together": 220,
+    "n_a": 1448,
+    "n_b": 4824,
+    "lift": 1.24,
+    "jaccard": 0.036
+  },
+  {
+    "pair": "Git + Backend Development",
+    "skill_a": "Git",
+    "skill_b": "Backend Development",
+    "postings_together": 219,
+    "n_a": 1684,
+    "n_b": 1270,
+    "lift": 4.05,
+    "jaccard": 0.08
+  },
+  {
+    "pair": "C++ + System Design",
+    "skill_a": "C++",
+    "skill_b": "System Design",
+    "postings_together": 219,
+    "n_a": 1448,
+    "n_b": 1232,
+    "lift": 4.85,
+    "jaccard": 0.089
+  },
+  {
+    "pair": "Customer Service + Technical Support",
+    "skill_a": "Customer Service",
+    "skill_b": "Technical Support",
+    "postings_together": 218,
+    "n_a": 674,
+    "n_b": 3610,
+    "lift": 3.54,
+    "jaccard": 0.054
+  },
+  {
+    "pair": "Ticketing Tools + Technical Support",
+    "skill_a": "Ticketing Tools",
+    "skill_b": "Technical Support",
+    "postings_together": 218,
+    "n_a": 709,
+    "n_b": 3610,
+    "lift": 3.37,
+    "jaccard": 0.053
+  },
+  {
+    "pair": "Cloud Computing + SAP",
+    "skill_a": "Cloud Computing",
+    "skill_b": "SAP",
+    "postings_together": 217,
+    "n_a": 3312,
+    "n_b": 2642,
+    "lift": 0.98,
+    "jaccard": 0.038
+  },
+  {
+    "pair": "Git + Frontend Development",
+    "skill_a": "Git",
+    "skill_b": "Frontend Development",
+    "postings_together": 217,
+    "n_a": 1684,
+    "n_b": 1548,
+    "lift": 3.29,
+    "jaccard": 0.072
+  },
+  {
+    "pair": "Python + Azure",
+    "skill_a": "Python",
+    "skill_b": "Azure",
+    "postings_together": 215,
+    "n_a": 2499,
+    "n_b": 1683,
+    "lift": 2.02,
+    "jaccard": 0.054
+  },
+  {
+    "pair": "Git + HTML/CSS",
+    "skill_a": "Git",
+    "skill_b": "HTML/CSS",
+    "postings_together": 214,
+    "n_a": 1684,
+    "n_b": 2644,
+    "lift": 1.9,
+    "jaccard": 0.052
+  },
+  {
+    "pair": "Salesforce + Cloud Computing",
+    "skill_a": "Salesforce",
+    "skill_b": "Cloud Computing",
+    "postings_together": 214,
+    "n_a": 845,
+    "n_b": 3312,
+    "lift": 3.02,
+    "jaccard": 0.054
+  },
+  {
+    "pair": "Spring Boot + Agile/Scrum",
+    "skill_a": "Spring Boot",
+    "skill_b": "Agile/Scrum",
+    "postings_together": 213,
+    "n_a": 1396,
+    "n_b": 4824,
+    "lift": 1.25,
+    "jaccard": 0.035
+  },
+  {
+    "pair": "SQL + REST APIs",
+    "skill_a": "SQL",
+    "skill_b": "REST APIs",
+    "postings_together": 208,
+    "n_a": 5690,
+    "n_b": 787,
+    "lift": 1.84,
+    "jaccard": 0.033
+  },
+  {
+    "pair": "Java + REST APIs",
+    "skill_a": "Java",
+    "skill_b": "REST APIs",
+    "postings_together": 208,
+    "n_a": 3132,
+    "n_b": 787,
+    "lift": 3.33,
+    "jaccard": 0.056
+  },
+  {
+    "pair": "HTML/CSS + XML/XSLT",
+    "skill_a": "HTML/CSS",
+    "skill_b": "XML/XSLT",
+    "postings_together": 205,
+    "n_a": 2644,
+    "n_b": 962,
+    "lift": 3.18,
+    "jaccard": 0.06
+  },
+  {
+    "pair": "Python + CI/CD",
+    "skill_a": "Python",
+    "skill_b": "CI/CD",
+    "postings_together": 203,
+    "n_a": 2499,
+    "n_b": 1441,
+    "lift": 2.23,
+    "jaccard": 0.054
+  },
+  {
+    "pair": "Technical Support + Oracle",
+    "skill_a": "Technical Support",
+    "skill_b": "Oracle",
+    "postings_together": 200,
+    "n_a": 3610,
+    "n_b": 1815,
+    "lift": 1.21,
+    "jaccard": 0.038
+  },
+  {
+    "pair": "JavaScript + Technical Support",
+    "skill_a": "JavaScript",
+    "skill_b": "Technical Support",
+    "postings_together": 199,
+    "n_a": 3953,
+    "n_b": 3610,
+    "lift": 0.55,
+    "jaccard": 0.027
+  },
+  {
+    "pair": "C# + HTML/CSS",
+    "skill_a": "C#",
+    "skill_b": "HTML/CSS",
+    "postings_together": 199,
+    "n_a": 1077,
+    "n_b": 2644,
+    "lift": 2.76,
+    "jaccard": 0.057
+  },
+  {
+    "pair": "JavaScript + REST APIs",
+    "skill_a": "JavaScript",
+    "skill_b": "REST APIs",
+    "postings_together": 197,
+    "n_a": 3953,
+    "n_b": 787,
+    "lift": 2.5,
+    "jaccard": 0.043
+  },
+  {
+    "pair": "Java + CI/CD",
+    "skill_a": "Java",
+    "skill_b": "CI/CD",
+    "postings_together": 197,
+    "n_a": 3132,
+    "n_b": 1441,
+    "lift": 1.72,
+    "jaccard": 0.045
+  },
+  {
+    "pair": "JavaScript + TypeScript",
+    "skill_a": "JavaScript",
+    "skill_b": "TypeScript",
+    "postings_together": 195,
+    "n_a": 3953,
+    "n_b": 298,
+    "lift": 6.54,
+    "jaccard": 0.048
+  },
+  {
+    "pair": "Risk & Compliance + Project Management",
+    "skill_a": "Risk & Compliance",
+    "skill_b": "Project Management",
+    "postings_together": 195,
+    "n_a": 951,
+    "n_b": 2650,
+    "lift": 3.06,
+    "jaccard": 0.057
+  },
+  {
+    "pair": "SQL + CI/CD",
+    "skill_a": "SQL",
+    "skill_b": "CI/CD",
+    "postings_together": 192,
+    "n_a": 5690,
+    "n_b": 1441,
+    "lift": 0.93,
+    "jaccard": 0.028
+  },
+  {
+    "pair": "SQL + System Design",
+    "skill_a": "SQL",
+    "skill_b": "System Design",
+    "postings_together": 192,
+    "n_a": 5690,
+    "n_b": 1232,
+    "lift": 1.08,
+    "jaccard": 0.029
+  },
+  {
+    "pair": "JavaScript + Software Testing",
+    "skill_a": "JavaScript",
+    "skill_b": "Software Testing",
+    "postings_together": 191,
+    "n_a": 3953,
+    "n_b": 1515,
+    "lift": 1.26,
+    "jaccard": 0.036
+  },
+  {
+    "pair": "JavaScript + Spring Boot",
+    "skill_a": "JavaScript",
+    "skill_b": "Spring Boot",
+    "postings_together": 190,
+    "n_a": 3953,
+    "n_b": 1396,
+    "lift": 1.36,
+    "jaccard": 0.037
+  },
+  {
+    "pair": "Python + Git",
+    "skill_a": "Python",
+    "skill_b": "Git",
+    "postings_together": 190,
+    "n_a": 2499,
+    "n_b": 1684,
+    "lift": 1.78,
+    "jaccard": 0.048
+  },
+  {
+    "pair": "Data Analysis + Project Management",
+    "skill_a": "Data Analysis",
+    "skill_b": "Project Management",
+    "postings_together": 190,
+    "n_a": 1619,
+    "n_b": 2650,
+    "lift": 1.75,
+    "jaccard": 0.047
+  },
+  {
+    "pair": ".NET + jQuery",
+    "skill_a": ".NET",
+    "skill_b": "jQuery",
+    "postings_together": 189,
+    "n_a": 1662,
+    "n_b": 976,
+    "lift": 4.6,
+    "jaccard": 0.077
+  },
+  {
+    "pair": "C# + Angular",
+    "skill_a": "C#",
+    "skill_b": "Angular",
+    "postings_together": 188,
+    "n_a": 1077,
+    "n_b": 1150,
+    "lift": 6.0,
+    "jaccard": 0.092
+  },
+  {
+    "pair": "Java + Git",
+    "skill_a": "Java",
+    "skill_b": "Git",
+    "postings_together": 187,
+    "n_a": 3132,
+    "n_b": 1684,
+    "lift": 1.4,
+    "jaccard": 0.04
+  },
+  {
+    "pair": "Spark + Azure",
+    "skill_a": "Spark",
+    "skill_b": "Azure",
+    "postings_together": 186,
+    "n_a": 567,
+    "n_b": 1683,
+    "lift": 7.7,
+    "jaccard": 0.09
+  },
+  {
+    "pair": "CI/CD + Terraform",
+    "skill_a": "CI/CD",
+    "skill_b": "Terraform",
+    "postings_together": 184,
+    "n_a": 1441,
+    "n_b": 302,
+    "lift": 16.7,
+    "jaccard": 0.118
+  },
+  {
+    "pair": "HTML/CSS + Backend Development",
+    "skill_a": "HTML/CSS",
+    "skill_b": "Backend Development",
+    "postings_together": 183,
+    "n_a": 2644,
+    "n_b": 1270,
+    "lift": 2.15,
+    "jaccard": 0.049
+  },
+  {
+    "pair": "jQuery + PHP",
+    "skill_a": "jQuery",
+    "skill_b": "PHP",
+    "postings_together": 182,
+    "n_a": 976,
+    "n_b": 961,
+    "lift": 7.67,
+    "jaccard": 0.104
+  },
+  {
+    "pair": "Data Analysis + Agile/Scrum",
+    "skill_a": "Data Analysis",
+    "skill_b": "Agile/Scrum",
+    "postings_together": 180,
+    "n_a": 1619,
+    "n_b": 4824,
+    "lift": 0.91,
+    "jaccard": 0.029
+  },
+  {
+    "pair": "Git + Cloud Computing",
+    "skill_a": "Git",
+    "skill_b": "Cloud Computing",
+    "postings_together": 179,
+    "n_a": 1684,
+    "n_b": 3312,
+    "lift": 1.27,
+    "jaccard": 0.037
+  },
+  {
+    "pair": "Angular + Spring Boot",
+    "skill_a": "Angular",
+    "skill_b": "Spring Boot",
+    "postings_together": 178,
+    "n_a": 1150,
+    "n_b": 1396,
+    "lift": 4.38,
+    "jaccard": 0.075
+  },
+  {
+    "pair": "Adobe Creative Suite + Video Editing",
+    "skill_a": "Adobe Creative Suite",
+    "skill_b": "Video Editing",
+    "postings_together": 178,
+    "n_a": 780,
+    "n_b": 254,
+    "lift": 35.5,
+    "jaccard": 0.208
+  },
+  {
+    "pair": "Machine Learning + Deep Learning",
+    "skill_a": "Machine Learning",
+    "skill_b": "Deep Learning",
+    "postings_together": 178,
+    "n_a": 895,
+    "n_b": 255,
+    "lift": 30.81,
+    "jaccard": 0.183
+  },
+  {
+    "pair": "Android + iOS",
+    "skill_a": "Android",
+    "skill_b": "iOS",
+    "postings_together": 176,
+    "n_a": 556,
+    "n_b": 406,
+    "lift": 30.8,
+    "jaccard": 0.224
+  },
+  {
+    "pair": "System Design + Linux",
+    "skill_a": "System Design",
+    "skill_b": "Linux",
+    "postings_together": 175,
+    "n_a": 1232,
+    "n_b": 2997,
+    "lift": 1.87,
+    "jaccard": 0.043
+  },
+  {
+    "pair": "Spark + Hadoop",
+    "skill_a": "Spark",
+    "skill_b": "Hadoop",
+    "postings_together": 175,
+    "n_a": 567,
+    "n_b": 434,
+    "lift": 28.1,
+    "jaccard": 0.212
+  },
+  {
+    "pair": "Angular + Frontend Development",
+    "skill_a": "Angular",
+    "skill_b": "Frontend Development",
+    "postings_together": 173,
+    "n_a": 1150,
+    "n_b": 1548,
+    "lift": 3.84,
+    "jaccard": 0.069
+  },
+  {
+    "pair": "Java + Backend Development",
+    "skill_a": "Java",
+    "skill_b": "Backend Development",
+    "postings_together": 171,
+    "n_a": 3132,
+    "n_b": 1270,
+    "lift": 1.7,
+    "jaccard": 0.04
+  },
+  {
+    "pair": "JavaScript + C++",
+    "skill_a": "JavaScript",
+    "skill_b": "C++",
+    "postings_together": 170,
+    "n_a": 3953,
+    "n_b": 1448,
+    "lift": 1.17,
+    "jaccard": 0.032
+  },
+  {
+    "pair": ".NET + Agile/Scrum",
+    "skill_a": ".NET",
+    "skill_b": "Agile/Scrum",
+    "postings_together": 169,
+    "n_a": 1662,
+    "n_b": 4824,
+    "lift": 0.83,
+    "jaccard": 0.027
+  },
+  {
+    "pair": "Agile/Scrum + jQuery",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "jQuery",
+    "postings_together": 167,
+    "n_a": 4824,
+    "n_b": 976,
+    "lift": 1.4,
+    "jaccard": 0.03
+  },
+  {
+    "pair": "Project Management + SAP",
+    "skill_a": "Project Management",
+    "skill_b": "SAP",
+    "postings_together": 167,
+    "n_a": 2650,
+    "n_b": 2642,
+    "lift": 0.94,
+    "jaccard": 0.033
+  },
+  {
+    "pair": "Docker + Kubernetes",
+    "skill_a": "Docker",
+    "skill_b": "Kubernetes",
+    "postings_together": 165,
+    "n_a": 450,
+    "n_b": 393,
+    "lift": 36.86,
+    "jaccard": 0.243
+  },
+  {
+    "pair": "Agile/Scrum + Networking",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "Networking",
+    "postings_together": 164,
+    "n_a": 4824,
+    "n_b": 2097,
+    "lift": 0.64,
+    "jaccard": 0.024
+  },
+  {
+    "pair": "Java + Oracle",
+    "skill_a": "Java",
+    "skill_b": "Oracle",
+    "postings_together": 164,
+    "n_a": 3132,
+    "n_b": 1815,
+    "lift": 1.14,
+    "jaccard": 0.034
+  },
+  {
+    "pair": "SQL + Node.js",
+    "skill_a": "SQL",
+    "skill_b": "Node.js",
+    "postings_together": 163,
+    "n_a": 5690,
+    "n_b": 704,
+    "lift": 1.61,
+    "jaccard": 0.026
+  },
+  {
+    "pair": "Docker + CI/CD",
+    "skill_a": "Docker",
+    "skill_b": "CI/CD",
+    "postings_together": 163,
+    "n_a": 450,
+    "n_b": 1441,
+    "lift": 9.93,
+    "jaccard": 0.094
+  },
+  {
+    "pair": "Python + Data Warehousing",
+    "skill_a": "Python",
+    "skill_b": "Data Warehousing",
+    "postings_together": 162,
+    "n_a": 2499,
+    "n_b": 654,
+    "lift": 3.92,
+    "jaccard": 0.054
+  },
+  {
+    "pair": "Project Management + Quality Control",
+    "skill_a": "Project Management",
+    "skill_b": "Quality Control",
+    "postings_together": 162,
+    "n_a": 2650,
+    "n_b": 1316,
+    "lift": 1.84,
+    "jaccard": 0.043
+  },
+  {
+    "pair": "Python + ETL",
+    "skill_a": "Python",
+    "skill_b": "ETL",
+    "postings_together": 162,
+    "n_a": 2499,
+    "n_b": 1001,
+    "lift": 2.56,
+    "jaccard": 0.049
+  },
+  {
+    "pair": "Python + C++",
+    "skill_a": "Python",
+    "skill_b": "C++",
+    "postings_together": 162,
+    "n_a": 2499,
+    "n_b": 1448,
+    "lift": 1.77,
+    "jaccard": 0.043
+  },
+  {
+    "pair": "Machine Learning + Data Analysis",
+    "skill_a": "Machine Learning",
+    "skill_b": "Data Analysis",
+    "postings_together": 161,
+    "n_a": 895,
+    "n_b": 1619,
+    "lift": 4.39,
+    "jaccard": 0.068
+  },
+  {
+    "pair": "SQL + Software Testing",
+    "skill_a": "SQL",
+    "skill_b": "Software Testing",
+    "postings_together": 161,
+    "n_a": 5690,
+    "n_b": 1515,
+    "lift": 0.74,
+    "jaccard": 0.023
+  },
+  {
+    "pair": "Machine Learning + NLP",
+    "skill_a": "Machine Learning",
+    "skill_b": "NLP",
+    "postings_together": 157,
+    "n_a": 895,
+    "n_b": 253,
+    "lift": 27.39,
+    "jaccard": 0.158
+  },
+  {
+    "pair": "Kubernetes + CI/CD",
+    "skill_a": "Kubernetes",
+    "skill_b": "CI/CD",
+    "postings_together": 157,
+    "n_a": 393,
+    "n_b": 1441,
+    "lift": 10.95,
+    "jaccard": 0.094
+  },
+  {
+    "pair": "SQL + Machine Learning",
+    "skill_a": "SQL",
+    "skill_b": "Machine Learning",
+    "postings_together": 157,
+    "n_a": 5690,
+    "n_b": 895,
+    "lift": 1.22,
+    "jaccard": 0.024
+  },
+  {
+    "pair": "SQL + Microservices",
+    "skill_a": "SQL",
+    "skill_b": "Microservices",
+    "postings_together": 156,
+    "n_a": 5690,
+    "n_b": 889,
+    "lift": 1.22,
+    "jaccard": 0.024
+  },
+  {
+    "pair": "Agile/Scrum + Azure",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "Azure",
+    "postings_together": 156,
+    "n_a": 4824,
+    "n_b": 1683,
+    "lift": 0.76,
+    "jaccard": 0.025
+  },
+  {
+    "pair": "Six Sigma/Lean + Project Management",
+    "skill_a": "Six Sigma/Lean",
+    "skill_b": "Project Management",
+    "postings_together": 154,
+    "n_a": 696,
+    "n_b": 2650,
+    "lift": 3.3,
+    "jaccard": 0.048
+  },
+  {
+    "pair": "SQL + C++",
+    "skill_a": "SQL",
+    "skill_b": "C++",
+    "postings_together": 152,
+    "n_a": 5690,
+    "n_b": 1448,
+    "lift": 0.73,
+    "jaccard": 0.022
+  },
+  {
+    "pair": "Node.js + HTML/CSS",
+    "skill_a": "Node.js",
+    "skill_b": "HTML/CSS",
+    "postings_together": 152,
+    "n_a": 704,
+    "n_b": 2644,
+    "lift": 3.23,
+    "jaccard": 0.048
+  },
+  {
+    "pair": "AWS + Linux",
+    "skill_a": "AWS",
+    "skill_b": "Linux",
+    "postings_together": 151,
+    "n_a": 1470,
+    "n_b": 2997,
+    "lift": 1.35,
+    "jaccard": 0.035
+  },
+  {
+    "pair": "SAP FICO + SAP",
+    "skill_a": "SAP FICO",
+    "skill_b": "SAP",
+    "postings_together": 151,
+    "n_a": 367,
+    "n_b": 2642,
+    "lift": 6.15,
+    "jaccard": 0.053
+  },
+  {
+    "pair": "SQL + Project Management",
+    "skill_a": "SQL",
+    "skill_b": "Project Management",
+    "postings_together": 151,
+    "n_a": 5690,
+    "n_b": 2650,
+    "lift": 0.4,
+    "jaccard": 0.018
+  },
+  {
+    "pair": "SQL + SAP",
+    "skill_a": "SQL",
+    "skill_b": "SAP",
+    "postings_together": 151,
+    "n_a": 5690,
+    "n_b": 2642,
+    "lift": 0.4,
+    "jaccard": 0.018
+  },
+  {
+    "pair": "Java + Android",
+    "skill_a": "Java",
+    "skill_b": "Android",
+    "postings_together": 149,
+    "n_a": 3132,
+    "n_b": 556,
+    "lift": 3.38,
+    "jaccard": 0.042
+  },
+  {
+    "pair": "Node.js + Angular",
+    "skill_a": "Node.js",
+    "skill_b": "Angular",
+    "postings_together": 149,
+    "n_a": 704,
+    "n_b": 1150,
+    "lift": 7.27,
+    "jaccard": 0.087
+  },
+  {
+    "pair": "Salesforce + Technical Support",
+    "skill_a": "Salesforce",
+    "skill_b": "Technical Support",
+    "postings_together": 148,
+    "n_a": 845,
+    "n_b": 3610,
+    "lift": 1.92,
+    "jaccard": 0.034
+  },
+  {
+    "pair": "SQL + Hadoop",
+    "skill_a": "SQL",
+    "skill_b": "Hadoop",
+    "postings_together": 147,
+    "n_a": 5690,
+    "n_b": 434,
+    "lift": 2.35,
+    "jaccard": 0.025
+  },
+  {
+    "pair": "Agile/Scrum + XML/XSLT",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "XML/XSLT",
+    "postings_together": 147,
+    "n_a": 4824,
+    "n_b": 962,
+    "lift": 1.25,
+    "jaccard": 0.026
+  },
+  {
+    "pair": "JavaScript + System Design",
+    "skill_a": "JavaScript",
+    "skill_b": "System Design",
+    "postings_together": 145,
+    "n_a": 3953,
+    "n_b": 1232,
+    "lift": 1.18,
+    "jaccard": 0.029
+  },
+  {
+    "pair": "Java + System Design",
+    "skill_a": "Java",
+    "skill_b": "System Design",
+    "postings_together": 144,
+    "n_a": 3132,
+    "n_b": 1232,
+    "lift": 1.47,
+    "jaccard": 0.034
+  },
+  {
+    "pair": "C# + Azure",
+    "skill_a": "C#",
+    "skill_b": "Azure",
+    "postings_together": 144,
+    "n_a": 1077,
+    "n_b": 1683,
+    "lift": 3.14,
+    "jaccard": 0.055
+  },
+  {
+    "pair": "Power BI + Data Analysis",
+    "skill_a": "Power BI",
+    "skill_b": "Data Analysis",
+    "postings_together": 144,
+    "n_a": 570,
+    "n_b": 1619,
+    "lift": 6.17,
+    "jaccard": 0.07
+  },
+  {
+    "pair": "SAP MM + SAP",
+    "skill_a": "SAP MM",
+    "skill_b": "SAP",
+    "postings_together": 143,
+    "n_a": 260,
+    "n_b": 2642,
+    "lift": 8.22,
+    "jaccard": 0.052
+  },
+  {
+    "pair": "Linux + XML/XSLT",
+    "skill_a": "Linux",
+    "skill_b": "XML/XSLT",
+    "postings_together": 142,
+    "n_a": 2997,
+    "n_b": 962,
+    "lift": 1.95,
+    "jaccard": 0.037
+  },
+  {
+    "pair": "Python + Software Testing",
+    "skill_a": "Python",
+    "skill_b": "Software Testing",
+    "postings_together": 141,
+    "n_a": 2499,
+    "n_b": 1515,
+    "lift": 1.47,
+    "jaccard": 0.036
+  },
+  {
+    "pair": "Project Management + Technical Support",
+    "skill_a": "Project Management",
+    "skill_b": "Technical Support",
+    "postings_together": 141,
+    "n_a": 2650,
+    "n_b": 3610,
+    "lift": 0.58,
+    "jaccard": 0.023
+  },
+  {
+    "pair": "Python + Backend Development",
+    "skill_a": "Python",
+    "skill_b": "Backend Development",
+    "postings_together": 140,
+    "n_a": 2499,
+    "n_b": 1270,
+    "lift": 1.74,
+    "jaccard": 0.039
+  },
+  {
+    "pair": "Supply Chain Management + SAP",
+    "skill_a": "Supply Chain Management",
+    "skill_b": "SAP",
+    "postings_together": 139,
+    "n_a": 661,
+    "n_b": 2642,
+    "lift": 3.14,
+    "jaccard": 0.044
+  },
+  {
+    "pair": "PHP + Frontend Development",
+    "skill_a": "PHP",
+    "skill_b": "Frontend Development",
+    "postings_together": 138,
+    "n_a": 961,
+    "n_b": 1548,
+    "lift": 3.67,
+    "jaccard": 0.058
+  },
+  {
+    "pair": "Spring Boot + AWS",
+    "skill_a": "Spring Boot",
+    "skill_b": "AWS",
+    "postings_together": 136,
+    "n_a": 1396,
+    "n_b": 1470,
+    "lift": 2.62,
+    "jaccard": 0.05
+  },
+  {
+    "pair": "Networking + Cybersecurity",
+    "skill_a": "Networking",
+    "skill_b": "Cybersecurity",
+    "postings_together": 136,
+    "n_a": 2097,
+    "n_b": 785,
+    "lift": 3.26,
+    "jaccard": 0.05
+  },
+  {
+    "pair": "Data Warehousing + Cloud Computing",
+    "skill_a": "Data Warehousing",
+    "skill_b": "Cloud Computing",
+    "postings_together": 134,
+    "n_a": 654,
+    "n_b": 3312,
+    "lift": 2.44,
+    "jaccard": 0.035
+  },
+  {
+    "pair": "Java + C++",
+    "skill_a": "Java",
+    "skill_b": "C++",
+    "postings_together": 134,
+    "n_a": 3132,
+    "n_b": 1448,
+    "lift": 1.17,
+    "jaccard": 0.03
+  },
+  {
+    "pair": "SQL + GCP",
+    "skill_a": "SQL",
+    "skill_b": "GCP",
+    "postings_together": 133,
+    "n_a": 5690,
+    "n_b": 603,
+    "lift": 1.53,
+    "jaccard": 0.022
+  },
+  {
+    "pair": "Technical Support + Data Modeling",
+    "skill_a": "Technical Support",
+    "skill_b": "Data Modeling",
+    "postings_together": 132,
+    "n_a": 3610,
+    "n_b": 856,
+    "lift": 1.69,
+    "jaccard": 0.03
+  },
+  {
+    "pair": "Cybersecurity + Cloud Computing",
+    "skill_a": "Cybersecurity",
+    "skill_b": "Cloud Computing",
+    "postings_together": 131,
+    "n_a": 785,
+    "n_b": 3312,
+    "lift": 1.99,
+    "jaccard": 0.033
+  },
+  {
+    "pair": "Project Management + Cloud Computing",
+    "skill_a": "Project Management",
+    "skill_b": "Cloud Computing",
+    "postings_together": 131,
+    "n_a": 2650,
+    "n_b": 3312,
+    "lift": 0.59,
+    "jaccard": 0.022
+  },
+  {
+    "pair": "AWS + GCP",
+    "skill_a": "AWS",
+    "skill_b": "GCP",
+    "postings_together": 130,
+    "n_a": 1470,
+    "n_b": 603,
+    "lift": 5.79,
+    "jaccard": 0.067
+  },
+  {
+    "pair": "Microservices + Cloud Computing",
+    "skill_a": "Microservices",
+    "skill_b": "Cloud Computing",
+    "postings_together": 129,
+    "n_a": 889,
+    "n_b": 3312,
+    "lift": 1.73,
+    "jaccard": 0.032
+  },
+  {
+    "pair": "JavaScript + AWS",
+    "skill_a": "JavaScript",
+    "skill_b": "AWS",
+    "postings_together": 129,
+    "n_a": 3953,
+    "n_b": 1470,
+    "lift": 0.88,
+    "jaccard": 0.024
+  },
+  {
+    "pair": "REST APIs + HTML/CSS",
+    "skill_a": "REST APIs",
+    "skill_b": "HTML/CSS",
+    "postings_together": 129,
+    "n_a": 787,
+    "n_b": 2644,
+    "lift": 2.45,
+    "jaccard": 0.039
+  },
+  {
+    "pair": "ETL + Cloud Computing",
+    "skill_a": "ETL",
+    "skill_b": "Cloud Computing",
+    "postings_together": 129,
+    "n_a": 1001,
+    "n_b": 3312,
+    "lift": 1.54,
+    "jaccard": 0.031
+  },
+  {
+    "pair": "Java + Azure",
+    "skill_a": "Java",
+    "skill_b": "Azure",
+    "postings_together": 129,
+    "n_a": 3132,
+    "n_b": 1683,
+    "lift": 0.97,
+    "jaccard": 0.028
+  },
+  {
+    "pair": "jQuery + XML/XSLT",
+    "skill_a": "jQuery",
+    "skill_b": "XML/XSLT",
+    "postings_together": 129,
+    "n_a": 976,
+    "n_b": 962,
+    "lift": 5.43,
+    "jaccard": 0.071
+  },
+  {
+    "pair": "Agile/Scrum + Salesforce",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "Salesforce",
+    "postings_together": 128,
+    "n_a": 4824,
+    "n_b": 845,
+    "lift": 1.24,
+    "jaccard": 0.023
+  },
+  {
+    "pair": "Java + Technical Support",
+    "skill_a": "Java",
+    "skill_b": "Technical Support",
+    "postings_together": 128,
+    "n_a": 3132,
+    "n_b": 3610,
+    "lift": 0.45,
+    "jaccard": 0.019
+  },
+  {
+    "pair": "Spring Boot + Cloud Computing",
+    "skill_a": "Spring Boot",
+    "skill_b": "Cloud Computing",
+    "postings_together": 128,
+    "n_a": 1396,
+    "n_b": 3312,
+    "lift": 1.09,
+    "jaccard": 0.028
+  },
+  {
+    "pair": "JavaScript + Oracle",
+    "skill_a": "JavaScript",
+    "skill_b": "Oracle",
+    "postings_together": 128,
+    "n_a": 3953,
+    "n_b": 1815,
+    "lift": 0.7,
+    "jaccard": 0.023
+  },
+  {
+    "pair": "Spring Boot + HTML/CSS",
+    "skill_a": "Spring Boot",
+    "skill_b": "HTML/CSS",
+    "postings_together": 127,
+    "n_a": 1396,
+    "n_b": 2644,
+    "lift": 1.36,
+    "jaccard": 0.032
+  },
+  {
+    "pair": "Spring Boot + REST APIs",
+    "skill_a": "Spring Boot",
+    "skill_b": "REST APIs",
+    "postings_together": 127,
+    "n_a": 1396,
+    "n_b": 787,
+    "lift": 4.57,
+    "jaccard": 0.062
+  },
+  {
+    "pair": "Azure + GCP",
+    "skill_a": "Azure",
+    "skill_b": "GCP",
+    "postings_together": 127,
+    "n_a": 1683,
+    "n_b": 603,
+    "lift": 4.94,
+    "jaccard": 0.059
+  },
+  {
+    "pair": "Azure + Linux",
+    "skill_a": "Azure",
+    "skill_b": "Linux",
+    "postings_together": 127,
+    "n_a": 1683,
+    "n_b": 2997,
+    "lift": 0.99,
+    "jaccard": 0.028
+  },
+  {
+    "pair": "Data Warehousing + AWS",
+    "skill_a": "Data Warehousing",
+    "skill_b": "AWS",
+    "postings_together": 126,
+    "n_a": 654,
+    "n_b": 1470,
+    "lift": 5.18,
+    "jaccard": 0.063
+  },
+  {
+    "pair": "Deep Learning + NLP",
+    "skill_a": "Deep Learning",
+    "skill_b": "NLP",
+    "postings_together": 126,
+    "n_a": 255,
+    "n_b": 253,
+    "lift": 77.16,
+    "jaccard": 0.33
+  },
+  {
+    "pair": "Excel + Data Analysis",
+    "skill_a": "Excel",
+    "skill_b": "Data Analysis",
+    "postings_together": 126,
+    "n_a": 519,
+    "n_b": 1619,
+    "lift": 5.92,
+    "jaccard": 0.063
+  },
+  {
+    "pair": "Node.js + AWS",
+    "skill_a": "Node.js",
+    "skill_b": "AWS",
+    "postings_together": 126,
+    "n_a": 704,
+    "n_b": 1470,
+    "lift": 4.81,
+    "jaccard": 0.062
+  },
+  {
+    "pair": "Python + GCP",
+    "skill_a": "Python",
+    "skill_b": "GCP",
+    "postings_together": 126,
+    "n_a": 2499,
+    "n_b": 603,
+    "lift": 3.3,
+    "jaccard": 0.042
+  },
+  {
+    "pair": "React + REST APIs",
+    "skill_a": "React",
+    "skill_b": "REST APIs",
+    "postings_together": 125,
+    "n_a": 1259,
+    "n_b": 787,
+    "lift": 4.98,
+    "jaccard": 0.065
+  },
+  {
+    "pair": "Git + Azure",
+    "skill_a": "Git",
+    "skill_b": "Azure",
+    "postings_together": 125,
+    "n_a": 1684,
+    "n_b": 1683,
+    "lift": 1.74,
+    "jaccard": 0.039
+  },
+  {
+    "pair": ".NET + React",
+    "skill_a": ".NET",
+    "skill_b": "React",
+    "postings_together": 124,
+    "n_a": 1662,
+    "n_b": 1259,
+    "lift": 2.34,
+    "jaccard": 0.044
+  },
+  {
+    "pair": "Python + System Design",
+    "skill_a": "Python",
+    "skill_b": "System Design",
+    "postings_together": 123,
+    "n_a": 2499,
+    "n_b": 1232,
+    "lift": 1.58,
+    "jaccard": 0.034
+  },
+  {
+    "pair": "Budgeting & Forecasting + Project Management",
+    "skill_a": "Budgeting & Forecasting",
+    "skill_b": "Project Management",
+    "postings_together": 123,
+    "n_a": 413,
+    "n_b": 2650,
+    "lift": 4.44,
+    "jaccard": 0.042
+  },
+  {
+    "pair": "Microservices + AWS",
+    "skill_a": "Microservices",
+    "skill_b": "AWS",
+    "postings_together": 123,
+    "n_a": 889,
+    "n_b": 1470,
+    "lift": 3.72,
+    "jaccard": 0.055
+  },
+  {
+    "pair": "ETL + Data Modeling",
+    "skill_a": "ETL",
+    "skill_b": "Data Modeling",
+    "postings_together": 122,
+    "n_a": 1001,
+    "n_b": 856,
+    "lift": 5.63,
+    "jaccard": 0.07
+  },
+  {
+    "pair": "ETL + Spark",
+    "skill_a": "ETL",
+    "skill_b": "Spark",
+    "postings_together": 122,
+    "n_a": 1001,
+    "n_b": 567,
+    "lift": 8.49,
+    "jaccard": 0.084
+  },
+  {
+    "pair": "Software Testing + Linux",
+    "skill_a": "Software Testing",
+    "skill_b": "Linux",
+    "postings_together": 122,
+    "n_a": 1515,
+    "n_b": 2997,
+    "lift": 1.06,
+    "jaccard": 0.028
+  },
+  {
+    "pair": "C# + jQuery",
+    "skill_a": "C#",
+    "skill_b": "jQuery",
+    "postings_together": 121,
+    "n_a": 1077,
+    "n_b": 976,
+    "lift": 4.55,
+    "jaccard": 0.063
+  },
+  {
+    "pair": "Microservices + Agile/Scrum",
+    "skill_a": "Microservices",
+    "skill_b": "Agile/Scrum",
+    "postings_together": 121,
+    "n_a": 889,
+    "n_b": 4824,
+    "lift": 1.11,
+    "jaccard": 0.022
+  },
+  {
+    "pair": "Technical Support + HTML/CSS",
+    "skill_a": "Technical Support",
+    "skill_b": "HTML/CSS",
+    "postings_together": 121,
+    "n_a": 3610,
+    "n_b": 2644,
+    "lift": 0.5,
+    "jaccard": 0.02
+  },
+  {
+    "pair": "jQuery + Frontend Development",
+    "skill_a": "jQuery",
+    "skill_b": "Frontend Development",
+    "postings_together": 121,
+    "n_a": 976,
+    "n_b": 1548,
+    "lift": 3.16,
+    "jaccard": 0.05
+  },
+  {
+    "pair": "Java + XML/XSLT",
+    "skill_a": "Java",
+    "skill_b": "XML/XSLT",
+    "postings_together": 121,
+    "n_a": 3132,
+    "n_b": 962,
+    "lift": 1.59,
+    "jaccard": 0.03
+  },
+  {
+    "pair": "C++ + Technical Support",
+    "skill_a": "C++",
+    "skill_b": "Technical Support",
+    "postings_together": 121,
+    "n_a": 1448,
+    "n_b": 3610,
+    "lift": 0.91,
+    "jaccard": 0.025
+  },
+  {
+    "pair": "Angular + jQuery",
+    "skill_a": "Angular",
+    "skill_b": "jQuery",
+    "postings_together": 120,
+    "n_a": 1150,
+    "n_b": 976,
+    "lift": 4.22,
+    "jaccard": 0.06
+  },
+  {
+    "pair": "AWS + Docker",
+    "skill_a": "AWS",
+    "skill_b": "Docker",
+    "postings_together": 120,
+    "n_a": 1470,
+    "n_b": 450,
+    "lift": 7.17,
+    "jaccard": 0.067
+  },
+  {
+    "pair": "SQL + Networking",
+    "skill_a": "SQL",
+    "skill_b": "Networking",
+    "postings_together": 119,
+    "n_a": 5690,
+    "n_b": 2097,
+    "lift": 0.39,
+    "jaccard": 0.016
+  },
+  {
+    "pair": "Statistics + Data Analysis",
+    "skill_a": "Statistics",
+    "skill_b": "Data Analysis",
+    "postings_together": 119,
+    "n_a": 289,
+    "n_b": 1619,
+    "lift": 10.05,
+    "jaccard": 0.067
+  },
+  {
+    "pair": "JavaScript + CI/CD",
+    "skill_a": "JavaScript",
+    "skill_b": "CI/CD",
+    "postings_together": 118,
+    "n_a": 3953,
+    "n_b": 1441,
+    "lift": 0.82,
+    "jaccard": 0.022
+  },
+  {
+    "pair": "Figma + UI/UX Design",
+    "skill_a": "Figma",
+    "skill_b": "UI/UX Design",
+    "postings_together": 117,
+    "n_a": 228,
+    "n_b": 416,
+    "lift": 48.74,
+    "jaccard": 0.222
+  },
+  {
+    "pair": "Data Visualization + Data Analysis",
+    "skill_a": "Data Visualization",
+    "skill_b": "Data Analysis",
+    "postings_together": 117,
+    "n_a": 340,
+    "n_b": 1619,
+    "lift": 8.4,
+    "jaccard": 0.064
+  },
+  {
+    "pair": "Data Warehousing + Spark",
+    "skill_a": "Data Warehousing",
+    "skill_b": "Spark",
+    "postings_together": 117,
+    "n_a": 654,
+    "n_b": 567,
+    "lift": 12.47,
+    "jaccard": 0.106
+  },
+  {
+    "pair": "Technical Support + SAP ABAP",
+    "skill_a": "Technical Support",
+    "skill_b": "SAP ABAP",
+    "postings_together": 117,
+    "n_a": 3610,
+    "n_b": 818,
+    "lift": 1.57,
+    "jaccard": 0.027
+  },
+  {
+    "pair": "Git + Software Testing",
+    "skill_a": "Git",
+    "skill_b": "Software Testing",
+    "postings_together": 116,
+    "n_a": 1684,
+    "n_b": 1515,
+    "lift": 1.8,
+    "jaccard": 0.038
+  },
+  {
+    "pair": "AWS + Terraform",
+    "skill_a": "AWS",
+    "skill_b": "Terraform",
+    "postings_together": 116,
+    "n_a": 1470,
+    "n_b": 302,
+    "lift": 10.32,
+    "jaccard": 0.07
+  },
+  {
+    "pair": "XML/XSLT + Oracle",
+    "skill_a": "XML/XSLT",
+    "skill_b": "Oracle",
+    "postings_together": 116,
+    "n_a": 962,
+    "n_b": 1815,
+    "lift": 2.62,
+    "jaccard": 0.044
+  },
+  {
+    "pair": "JavaScript + SAP",
+    "skill_a": "JavaScript",
+    "skill_b": "SAP",
+    "postings_together": 115,
+    "n_a": 3953,
+    "n_b": 2642,
+    "lift": 0.44,
+    "jaccard": 0.018
+  },
+  {
+    "pair": "Cybersecurity + Risk & Compliance",
+    "skill_a": "Cybersecurity",
+    "skill_b": "Risk & Compliance",
+    "postings_together": 114,
+    "n_a": 785,
+    "n_b": 951,
+    "lift": 6.03,
+    "jaccard": 0.07
+  },
+  {
+    "pair": "Java + Frontend Development",
+    "skill_a": "Java",
+    "skill_b": "Frontend Development",
+    "postings_together": 114,
+    "n_a": 3132,
+    "n_b": 1548,
+    "lift": 0.93,
+    "jaccard": 0.025
+  },
+  {
+    "pair": "Supply Chain Management + Oracle",
+    "skill_a": "Supply Chain Management",
+    "skill_b": "Oracle",
+    "postings_together": 112,
+    "n_a": 661,
+    "n_b": 1815,
+    "lift": 3.69,
+    "jaccard": 0.047
+  },
+  {
+    "pair": "React + Git",
+    "skill_a": "React",
+    "skill_b": "Git",
+    "postings_together": 112,
+    "n_a": 1259,
+    "n_b": 1684,
+    "lift": 2.09,
+    "jaccard": 0.04
+  },
+  {
+    "pair": "Git + Technical Support",
+    "skill_a": "Git",
+    "skill_b": "Technical Support",
+    "postings_together": 112,
+    "n_a": 1684,
+    "n_b": 3610,
+    "lift": 0.73,
+    "jaccard": 0.022
+  },
+  {
+    "pair": "TypeScript + React",
+    "skill_a": "TypeScript",
+    "skill_b": "React",
+    "postings_together": 112,
+    "n_a": 298,
+    "n_b": 1259,
+    "lift": 11.79,
+    "jaccard": 0.078
+  },
+  {
+    "pair": "SQL + Tableau",
+    "skill_a": "SQL",
+    "skill_b": "Tableau",
+    "postings_together": 112,
+    "n_a": 5690,
+    "n_b": 222,
+    "lift": 3.5,
+    "jaccard": 0.019
+  },
+  {
+    "pair": "ETL + Azure",
+    "skill_a": "ETL",
+    "skill_b": "Azure",
+    "postings_together": 111,
+    "n_a": 1001,
+    "n_b": 1683,
+    "lift": 2.6,
+    "jaccard": 0.043
+  },
+  {
+    "pair": "Git + PHP",
+    "skill_a": "Git",
+    "skill_b": "PHP",
+    "postings_together": 111,
+    "n_a": 1684,
+    "n_b": 961,
+    "lift": 2.71,
+    "jaccard": 0.044
+  },
+  {
+    "pair": "Python + NLP",
+    "skill_a": "Python",
+    "skill_b": "NLP",
+    "postings_together": 111,
+    "n_a": 2499,
+    "n_b": 253,
+    "lift": 6.94,
+    "jaccard": 0.042
+  },
+  {
+    "pair": "Python + Deep Learning",
+    "skill_a": "Python",
+    "skill_b": "Deep Learning",
+    "postings_together": 111,
+    "n_a": 2499,
+    "n_b": 255,
+    "lift": 6.88,
+    "jaccard": 0.042
+  },
+  {
+    "pair": "AWS + Kubernetes",
+    "skill_a": "AWS",
+    "skill_b": "Kubernetes",
+    "postings_together": 111,
+    "n_a": 1470,
+    "n_b": 393,
+    "lift": 7.59,
+    "jaccard": 0.063
+  },
+  {
+    "pair": "Networking + Project Management",
+    "skill_a": "Networking",
+    "skill_b": "Project Management",
+    "postings_together": 111,
+    "n_a": 2097,
+    "n_b": 2650,
+    "lift": 0.79,
+    "jaccard": 0.024
+  },
+  {
+    "pair": "Spring Boot + Backend Development",
+    "skill_a": "Spring Boot",
+    "skill_b": "Backend Development",
+    "postings_together": 109,
+    "n_a": 1396,
+    "n_b": 1270,
+    "lift": 2.43,
+    "jaccard": 0.043
+  },
+  {
+    "pair": "Python + Technical Support",
+    "skill_a": "Python",
+    "skill_b": "Technical Support",
+    "postings_together": 109,
+    "n_a": 2499,
+    "n_b": 3610,
+    "lift": 0.48,
+    "jaccard": 0.018
+  },
+  {
+    "pair": "Spark + AWS",
+    "skill_a": "Spark",
+    "skill_b": "AWS",
+    "postings_together": 109,
+    "n_a": 567,
+    "n_b": 1470,
+    "lift": 5.17,
+    "jaccard": 0.057
+  },
+  {
+    "pair": "SAP + Oracle",
+    "skill_a": "SAP",
+    "skill_b": "Oracle",
+    "postings_together": 108,
+    "n_a": 2642,
+    "n_b": 1815,
+    "lift": 0.89,
+    "jaccard": 0.025
+  },
+  {
+    "pair": "ETL + Agile/Scrum",
+    "skill_a": "ETL",
+    "skill_b": "Agile/Scrum",
+    "postings_together": 108,
+    "n_a": 1001,
+    "n_b": 4824,
+    "lift": 0.88,
+    "jaccard": 0.019
+  },
+  {
+    "pair": "HTML/CSS + Cloud Computing",
+    "skill_a": "HTML/CSS",
+    "skill_b": "Cloud Computing",
+    "postings_together": 108,
+    "n_a": 2644,
+    "n_b": 3312,
+    "lift": 0.49,
+    "jaccard": 0.018
+  },
+  {
+    "pair": "React + Spring Boot",
+    "skill_a": "React",
+    "skill_b": "Spring Boot",
+    "postings_together": 107,
+    "n_a": 1259,
+    "n_b": 1396,
+    "lift": 2.41,
+    "jaccard": 0.042
+  },
+  {
+    "pair": "Linux + HTML/CSS",
+    "skill_a": "Linux",
+    "skill_b": "HTML/CSS",
+    "postings_together": 107,
+    "n_a": 2997,
+    "n_b": 2644,
+    "lift": 0.53,
+    "jaccard": 0.019
+  },
+  {
+    "pair": "Python + Hadoop",
+    "skill_a": "Python",
+    "skill_b": "Hadoop",
+    "postings_together": 107,
+    "n_a": 2499,
+    "n_b": 434,
+    "lift": 3.9,
+    "jaccard": 0.038
+  },
+  {
+    "pair": "Kubernetes + Cloud Computing",
+    "skill_a": "Kubernetes",
+    "skill_b": "Cloud Computing",
+    "postings_together": 107,
+    "n_a": 393,
+    "n_b": 3312,
+    "lift": 3.25,
+    "jaccard": 0.03
+  },
+  {
+    "pair": "Node.js + REST APIs",
+    "skill_a": "Node.js",
+    "skill_b": "REST APIs",
+    "postings_together": 107,
+    "n_a": 704,
+    "n_b": 787,
+    "lift": 7.63,
+    "jaccard": 0.077
+  },
+  {
+    "pair": "React + AWS",
+    "skill_a": "React",
+    "skill_b": "AWS",
+    "postings_together": 106,
+    "n_a": 1259,
+    "n_b": 1470,
+    "lift": 2.26,
+    "jaccard": 0.04
+  },
+  {
+    "pair": "TypeScript + Angular",
+    "skill_a": "TypeScript",
+    "skill_b": "Angular",
+    "postings_together": 106,
+    "n_a": 298,
+    "n_b": 1150,
+    "lift": 12.22,
+    "jaccard": 0.079
+  },
+  {
+    "pair": "REST APIs + Microservices",
+    "skill_a": "REST APIs",
+    "skill_b": "Microservices",
+    "postings_together": 106,
+    "n_a": 787,
+    "n_b": 889,
+    "lift": 5.99,
+    "jaccard": 0.068
+  },
+  {
+    "pair": "React + Agile/Scrum",
+    "skill_a": "React",
+    "skill_b": "Agile/Scrum",
+    "postings_together": 106,
+    "n_a": 1259,
+    "n_b": 4824,
+    "lift": 0.69,
+    "jaccard": 0.018
+  },
+  {
+    "pair": ".NET + Frontend Development",
+    "skill_a": ".NET",
+    "skill_b": "Frontend Development",
+    "postings_together": 106,
+    "n_a": 1662,
+    "n_b": 1548,
+    "lift": 1.63,
+    "jaccard": 0.034
+  },
+  {
+    "pair": ".NET + Cloud Computing",
+    "skill_a": ".NET",
+    "skill_b": "Cloud Computing",
+    "postings_together": 106,
+    "n_a": 1662,
+    "n_b": 3312,
+    "lift": 0.76,
+    "jaccard": 0.022
+  },
+  {
+    "pair": "Quality Control + Technical Support",
+    "skill_a": "Quality Control",
+    "skill_b": "Technical Support",
+    "postings_together": 105,
+    "n_a": 1316,
+    "n_b": 3610,
+    "lift": 0.87,
+    "jaccard": 0.022
+  },
+  {
+    "pair": "C++ + Networking",
+    "skill_a": "C++",
+    "skill_b": "Networking",
+    "postings_together": 105,
+    "n_a": 1448,
+    "n_b": 2097,
+    "lift": 1.37,
+    "jaccard": 0.031
+  },
+  {
+    "pair": "Git + AWS",
+    "skill_a": "Git",
+    "skill_b": "AWS",
+    "postings_together": 105,
+    "n_a": 1684,
+    "n_b": 1470,
+    "lift": 1.68,
+    "jaccard": 0.034
+  },
+  {
+    "pair": "Java + jQuery",
+    "skill_a": "Java",
+    "skill_b": "jQuery",
+    "postings_together": 105,
+    "n_a": 3132,
+    "n_b": 976,
+    "lift": 1.36,
+    "jaccard": 0.026
+  },
+  {
+    "pair": "Angular + Azure",
+    "skill_a": "Angular",
+    "skill_b": "Azure",
+    "postings_together": 104,
+    "n_a": 1150,
+    "n_b": 1683,
+    "lift": 2.12,
+    "jaccard": 0.038
+  },
+  {
+    "pair": "Agile/Scrum + Data Modeling",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "Data Modeling",
+    "postings_together": 104,
+    "n_a": 4824,
+    "n_b": 856,
+    "lift": 1.0,
+    "jaccard": 0.019
+  },
+  {
+    "pair": "Docker + Cloud Computing",
+    "skill_a": "Docker",
+    "skill_b": "Cloud Computing",
+    "postings_together": 104,
+    "n_a": 450,
+    "n_b": 3312,
+    "lift": 2.76,
+    "jaccard": 0.028
+  },
+  {
+    "pair": "SQL + Data Visualization",
+    "skill_a": "SQL",
+    "skill_b": "Data Visualization",
+    "postings_together": 104,
+    "n_a": 5690,
+    "n_b": 340,
+    "lift": 2.12,
+    "jaccard": 0.018
+  },
+  {
+    "pair": "Supply Chain Management + Project Management",
+    "skill_a": "Supply Chain Management",
+    "skill_b": "Project Management",
+    "postings_together": 104,
+    "n_a": 661,
+    "n_b": 2650,
+    "lift": 2.35,
+    "jaccard": 0.032
+  },
+  {
+    "pair": "Agile/Scrum + AWS",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "AWS",
+    "postings_together": 103,
+    "n_a": 4824,
+    "n_b": 1470,
+    "lift": 0.57,
+    "jaccard": 0.017
+  },
+  {
+    "pair": "XML/XSLT + SAP",
+    "skill_a": "XML/XSLT",
+    "skill_b": "SAP",
+    "postings_together": 103,
+    "n_a": 962,
+    "n_b": 2642,
+    "lift": 1.6,
+    "jaccard": 0.029
+  },
+  {
+    "pair": "Salesforce + Data Modeling",
+    "skill_a": "Salesforce",
+    "skill_b": "Data Modeling",
+    "postings_together": 102,
+    "n_a": 845,
+    "n_b": 856,
+    "lift": 5.57,
+    "jaccard": 0.064
+  },
+  {
+    "pair": "JavaScript + Project Management",
+    "skill_a": "JavaScript",
+    "skill_b": "Project Management",
+    "postings_together": 102,
+    "n_a": 3953,
+    "n_b": 2650,
+    "lift": 0.38,
+    "jaccard": 0.016
+  },
+  {
+    "pair": "Machine Learning + System Design",
+    "skill_a": "Machine Learning",
+    "skill_b": "System Design",
+    "postings_together": 102,
+    "n_a": 895,
+    "n_b": 1232,
+    "lift": 3.65,
+    "jaccard": 0.05
+  },
+  {
+    "pair": "Risk & Compliance + SAP",
+    "skill_a": "Risk & Compliance",
+    "skill_b": "SAP",
+    "postings_together": 101,
+    "n_a": 951,
+    "n_b": 2642,
+    "lift": 1.59,
+    "jaccard": 0.029
+  },
+  {
+    "pair": "C# + Agile/Scrum",
+    "skill_a": "C#",
+    "skill_b": "Agile/Scrum",
+    "postings_together": 101,
+    "n_a": 1077,
+    "n_b": 4824,
+    "lift": 0.77,
+    "jaccard": 0.017
+  },
+  {
+    "pair": "Java + Node.js",
+    "skill_a": "Java",
+    "skill_b": "Node.js",
+    "postings_together": 101,
+    "n_a": 3132,
+    "n_b": 704,
+    "lift": 1.81,
+    "jaccard": 0.027
+  },
+  {
+    "pair": "PHP + Backend Development",
+    "skill_a": "PHP",
+    "skill_b": "Backend Development",
+    "postings_together": 101,
+    "n_a": 961,
+    "n_b": 1270,
+    "lift": 3.27,
+    "jaccard": 0.047
+  },
+  {
+    "pair": "Procurement + Project Management",
+    "skill_a": "Procurement",
+    "skill_b": "Project Management",
+    "postings_together": 101,
+    "n_a": 442,
+    "n_b": 2650,
+    "lift": 3.41,
+    "jaccard": 0.034
+  },
+  {
+    "pair": "Angular + Microservices",
+    "skill_a": "Angular",
+    "skill_b": "Microservices",
+    "postings_together": 101,
+    "n_a": 1150,
+    "n_b": 889,
+    "lift": 3.9,
+    "jaccard": 0.052
+  },
+  {
+    "pair": "Power BI + Tableau",
+    "skill_a": "Power BI",
+    "skill_b": "Tableau",
+    "postings_together": 100,
+    "n_a": 570,
+    "n_b": 222,
+    "lift": 31.22,
+    "jaccard": 0.145
+  },
+  {
+    "pair": "Software Testing + CI/CD",
+    "skill_a": "Software Testing",
+    "skill_b": "CI/CD",
+    "postings_together": 100,
+    "n_a": 1515,
+    "n_b": 1441,
+    "lift": 1.81,
+    "jaccard": 0.035
+  },
+  {
+    "pair": "SQL + CRM",
+    "skill_a": "SQL",
+    "skill_b": "CRM",
+    "postings_together": 100,
+    "n_a": 5690,
+    "n_b": 601,
+    "lift": 1.16,
+    "jaccard": 0.016
+  },
+  {
+    "pair": "Adobe Creative Suite + HTML/CSS",
+    "skill_a": "Adobe Creative Suite",
+    "skill_b": "HTML/CSS",
+    "postings_together": 99,
+    "n_a": 780,
+    "n_b": 2644,
+    "lift": 1.9,
+    "jaccard": 0.03
+  },
+  {
+    "pair": "Machine Learning + Agile/Scrum",
+    "skill_a": "Machine Learning",
+    "skill_b": "Agile/Scrum",
+    "postings_together": 99,
+    "n_a": 895,
+    "n_b": 4824,
+    "lift": 0.91,
+    "jaccard": 0.018
+  },
+  {
+    "pair": "JavaScript + Quality Control",
+    "skill_a": "JavaScript",
+    "skill_b": "Quality Control",
+    "postings_together": 99,
+    "n_a": 3953,
+    "n_b": 1316,
+    "lift": 0.75,
+    "jaccard": 0.019
+  },
+  {
+    "pair": "TypeScript + HTML/CSS",
+    "skill_a": "TypeScript",
+    "skill_b": "HTML/CSS",
+    "postings_together": 98,
+    "n_a": 298,
+    "n_b": 2644,
+    "lift": 4.91,
+    "jaccard": 0.034
+  },
+  {
+    "pair": "Statistics + Machine Learning",
+    "skill_a": "Statistics",
+    "skill_b": "Machine Learning",
+    "postings_together": 97,
+    "n_a": 289,
+    "n_b": 895,
+    "lift": 14.82,
+    "jaccard": 0.089
+  },
+  {
+    "pair": "Payroll + SAP",
+    "skill_a": "Payroll",
+    "skill_b": "SAP",
+    "postings_together": 97,
+    "n_a": 342,
+    "n_b": 2642,
+    "lift": 4.24,
+    "jaccard": 0.034
+  },
+  {
+    "pair": "Java + Docker",
+    "skill_a": "Java",
+    "skill_b": "Docker",
+    "postings_together": 97,
+    "n_a": 3132,
+    "n_b": 450,
+    "lift": 2.72,
+    "jaccard": 0.028
+  },
+  {
+    "pair": "ETL + Data Analysis",
+    "skill_a": "ETL",
+    "skill_b": "Data Analysis",
+    "postings_together": 97,
+    "n_a": 1001,
+    "n_b": 1619,
+    "lift": 2.36,
+    "jaccard": 0.038
+  },
+  {
+    "pair": "Agile/Scrum + GCP",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "GCP",
+    "postings_together": 97,
+    "n_a": 4824,
+    "n_b": 603,
+    "lift": 1.32,
+    "jaccard": 0.018
+  },
+  {
+    "pair": "Data Modeling + Cloud Computing",
+    "skill_a": "Data Modeling",
+    "skill_b": "Cloud Computing",
+    "postings_together": 97,
+    "n_a": 856,
+    "n_b": 3312,
+    "lift": 1.35,
+    "jaccard": 0.024
+  },
+  {
+    "pair": "Backend Development + Cloud Computing",
+    "skill_a": "Backend Development",
+    "skill_b": "Cloud Computing",
+    "postings_together": 97,
+    "n_a": 1270,
+    "n_b": 3312,
+    "lift": 0.91,
+    "jaccard": 0.022
+  },
+  {
+    "pair": "Kubernetes + Linux",
+    "skill_a": "Kubernetes",
+    "skill_b": "Linux",
+    "postings_together": 97,
+    "n_a": 393,
+    "n_b": 2997,
+    "lift": 3.25,
+    "jaccard": 0.029
+  },
+  {
+    "pair": "Agile/Scrum + Customer Service",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "Customer Service",
+    "postings_together": 96,
+    "n_a": 4824,
+    "n_b": 674,
+    "lift": 1.17,
+    "jaccard": 0.018
+  },
+  {
+    "pair": "System Design + Backend Development",
+    "skill_a": "System Design",
+    "skill_b": "Backend Development",
+    "postings_together": 96,
+    "n_a": 1232,
+    "n_b": 1270,
+    "lift": 2.42,
+    "jaccard": 0.04
+  },
+  {
+    "pair": "Data Modeling + SAP",
+    "skill_a": "Data Modeling",
+    "skill_b": "SAP",
+    "postings_together": 96,
+    "n_a": 856,
+    "n_b": 2642,
+    "lift": 1.68,
+    "jaccard": 0.028
+  },
+  {
+    "pair": "ETL + Oracle",
+    "skill_a": "ETL",
+    "skill_b": "Oracle",
+    "postings_together": 95,
+    "n_a": 1001,
+    "n_b": 1815,
+    "lift": 2.07,
+    "jaccard": 0.035
+  },
+  {
+    "pair": "Python + Statistics",
+    "skill_a": "Python",
+    "skill_b": "Statistics",
+    "postings_together": 95,
+    "n_a": 2499,
+    "n_b": 289,
+    "lift": 5.2,
+    "jaccard": 0.035
+  },
+  {
+    "pair": "Python + REST APIs",
+    "skill_a": "Python",
+    "skill_b": "REST APIs",
+    "postings_together": 95,
+    "n_a": 2499,
+    "n_b": 787,
+    "lift": 1.91,
+    "jaccard": 0.03
+  },
+  {
+    "pair": "Node.js + Backend Development",
+    "skill_a": "Node.js",
+    "skill_b": "Backend Development",
+    "postings_together": 95,
+    "n_a": 704,
+    "n_b": 1270,
+    "lift": 4.2,
+    "jaccard": 0.051
+  },
+  {
+    "pair": "Agile/Scrum + Six Sigma/Lean",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "Six Sigma/Lean",
+    "postings_together": 95,
+    "n_a": 4824,
+    "n_b": 696,
+    "lift": 1.12,
+    "jaccard": 0.018
+  },
+  {
+    "pair": "JavaScript + Salesforce",
+    "skill_a": "JavaScript",
+    "skill_b": "Salesforce",
+    "postings_together": 94,
+    "n_a": 3953,
+    "n_b": 845,
+    "lift": 1.11,
+    "jaccard": 0.02
+  },
+  {
+    "pair": "Linux + Project Management",
+    "skill_a": "Linux",
+    "skill_b": "Project Management",
+    "postings_together": 94,
+    "n_a": 2997,
+    "n_b": 2650,
+    "lift": 0.47,
+    "jaccard": 0.017
+  },
+  {
+    "pair": "Linux + Cybersecurity",
+    "skill_a": "Linux",
+    "skill_b": "Cybersecurity",
+    "postings_together": 94,
+    "n_a": 2997,
+    "n_b": 785,
+    "lift": 1.58,
+    "jaccard": 0.025
+  },
+  {
+    "pair": "Java + Project Management",
+    "skill_a": "Java",
+    "skill_b": "Project Management",
+    "postings_together": 94,
+    "n_a": 3132,
+    "n_b": 2650,
+    "lift": 0.45,
+    "jaccard": 0.017
+  },
+  {
+    "pair": "Azure + Docker",
+    "skill_a": "Azure",
+    "skill_b": "Docker",
+    "postings_together": 93,
+    "n_a": 1683,
+    "n_b": 450,
+    "lift": 4.85,
+    "jaccard": 0.046
+  },
+  {
+    "pair": "System Design + Technical Support",
+    "skill_a": "System Design",
+    "skill_b": "Technical Support",
+    "postings_together": 93,
+    "n_a": 1232,
+    "n_b": 3610,
+    "lift": 0.83,
+    "jaccard": 0.02
+  },
+  {
+    "pair": "Terraform + Cloud Computing",
+    "skill_a": "Terraform",
+    "skill_b": "Cloud Computing",
+    "postings_together": 93,
+    "n_a": 302,
+    "n_b": 3312,
+    "lift": 3.67,
+    "jaccard": 0.026
+  },
+  {
+    "pair": "Spring Boot + Git",
+    "skill_a": "Spring Boot",
+    "skill_b": "Git",
+    "postings_together": 93,
+    "n_a": 1396,
+    "n_b": 1684,
+    "lift": 1.56,
+    "jaccard": 0.031
+  },
+  {
+    "pair": "Technical Support + XML/XSLT",
+    "skill_a": "Technical Support",
+    "skill_b": "XML/XSLT",
+    "postings_together": 93,
+    "n_a": 3610,
+    "n_b": 962,
+    "lift": 1.06,
+    "jaccard": 0.021
+  },
+  {
+    "pair": "HTML/CSS + Oracle",
+    "skill_a": "HTML/CSS",
+    "skill_b": "Oracle",
+    "postings_together": 93,
+    "n_a": 2644,
+    "n_b": 1815,
+    "lift": 0.77,
+    "jaccard": 0.021
+  },
+  {
+    "pair": "Python + Networking",
+    "skill_a": "Python",
+    "skill_b": "Networking",
+    "postings_together": 92,
+    "n_a": 2499,
+    "n_b": 2097,
+    "lift": 0.69,
+    "jaccard": 0.02
+  },
+  {
+    "pair": "Data Analysis + Data Modeling",
+    "skill_a": "Data Analysis",
+    "skill_b": "Data Modeling",
+    "postings_together": 92,
+    "n_a": 1619,
+    "n_b": 856,
+    "lift": 2.62,
+    "jaccard": 0.039
+  },
+  {
+    "pair": ".NET + CI/CD",
+    "skill_a": ".NET",
+    "skill_b": "CI/CD",
+    "postings_together": 92,
+    "n_a": 1662,
+    "n_b": 1441,
+    "lift": 1.52,
+    "jaccard": 0.031
+  },
+  {
+    "pair": "Python + HTML/CSS",
+    "skill_a": "Python",
+    "skill_b": "HTML/CSS",
+    "postings_together": 91,
+    "n_a": 2499,
+    "n_b": 2644,
+    "lift": 0.54,
+    "jaccard": 0.018
+  },
+  {
+    "pair": "ETL + AWS",
+    "skill_a": "ETL",
+    "skill_b": "AWS",
+    "postings_together": 91,
+    "n_a": 1001,
+    "n_b": 1470,
+    "lift": 2.44,
+    "jaccard": 0.038
+  },
+  {
+    "pair": "Figma + Adobe Creative Suite",
+    "skill_a": "Figma",
+    "skill_b": "Adobe Creative Suite",
+    "postings_together": 91,
+    "n_a": 228,
+    "n_b": 780,
+    "lift": 20.22,
+    "jaccard": 0.099
+  },
+  {
+    "pair": "Customer Service + Ticketing Tools",
+    "skill_a": "Customer Service",
+    "skill_b": "Ticketing Tools",
+    "postings_together": 90,
+    "n_a": 674,
+    "n_b": 709,
+    "lift": 7.44,
+    "jaccard": 0.07
+  },
+  {
+    "pair": "GCP + Linux",
+    "skill_a": "GCP",
+    "skill_b": "Linux",
+    "postings_together": 90,
+    "n_a": 603,
+    "n_b": 2997,
+    "lift": 1.97,
+    "jaccard": 0.026
+  },
+  {
+    "pair": "Python + Embedded Systems",
+    "skill_a": "Python",
+    "skill_b": "Embedded Systems",
+    "postings_together": 90,
+    "n_a": 2499,
+    "n_b": 838,
+    "lift": 1.7,
+    "jaccard": 0.028
+  },
+  {
+    "pair": "TypeScript + Node.js",
+    "skill_a": "TypeScript",
+    "skill_b": "Node.js",
+    "postings_together": 90,
+    "n_a": 298,
+    "n_b": 704,
+    "lift": 16.95,
+    "jaccard": 0.099
+  },
+  {
+    "pair": "Python + Docker",
+    "skill_a": "Python",
+    "skill_b": "Docker",
+    "postings_together": 89,
+    "n_a": 2499,
+    "n_b": 450,
+    "lift": 3.13,
+    "jaccard": 0.031
+  },
+  {
+    "pair": "JavaScript + Azure",
+    "skill_a": "JavaScript",
+    "skill_b": "Azure",
+    "postings_together": 89,
+    "n_a": 3953,
+    "n_b": 1683,
+    "lift": 0.53,
+    "jaccard": 0.016
+  },
+  {
+    "pair": "Adobe Creative Suite + UI/UX Design",
+    "skill_a": "Adobe Creative Suite",
+    "skill_b": "UI/UX Design",
+    "postings_together": 89,
+    "n_a": 780,
+    "n_b": 416,
+    "lift": 10.84,
+    "jaccard": 0.08
+  },
+  {
+    "pair": "System Design + Networking",
+    "skill_a": "System Design",
+    "skill_b": "Networking",
+    "postings_together": 89,
+    "n_a": 1232,
+    "n_b": 2097,
+    "lift": 1.36,
+    "jaccard": 0.027
+  },
+  {
+    "pair": "Data Analysis + Six Sigma/Lean",
+    "skill_a": "Data Analysis",
+    "skill_b": "Six Sigma/Lean",
+    "postings_together": 89,
+    "n_a": 1619,
+    "n_b": 696,
+    "lift": 3.12,
+    "jaccard": 0.04
+  },
+  {
+    "pair": "CRM + Salesforce",
+    "skill_a": "CRM",
+    "skill_b": "Salesforce",
+    "postings_together": 89,
+    "n_a": 601,
+    "n_b": 845,
+    "lift": 6.92,
+    "jaccard": 0.066
+  },
+  {
+    "pair": "Azure + Terraform",
+    "skill_a": "Azure",
+    "skill_b": "Terraform",
+    "postings_together": 89,
+    "n_a": 1683,
+    "n_b": 302,
+    "lift": 6.92,
+    "jaccard": 0.047
+  },
+  {
+    "pair": ".NET + REST APIs",
+    "skill_a": ".NET",
+    "skill_b": "REST APIs",
+    "postings_together": 89,
+    "n_a": 1662,
+    "n_b": 787,
+    "lift": 2.69,
+    "jaccard": 0.038
+  },
+  {
+    "pair": "JavaScript + Microservices",
+    "skill_a": "JavaScript",
+    "skill_b": "Microservices",
+    "postings_together": 88,
+    "n_a": 3953,
+    "n_b": 889,
+    "lift": 0.99,
+    "jaccard": 0.019
+  },
+  {
+    "pair": "Java + .NET",
+    "skill_a": "Java",
+    "skill_b": ".NET",
+    "postings_together": 88,
+    "n_a": 3132,
+    "n_b": 1662,
+    "lift": 0.67,
+    "jaccard": 0.019
+  },
+  {
+    "pair": "Power BI + ETL",
+    "skill_a": "Power BI",
+    "skill_b": "ETL",
+    "postings_together": 88,
+    "n_a": 570,
+    "n_b": 1001,
+    "lift": 6.09,
+    "jaccard": 0.059
+  },
+  {
+    "pair": "Quality Control + SAP",
+    "skill_a": "Quality Control",
+    "skill_b": "SAP",
+    "postings_together": 88,
+    "n_a": 1316,
+    "n_b": 2642,
+    "lift": 1.0,
+    "jaccard": 0.023
+  },
+  {
+    "pair": "Docker + Terraform",
+    "skill_a": "Docker",
+    "skill_b": "Terraform",
+    "postings_together": 87,
+    "n_a": 450,
+    "n_b": 302,
+    "lift": 25.29,
+    "jaccard": 0.131
+  },
+  {
+    "pair": "ETL + Linux",
+    "skill_a": "ETL",
+    "skill_b": "Linux",
+    "postings_together": 87,
+    "n_a": 1001,
+    "n_b": 2997,
+    "lift": 1.15,
+    "jaccard": 0.022
+  },
+  {
+    "pair": "Java + Quality Control",
+    "skill_a": "Java",
+    "skill_b": "Quality Control",
+    "postings_together": 87,
+    "n_a": 3132,
+    "n_b": 1316,
+    "lift": 0.83,
+    "jaccard": 0.02
+  },
+  {
+    "pair": "Data Analysis + Technical Support",
+    "skill_a": "Data Analysis",
+    "skill_b": "Technical Support",
+    "postings_together": 87,
+    "n_a": 1619,
+    "n_b": 3610,
+    "lift": 0.59,
+    "jaccard": 0.017
+  },
+  {
+    "pair": "Technical Support + Frontend Development",
+    "skill_a": "Technical Support",
+    "skill_b": "Frontend Development",
+    "postings_together": 86,
+    "n_a": 3610,
+    "n_b": 1548,
+    "lift": 0.61,
+    "jaccard": 0.017
+  },
+  {
+    "pair": "Agile/Scrum + Risk & Compliance",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "Risk & Compliance",
+    "postings_together": 86,
+    "n_a": 4824,
+    "n_b": 951,
+    "lift": 0.74,
+    "jaccard": 0.015
+  },
+  {
+    "pair": "Project Management + Oracle",
+    "skill_a": "Project Management",
+    "skill_b": "Oracle",
+    "postings_together": 86,
+    "n_a": 2650,
+    "n_b": 1815,
+    "lift": 0.71,
+    "jaccard": 0.02
+  },
+  {
+    "pair": "Project Management + HTML/CSS",
+    "skill_a": "Project Management",
+    "skill_b": "HTML/CSS",
+    "postings_together": 86,
+    "n_a": 2650,
+    "n_b": 2644,
+    "lift": 0.48,
+    "jaccard": 0.017
+  },
+  {
+    "pair": "Procurement + SAP",
+    "skill_a": "Procurement",
+    "skill_b": "SAP",
+    "postings_together": 86,
+    "n_a": 442,
+    "n_b": 2642,
+    "lift": 2.91,
+    "jaccard": 0.029
+  },
+  {
+    "pair": "REST APIs + Git",
+    "skill_a": "REST APIs",
+    "skill_b": "Git",
+    "postings_together": 86,
+    "n_a": 787,
+    "n_b": 1684,
+    "lift": 2.56,
+    "jaccard": 0.036
+  },
+  {
+    "pair": "Python + Kubernetes",
+    "skill_a": "Python",
+    "skill_b": "Kubernetes",
+    "postings_together": 86,
+    "n_a": 2499,
+    "n_b": 393,
+    "lift": 3.46,
+    "jaccard": 0.031
+  },
+  {
+    "pair": "SQL + Django/Flask",
+    "skill_a": "SQL",
+    "skill_b": "Django/Flask",
+    "postings_together": 86,
+    "n_a": 5690,
+    "n_b": 315,
+    "lift": 1.9,
+    "jaccard": 0.015
+  },
+  {
+    "pair": "Adobe Creative Suite + AutoCAD/CAD",
+    "skill_a": "Adobe Creative Suite",
+    "skill_b": "AutoCAD/CAD",
+    "postings_together": 85,
+    "n_a": 780,
+    "n_b": 993,
+    "lift": 4.34,
+    "jaccard": 0.05
+  },
+  {
+    "pair": "Social Media Marketing + Adobe Creative Suite",
+    "skill_a": "Social Media Marketing",
+    "skill_b": "Adobe Creative Suite",
+    "postings_together": 84,
+    "n_a": 333,
+    "n_b": 780,
+    "lift": 12.78,
+    "jaccard": 0.082
+  },
+  {
+    "pair": "REST APIs + AWS",
+    "skill_a": "REST APIs",
+    "skill_b": "AWS",
+    "postings_together": 84,
+    "n_a": 787,
+    "n_b": 1470,
+    "lift": 2.87,
+    "jaccard": 0.039
+  },
+  {
+    "pair": "REST APIs + Cloud Computing",
+    "skill_a": "REST APIs",
+    "skill_b": "Cloud Computing",
+    "postings_together": 84,
+    "n_a": 787,
+    "n_b": 3312,
+    "lift": 1.27,
+    "jaccard": 0.021
+  },
+  {
+    "pair": "React + Microservices",
+    "skill_a": "React",
+    "skill_b": "Microservices",
+    "postings_together": 84,
+    "n_a": 1259,
+    "n_b": 889,
+    "lift": 2.97,
+    "jaccard": 0.041
+  },
+  {
+    "pair": "Agile/Scrum + Supply Chain Management",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "Supply Chain Management",
+    "postings_together": 84,
+    "n_a": 4824,
+    "n_b": 661,
+    "lift": 1.04,
+    "jaccard": 0.016
+  },
+  {
+    "pair": "Angular + Agile/Scrum",
+    "skill_a": "Angular",
+    "skill_b": "Agile/Scrum",
+    "postings_together": 84,
+    "n_a": 1150,
+    "n_b": 4824,
+    "lift": 0.6,
+    "jaccard": 0.014
+  },
+  {
+    "pair": "Angular + Cloud Computing",
+    "skill_a": "Angular",
+    "skill_b": "Cloud Computing",
+    "postings_together": 84,
+    "n_a": 1150,
+    "n_b": 3312,
+    "lift": 0.87,
+    "jaccard": 0.019
+  },
+  {
+    "pair": "Power BI + Data Visualization",
+    "skill_a": "Power BI",
+    "skill_b": "Data Visualization",
+    "postings_together": 84,
+    "n_a": 570,
+    "n_b": 340,
+    "lift": 17.12,
+    "jaccard": 0.102
+  },
+  {
+    "pair": "SQL + Quality Control",
+    "skill_a": "SQL",
+    "skill_b": "Quality Control",
+    "postings_together": 84,
+    "n_a": 5690,
+    "n_b": 1316,
+    "lift": 0.44,
+    "jaccard": 0.012
+  },
+  {
+    "pair": "Docker + Linux",
+    "skill_a": "Docker",
+    "skill_b": "Linux",
+    "postings_together": 84,
+    "n_a": 450,
+    "n_b": 2997,
+    "lift": 2.46,
+    "jaccard": 0.025
+  },
+  {
+    "pair": "Networking + SAP",
+    "skill_a": "Networking",
+    "skill_b": "SAP",
+    "postings_together": 84,
+    "n_a": 2097,
+    "n_b": 2642,
+    "lift": 0.6,
+    "jaccard": 0.018
+  },
+  {
+    "pair": "GCP + CI/CD",
+    "skill_a": "GCP",
+    "skill_b": "CI/CD",
+    "postings_together": 84,
+    "n_a": 603,
+    "n_b": 1441,
+    "lift": 3.82,
+    "jaccard": 0.043
+  },
+  {
+    "pair": "Kubernetes + Terraform",
+    "skill_a": "Kubernetes",
+    "skill_b": "Terraform",
+    "postings_together": 83,
+    "n_a": 393,
+    "n_b": 302,
+    "lift": 27.63,
+    "jaccard": 0.136
+  },
+  {
+    "pair": "CI/CD + Technical Support",
+    "skill_a": "CI/CD",
+    "skill_b": "Technical Support",
+    "postings_together": 83,
+    "n_a": 1441,
+    "n_b": 3610,
+    "lift": 0.63,
+    "jaccard": 0.017
+  },
+  {
+    "pair": "ETL + Technical Support",
+    "skill_a": "ETL",
+    "skill_b": "Technical Support",
+    "postings_together": 83,
+    "n_a": 1001,
+    "n_b": 3610,
+    "lift": 0.91,
+    "jaccard": 0.018
+  },
+  {
+    "pair": "Azure + Technical Support",
+    "skill_a": "Azure",
+    "skill_b": "Technical Support",
+    "postings_together": 82,
+    "n_a": 1683,
+    "n_b": 3610,
+    "lift": 0.53,
+    "jaccard": 0.016
+  },
+  {
+    "pair": "Azure + Networking",
+    "skill_a": "Azure",
+    "skill_b": "Networking",
+    "postings_together": 82,
+    "n_a": 1683,
+    "n_b": 2097,
+    "lift": 0.92,
+    "jaccard": 0.022
+  },
+  {
+    "pair": "SQL + Supply Chain Management",
+    "skill_a": "SQL",
+    "skill_b": "Supply Chain Management",
+    "postings_together": 82,
+    "n_a": 5690,
+    "n_b": 661,
+    "lift": 0.86,
+    "jaccard": 0.013
+  },
+  {
+    "pair": "Networking + Customer Service",
+    "skill_a": "Networking",
+    "skill_b": "Customer Service",
+    "postings_together": 82,
+    "n_a": 2097,
+    "n_b": 674,
+    "lift": 2.29,
+    "jaccard": 0.03
+  },
+  {
+    "pair": "SQL + Excel",
+    "skill_a": "SQL",
+    "skill_b": "Excel",
+    "postings_together": 82,
+    "n_a": 5690,
+    "n_b": 519,
+    "lift": 1.1,
+    "jaccard": 0.013
+  },
+  {
+    "pair": "Java + Kubernetes",
+    "skill_a": "Java",
+    "skill_b": "Kubernetes",
+    "postings_together": 82,
+    "n_a": 3132,
+    "n_b": 393,
+    "lift": 2.63,
+    "jaccard": 0.024
+  },
+  {
+    "pair": "Six Sigma/Lean + Technical Support",
+    "skill_a": "Six Sigma/Lean",
+    "skill_b": "Technical Support",
+    "postings_together": 82,
+    "n_a": 696,
+    "n_b": 3610,
+    "lift": 1.29,
+    "jaccard": 0.019
+  },
+  {
+    "pair": "UI/UX Design + HTML/CSS",
+    "skill_a": "UI/UX Design",
+    "skill_b": "HTML/CSS",
+    "postings_together": 81,
+    "n_a": 416,
+    "n_b": 2644,
+    "lift": 2.91,
+    "jaccard": 0.027
+  },
+  {
+    "pair": "React + jQuery",
+    "skill_a": "React",
+    "skill_b": "jQuery",
+    "postings_together": 81,
+    "n_a": 1259,
+    "n_b": 976,
+    "lift": 2.6,
+    "jaccard": 0.038
+  },
+  {
+    "pair": "Risk & Compliance + Cloud Computing",
+    "skill_a": "Risk & Compliance",
+    "skill_b": "Cloud Computing",
+    "postings_together": 81,
+    "n_a": 951,
+    "n_b": 3312,
+    "lift": 1.02,
+    "jaccard": 0.019
+  },
+  {
+    "pair": "ETL + Hadoop",
+    "skill_a": "ETL",
+    "skill_b": "Hadoop",
+    "postings_together": 80,
+    "n_a": 1001,
+    "n_b": 434,
+    "lift": 7.28,
+    "jaccard": 0.059
+  },
+  {
+    "pair": "Angular + REST APIs",
+    "skill_a": "Angular",
+    "skill_b": "REST APIs",
+    "postings_together": 80,
+    "n_a": 1150,
+    "n_b": 787,
+    "lift": 3.49,
+    "jaccard": 0.043
+  },
+  {
+    "pair": "Data Warehousing + Data Modeling",
+    "skill_a": "Data Warehousing",
+    "skill_b": "Data Modeling",
+    "postings_together": 80,
+    "n_a": 654,
+    "n_b": 856,
+    "lift": 5.65,
+    "jaccard": 0.056
+  },
+  {
+    "pair": "REST APIs + Agile/Scrum",
+    "skill_a": "REST APIs",
+    "skill_b": "Agile/Scrum",
+    "postings_together": 80,
+    "n_a": 787,
+    "n_b": 4824,
+    "lift": 0.83,
+    "jaccard": 0.014
+  },
+  {
+    "pair": "System Design + HTML/CSS",
+    "skill_a": "System Design",
+    "skill_b": "HTML/CSS",
+    "postings_together": 79,
+    "n_a": 1232,
+    "n_b": 2644,
+    "lift": 0.96,
+    "jaccard": 0.021
+  },
+  {
+    "pair": "Data Warehousing + Azure",
+    "skill_a": "Data Warehousing",
+    "skill_b": "Azure",
+    "postings_together": 79,
+    "n_a": 654,
+    "n_b": 1683,
+    "lift": 2.84,
+    "jaccard": 0.035
+  },
+  {
+    "pair": "Project Management + Customer Service",
+    "skill_a": "Project Management",
+    "skill_b": "Customer Service",
+    "postings_together": 79,
+    "n_a": 2650,
+    "n_b": 674,
+    "lift": 1.75,
+    "jaccard": 0.024
+  },
+  {
+    "pair": "Power BI + Azure",
+    "skill_a": "Power BI",
+    "skill_b": "Azure",
+    "postings_together": 79,
+    "n_a": 570,
+    "n_b": 1683,
+    "lift": 3.25,
+    "jaccard": 0.036
+  },
+  {
+    "pair": "Data Analysis + Cloud Computing",
+    "skill_a": "Data Analysis",
+    "skill_b": "Cloud Computing",
+    "postings_together": 79,
+    "n_a": 1619,
+    "n_b": 3312,
+    "lift": 0.58,
+    "jaccard": 0.016
+  },
+  {
+    "pair": "Six Sigma/Lean + Quality Control",
+    "skill_a": "Six Sigma/Lean",
+    "skill_b": "Quality Control",
+    "postings_together": 79,
+    "n_a": 696,
+    "n_b": 1316,
+    "lift": 3.41,
+    "jaccard": 0.041
+  },
+  {
+    "pair": "Data Warehousing + Data Analysis",
+    "skill_a": "Data Warehousing",
+    "skill_b": "Data Analysis",
+    "postings_together": 78,
+    "n_a": 654,
+    "n_b": 1619,
+    "lift": 2.91,
+    "jaccard": 0.036
+  },
+  {
+    "pair": "Excel + Project Management",
+    "skill_a": "Excel",
+    "skill_b": "Project Management",
+    "postings_together": 78,
+    "n_a": 519,
+    "n_b": 2650,
+    "lift": 2.24,
+    "jaccard": 0.025
+  },
+  {
+    "pair": "Machine Learning + Cloud Computing",
+    "skill_a": "Machine Learning",
+    "skill_b": "Cloud Computing",
+    "postings_together": 78,
+    "n_a": 895,
+    "n_b": 3312,
+    "lift": 1.04,
+    "jaccard": 0.019
+  },
+  {
+    "pair": ".NET + AWS",
+    "skill_a": ".NET",
+    "skill_b": "AWS",
+    "postings_together": 78,
+    "n_a": 1662,
+    "n_b": 1470,
+    "lift": 1.26,
+    "jaccard": 0.026
+  },
+  {
+    "pair": "Auditing + Risk & Compliance",
+    "skill_a": "Auditing",
+    "skill_b": "Risk & Compliance",
+    "postings_together": 78,
+    "n_a": 271,
+    "n_b": 951,
+    "lift": 11.96,
+    "jaccard": 0.068
+  },
+  {
+    "pair": "Linux + Backend Development",
+    "skill_a": "Linux",
+    "skill_b": "Backend Development",
+    "postings_together": 78,
+    "n_a": 2997,
+    "n_b": 1270,
+    "lift": 0.81,
+    "jaccard": 0.019
+  },
+  {
+    "pair": "Azure + Kubernetes",
+    "skill_a": "Azure",
+    "skill_b": "Kubernetes",
+    "postings_together": 78,
+    "n_a": 1683,
+    "n_b": 393,
+    "lift": 4.66,
+    "jaccard": 0.039
+  },
+  {
+    "pair": "Supply Chain Management + Technical Support",
+    "skill_a": "Supply Chain Management",
+    "skill_b": "Technical Support",
+    "postings_together": 77,
+    "n_a": 661,
+    "n_b": 3610,
+    "lift": 1.27,
+    "jaccard": 0.018
+  },
+  {
+    "pair": "Hadoop + Azure",
+    "skill_a": "Hadoop",
+    "skill_b": "Azure",
+    "postings_together": 77,
+    "n_a": 434,
+    "n_b": 1683,
+    "lift": 4.16,
+    "jaccard": 0.038
+  },
+  {
+    "pair": "Machine Learning + C++",
+    "skill_a": "Machine Learning",
+    "skill_b": "C++",
+    "postings_together": 77,
+    "n_a": 895,
+    "n_b": 1448,
+    "lift": 2.35,
+    "jaccard": 0.034
+  },
+  {
+    "pair": "Node.js + Git",
+    "skill_a": "Node.js",
+    "skill_b": "Git",
+    "postings_together": 77,
+    "n_a": 704,
+    "n_b": 1684,
+    "lift": 2.57,
+    "jaccard": 0.033
+  },
+  {
+    "pair": "JavaScript + Ticketing Tools",
+    "skill_a": "JavaScript",
+    "skill_b": "Ticketing Tools",
+    "postings_together": 76,
+    "n_a": 3953,
+    "n_b": 709,
+    "lift": 1.07,
+    "jaccard": 0.017
+  },
+  {
+    "pair": "C++ + HTML/CSS",
+    "skill_a": "C++",
+    "skill_b": "HTML/CSS",
+    "postings_together": 76,
+    "n_a": 1448,
+    "n_b": 2644,
+    "lift": 0.78,
+    "jaccard": 0.019
+  },
+  {
+    "pair": "Agile/Scrum + Embedded Systems",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "Embedded Systems",
+    "postings_together": 76,
+    "n_a": 4824,
+    "n_b": 838,
+    "lift": 0.74,
+    "jaccard": 0.014
+  },
+  {
+    "pair": "C++ + Git",
+    "skill_a": "C++",
+    "skill_b": "Git",
+    "postings_together": 76,
+    "n_a": 1448,
+    "n_b": 1684,
+    "lift": 1.23,
+    "jaccard": 0.025
+  },
+  {
+    "pair": "Risk & Compliance + Technical Support",
+    "skill_a": "Risk & Compliance",
+    "skill_b": "Technical Support",
+    "postings_together": 76,
+    "n_a": 951,
+    "n_b": 3610,
+    "lift": 0.87,
+    "jaccard": 0.017
+  },
+  {
+    "pair": "Spark + Data Analysis",
+    "skill_a": "Spark",
+    "skill_b": "Data Analysis",
+    "postings_together": 76,
+    "n_a": 567,
+    "n_b": 1619,
+    "lift": 3.27,
+    "jaccard": 0.036
+  },
+  {
+    "pair": "Spark + Cloud Computing",
+    "skill_a": "Spark",
+    "skill_b": "Cloud Computing",
+    "postings_together": 75,
+    "n_a": 567,
+    "n_b": 3312,
+    "lift": 1.58,
+    "jaccard": 0.02
+  },
+  {
+    "pair": "React + Azure",
+    "skill_a": "React",
+    "skill_b": "Azure",
+    "postings_together": 75,
+    "n_a": 1259,
+    "n_b": 1683,
+    "lift": 1.4,
+    "jaccard": 0.026
+  },
+  {
+    "pair": "Terraform + Linux",
+    "skill_a": "Terraform",
+    "skill_b": "Linux",
+    "postings_together": 75,
+    "n_a": 302,
+    "n_b": 2997,
+    "lift": 3.27,
+    "jaccard": 0.023
+  },
+  {
+    "pair": "Java + C#",
+    "skill_a": "Java",
+    "skill_b": "C#",
+    "postings_together": 75,
+    "n_a": 3132,
+    "n_b": 1077,
+    "lift": 0.88,
+    "jaccard": 0.018
+  },
+  {
+    "pair": "Spring Boot + Oracle",
+    "skill_a": "Spring Boot",
+    "skill_b": "Oracle",
+    "postings_together": 74,
+    "n_a": 1396,
+    "n_b": 1815,
+    "lift": 1.15,
+    "jaccard": 0.024
+  },
+  {
+    "pair": "Spring Boot + jQuery",
+    "skill_a": "Spring Boot",
+    "skill_b": "jQuery",
+    "postings_together": 74,
+    "n_a": 1396,
+    "n_b": 976,
+    "lift": 2.15,
+    "jaccard": 0.032
+  },
+  {
+    "pair": "SQL + Docker",
+    "skill_a": "SQL",
+    "skill_b": "Docker",
+    "postings_together": 73,
+    "n_a": 5690,
+    "n_b": 450,
+    "lift": 1.13,
+    "jaccard": 0.012
+  },
+  {
+    "pair": "Microservices + Azure",
+    "skill_a": "Microservices",
+    "skill_b": "Azure",
+    "postings_together": 73,
+    "n_a": 889,
+    "n_b": 1683,
+    "lift": 1.93,
+    "jaccard": 0.029
+  },
+  {
+    "pair": "Excel + Power BI",
+    "skill_a": "Excel",
+    "skill_b": "Power BI",
+    "postings_together": 73,
+    "n_a": 519,
+    "n_b": 570,
+    "lift": 9.75,
+    "jaccard": 0.072
+  },
+  {
+    "pair": "Python + React",
+    "skill_a": "Python",
+    "skill_b": "React",
+    "postings_together": 73,
+    "n_a": 2499,
+    "n_b": 1259,
+    "lift": 0.92,
+    "jaccard": 0.02
+  },
+  {
+    "pair": ".NET + Microservices",
+    "skill_a": ".NET",
+    "skill_b": "Microservices",
+    "postings_together": 73,
+    "n_a": 1662,
+    "n_b": 889,
+    "lift": 1.95,
+    "jaccard": 0.029
+  },
+  {
+    "pair": "Agile/Scrum + SAP ABAP",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "SAP ABAP",
+    "postings_together": 73,
+    "n_a": 4824,
+    "n_b": 818,
+    "lift": 0.73,
+    "jaccard": 0.013
+  },
+  {
+    "pair": "Salesforce + HTML/CSS",
+    "skill_a": "Salesforce",
+    "skill_b": "HTML/CSS",
+    "postings_together": 72,
+    "n_a": 845,
+    "n_b": 2644,
+    "lift": 1.27,
+    "jaccard": 0.021
+  },
+  {
+    "pair": "Data Warehousing + GCP",
+    "skill_a": "Data Warehousing",
+    "skill_b": "GCP",
+    "postings_together": 72,
+    "n_a": 654,
+    "n_b": 603,
+    "lift": 7.21,
+    "jaccard": 0.061
+  },
+  {
+    "pair": ".NET + Git",
+    "skill_a": ".NET",
+    "skill_b": "Git",
+    "postings_together": 72,
+    "n_a": 1662,
+    "n_b": 1684,
+    "lift": 1.02,
+    "jaccard": 0.022
+  },
+  {
+    "pair": "Python + Power BI",
+    "skill_a": "Python",
+    "skill_b": "Power BI",
+    "postings_together": 72,
+    "n_a": 2499,
+    "n_b": 570,
+    "lift": 2.0,
+    "jaccard": 0.024
+  },
+  {
+    "pair": "Microservices + Docker",
+    "skill_a": "Microservices",
+    "skill_b": "Docker",
+    "postings_together": 72,
+    "n_a": 889,
+    "n_b": 450,
+    "lift": 7.11,
+    "jaccard": 0.057
+  },
+  {
+    "pair": "Node.js + Frontend Development",
+    "skill_a": "Node.js",
+    "skill_b": "Frontend Development",
+    "postings_together": 72,
+    "n_a": 704,
+    "n_b": 1548,
+    "lift": 2.61,
+    "jaccard": 0.033
+  },
+  {
+    "pair": "Microservices + CI/CD",
+    "skill_a": "Microservices",
+    "skill_b": "CI/CD",
+    "postings_together": 72,
+    "n_a": 889,
+    "n_b": 1441,
+    "lift": 2.22,
+    "jaccard": 0.032
+  },
+  {
+    "pair": "Linux + PHP",
+    "skill_a": "Linux",
+    "skill_b": "PHP",
+    "postings_together": 71,
+    "n_a": 2997,
+    "n_b": 961,
+    "lift": 0.97,
+    "jaccard": 0.018
+  },
+  {
+    "pair": "JavaScript + CRM",
+    "skill_a": "JavaScript",
+    "skill_b": "CRM",
+    "postings_together": 71,
+    "n_a": 3953,
+    "n_b": 601,
+    "lift": 1.18,
+    "jaccard": 0.016
+  },
+  {
+    "pair": "C++ + Cloud Computing",
+    "skill_a": "C++",
+    "skill_b": "Cloud Computing",
+    "postings_together": 71,
+    "n_a": 1448,
+    "n_b": 3312,
+    "lift": 0.58,
+    "jaccard": 0.015
+  },
+  {
+    "pair": "Git + jQuery",
+    "skill_a": "Git",
+    "skill_b": "jQuery",
+    "postings_together": 71,
+    "n_a": 1684,
+    "n_b": 976,
+    "lift": 1.71,
+    "jaccard": 0.027
+  },
+  {
+    "pair": "TypeScript + Frontend Development",
+    "skill_a": "TypeScript",
+    "skill_b": "Frontend Development",
+    "postings_together": 70,
+    "n_a": 298,
+    "n_b": 1548,
+    "lift": 6.0,
+    "jaccard": 0.039
+  },
+  {
+    "pair": "Git + GCP",
+    "skill_a": "Git",
+    "skill_b": "GCP",
+    "postings_together": 70,
+    "n_a": 1684,
+    "n_b": 603,
+    "lift": 2.72,
+    "jaccard": 0.032
+  },
+  {
+    "pair": "Frontend Development + Cloud Computing",
+    "skill_a": "Frontend Development",
+    "skill_b": "Cloud Computing",
+    "postings_together": 70,
+    "n_a": 1548,
+    "n_b": 3312,
+    "lift": 0.54,
+    "jaccard": 0.015
+  },
+  {
+    "pair": "Risk & Compliance + Quality Control",
+    "skill_a": "Risk & Compliance",
+    "skill_b": "Quality Control",
+    "postings_together": 69,
+    "n_a": 951,
+    "n_b": 1316,
+    "lift": 2.18,
+    "jaccard": 0.031
+  },
+  {
+    "pair": "C# + REST APIs",
+    "skill_a": "C#",
+    "skill_b": "REST APIs",
+    "postings_together": 69,
+    "n_a": 1077,
+    "n_b": 787,
+    "lift": 3.22,
+    "jaccard": 0.038
+  },
+  {
+    "pair": "C# + CI/CD",
+    "skill_a": "C#",
+    "skill_b": "CI/CD",
+    "postings_together": 69,
+    "n_a": 1077,
+    "n_b": 1441,
+    "lift": 1.76,
+    "jaccard": 0.028
+  },
+  {
+    "pair": "Git + Docker",
+    "skill_a": "Git",
+    "skill_b": "Docker",
+    "postings_together": 69,
+    "n_a": 1684,
+    "n_b": 450,
+    "lift": 3.6,
+    "jaccard": 0.033
+  },
+  {
+    "pair": "Agile/Scrum + PHP",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "PHP",
+    "postings_together": 69,
+    "n_a": 4824,
+    "n_b": 961,
+    "lift": 0.59,
+    "jaccard": 0.012
+  },
+  {
+    "pair": "AWS + Technical Support",
+    "skill_a": "AWS",
+    "skill_b": "Technical Support",
+    "postings_together": 69,
+    "n_a": 1470,
+    "n_b": 3610,
+    "lift": 0.51,
+    "jaccard": 0.014
+  },
+  {
+    "pair": "Angular + AWS",
+    "skill_a": "Angular",
+    "skill_b": "AWS",
+    "postings_together": 69,
+    "n_a": 1150,
+    "n_b": 1470,
+    "lift": 1.61,
+    "jaccard": 0.027
+  },
+  {
+    "pair": "Spring Boot + Linux",
+    "skill_a": "Spring Boot",
+    "skill_b": "Linux",
+    "postings_together": 68,
+    "n_a": 1396,
+    "n_b": 2997,
+    "lift": 0.64,
+    "jaccard": 0.016
+  },
+  {
+    "pair": "Python + Oracle",
+    "skill_a": "Python",
+    "skill_b": "Oracle",
+    "postings_together": 68,
+    "n_a": 2499,
+    "n_b": 1815,
+    "lift": 0.59,
+    "jaccard": 0.016
+  },
+  {
+    "pair": "Linux + Quality Control",
+    "skill_a": "Linux",
+    "skill_b": "Quality Control",
+    "postings_together": 68,
+    "n_a": 2997,
+    "n_b": 1316,
+    "lift": 0.68,
+    "jaccard": 0.016
+  },
+  {
+    "pair": "Data Modeling + Oracle",
+    "skill_a": "Data Modeling",
+    "skill_b": "Oracle",
+    "postings_together": 68,
+    "n_a": 856,
+    "n_b": 1815,
+    "lift": 1.73,
+    "jaccard": 0.026
+  },
+  {
+    "pair": "Machine Learning + Computer Vision",
+    "skill_a": "Machine Learning",
+    "skill_b": "Computer Vision",
+    "postings_together": 68,
+    "n_a": 895,
+    "n_b": 137,
+    "lift": 21.91,
+    "jaccard": 0.071
+  },
+  {
+    "pair": "Data Warehousing + Oracle",
+    "skill_a": "Data Warehousing",
+    "skill_b": "Oracle",
+    "postings_together": 68,
+    "n_a": 654,
+    "n_b": 1815,
+    "lift": 2.26,
+    "jaccard": 0.028
+  },
+  {
+    "pair": "Microservices + Backend Development",
+    "skill_a": "Microservices",
+    "skill_b": "Backend Development",
+    "postings_together": 67,
+    "n_a": 889,
+    "n_b": 1270,
+    "lift": 2.34,
+    "jaccard": 0.032
+  },
+  {
+    "pair": "System Design + Cloud Computing",
+    "skill_a": "System Design",
+    "skill_b": "Cloud Computing",
+    "postings_together": 67,
+    "n_a": 1232,
+    "n_b": 3312,
+    "lift": 0.65,
+    "jaccard": 0.015
+  },
+  {
+    "pair": "Supply Chain Management + Procurement",
+    "skill_a": "Supply Chain Management",
+    "skill_b": "Procurement",
+    "postings_together": 66,
+    "n_a": 661,
+    "n_b": 442,
+    "lift": 8.93,
+    "jaccard": 0.064
+  },
+  {
+    "pair": "C# + React",
+    "skill_a": "C#",
+    "skill_b": "React",
+    "postings_together": 66,
+    "n_a": 1077,
+    "n_b": 1259,
+    "lift": 1.92,
+    "jaccard": 0.029
+  },
+  {
+    "pair": "Hadoop + Cloud Computing",
+    "skill_a": "Hadoop",
+    "skill_b": "Cloud Computing",
+    "postings_together": 66,
+    "n_a": 434,
+    "n_b": 3312,
+    "lift": 1.81,
+    "jaccard": 0.018
+  },
+  {
+    "pair": "System Design + Frontend Development",
+    "skill_a": "System Design",
+    "skill_b": "Frontend Development",
+    "postings_together": 66,
+    "n_a": 1232,
+    "n_b": 1548,
+    "lift": 1.37,
+    "jaccard": 0.024
+  },
+  {
+    "pair": "System Design + Embedded Systems",
+    "skill_a": "System Design",
+    "skill_b": "Embedded Systems",
+    "postings_together": 66,
+    "n_a": 1232,
+    "n_b": 838,
+    "lift": 2.53,
+    "jaccard": 0.033
+  },
+  {
+    "pair": "Technical Support + Backend Development",
+    "skill_a": "Technical Support",
+    "skill_b": "Backend Development",
+    "postings_together": 66,
+    "n_a": 3610,
+    "n_b": 1270,
+    "lift": 0.57,
+    "jaccard": 0.014
+  },
+  {
+    "pair": "Spring Boot + CI/CD",
+    "skill_a": "Spring Boot",
+    "skill_b": "CI/CD",
+    "postings_together": 65,
+    "n_a": 1396,
+    "n_b": 1441,
+    "lift": 1.28,
+    "jaccard": 0.023
+  },
+  {
+    "pair": "CRM + SAP",
+    "skill_a": "CRM",
+    "skill_b": "SAP",
+    "postings_together": 65,
+    "n_a": 601,
+    "n_b": 2642,
+    "lift": 1.62,
+    "jaccard": 0.02
+  },
+  {
+    "pair": "React + CI/CD",
+    "skill_a": "React",
+    "skill_b": "CI/CD",
+    "postings_together": 65,
+    "n_a": 1259,
+    "n_b": 1441,
+    "lift": 1.42,
+    "jaccard": 0.025
+  },
+  {
+    "pair": "Linux + Customer Service",
+    "skill_a": "Linux",
+    "skill_b": "Customer Service",
+    "postings_together": 65,
+    "n_a": 2997,
+    "n_b": 674,
+    "lift": 1.27,
+    "jaccard": 0.018
+  },
+  {
+    "pair": "REST APIs + Backend Development",
+    "skill_a": "REST APIs",
+    "skill_b": "Backend Development",
+    "postings_together": 65,
+    "n_a": 787,
+    "n_b": 1270,
+    "lift": 2.57,
+    "jaccard": 0.033
+  },
+  {
+    "pair": "Node.js + PHP",
+    "skill_a": "Node.js",
+    "skill_b": "PHP",
+    "postings_together": 65,
+    "n_a": 704,
+    "n_b": 961,
+    "lift": 3.8,
+    "jaccard": 0.041
+  },
+  {
+    "pair": "Agile/Scrum + Android",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "Android",
+    "postings_together": 65,
+    "n_a": 4824,
+    "n_b": 556,
+    "lift": 0.96,
+    "jaccard": 0.012
+  },
+  {
+    "pair": "Tableau + Data Analysis",
+    "skill_a": "Tableau",
+    "skill_b": "Data Analysis",
+    "postings_together": 65,
+    "n_a": 222,
+    "n_b": 1619,
+    "lift": 7.15,
+    "jaccard": 0.037
+  },
+  {
+    "pair": "Agile/Scrum + CRM",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "CRM",
+    "postings_together": 65,
+    "n_a": 4824,
+    "n_b": 601,
+    "lift": 0.89,
+    "jaccard": 0.012
+  },
+  {
+    "pair": "React + iOS",
+    "skill_a": "React",
+    "skill_b": "iOS",
+    "postings_together": 64,
+    "n_a": 1259,
+    "n_b": 406,
+    "lift": 4.95,
+    "jaccard": 0.04
+  },
+  {
+    "pair": "Project Management + AutoCAD/CAD",
+    "skill_a": "Project Management",
+    "skill_b": "AutoCAD/CAD",
+    "postings_together": 64,
+    "n_a": 2650,
+    "n_b": 993,
+    "lift": 0.96,
+    "jaccard": 0.018
+  },
+  {
+    "pair": "Python + Terraform",
+    "skill_a": "Python",
+    "skill_b": "Terraform",
+    "postings_together": 63,
+    "n_a": 2499,
+    "n_b": 302,
+    "lift": 3.3,
+    "jaccard": 0.023
+  },
+  {
+    "pair": "Networking + Embedded Systems",
+    "skill_a": "Networking",
+    "skill_b": "Embedded Systems",
+    "postings_together": 63,
+    "n_a": 2097,
+    "n_b": 838,
+    "lift": 1.42,
+    "jaccard": 0.022
+  },
+  {
+    "pair": "React + PHP",
+    "skill_a": "React",
+    "skill_b": "PHP",
+    "postings_together": 63,
+    "n_a": 1259,
+    "n_b": 961,
+    "lift": 2.06,
+    "jaccard": 0.029
+  },
+  {
+    "pair": "HTML/CSS + SAP",
+    "skill_a": "HTML/CSS",
+    "skill_b": "SAP",
+    "postings_together": 63,
+    "n_a": 2644,
+    "n_b": 2642,
+    "lift": 0.36,
+    "jaccard": 0.012
+  },
+  {
+    "pair": "Cybersecurity + Technical Support",
+    "skill_a": "Cybersecurity",
+    "skill_b": "Technical Support",
+    "postings_together": 62,
+    "n_a": 785,
+    "n_b": 3610,
+    "lift": 0.86,
+    "jaccard": 0.014
+  },
+  {
+    "pair": "Spring Boot + XML/XSLT",
+    "skill_a": "Spring Boot",
+    "skill_b": "XML/XSLT",
+    "postings_together": 62,
+    "n_a": 1396,
+    "n_b": 962,
+    "lift": 1.82,
+    "jaccard": 0.027
+  },
+  {
+    "pair": "XML/XSLT + Cloud Computing",
+    "skill_a": "XML/XSLT",
+    "skill_b": "Cloud Computing",
+    "postings_together": 62,
+    "n_a": 962,
+    "n_b": 3312,
+    "lift": 0.77,
+    "jaccard": 0.015
+  },
+  {
+    "pair": "Git + XML/XSLT",
+    "skill_a": "Git",
+    "skill_b": "XML/XSLT",
+    "postings_together": 62,
+    "n_a": 1684,
+    "n_b": 962,
+    "lift": 1.51,
+    "jaccard": 0.024
+  },
+  {
+    "pair": "Agile/Scrum + Ticketing Tools",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "Ticketing Tools",
+    "postings_together": 62,
+    "n_a": 4824,
+    "n_b": 709,
+    "lift": 0.72,
+    "jaccard": 0.011
+  },
+  {
+    "pair": "Git + System Design",
+    "skill_a": "Git",
+    "skill_b": "System Design",
+    "postings_together": 62,
+    "n_a": 1684,
+    "n_b": 1232,
+    "lift": 1.18,
+    "jaccard": 0.022
+  },
+  {
+    "pair": "Software Testing + Cloud Computing",
+    "skill_a": "Software Testing",
+    "skill_b": "Cloud Computing",
+    "postings_together": 62,
+    "n_a": 1515,
+    "n_b": 3312,
+    "lift": 0.49,
+    "jaccard": 0.013
+  },
+  {
+    "pair": "AWS + HTML/CSS",
+    "skill_a": "AWS",
+    "skill_b": "HTML/CSS",
+    "postings_together": 62,
+    "n_a": 1470,
+    "n_b": 2644,
+    "lift": 0.63,
+    "jaccard": 0.015
+  },
+  {
+    "pair": "REST APIs + PHP",
+    "skill_a": "REST APIs",
+    "skill_b": "PHP",
+    "postings_together": 61,
+    "n_a": 787,
+    "n_b": 961,
+    "lift": 3.19,
+    "jaccard": 0.036
+  },
+  {
+    "pair": "Django/Flask + Backend Development",
+    "skill_a": "Django/Flask",
+    "skill_b": "Backend Development",
+    "postings_together": 61,
+    "n_a": 315,
+    "n_b": 1270,
+    "lift": 6.02,
+    "jaccard": 0.04
+  },
+  {
+    "pair": "Hadoop + AWS",
+    "skill_a": "Hadoop",
+    "skill_b": "AWS",
+    "postings_together": 61,
+    "n_a": 434,
+    "n_b": 1470,
+    "lift": 3.78,
+    "jaccard": 0.033
+  },
+  {
+    "pair": "React + Android",
+    "skill_a": "React",
+    "skill_b": "Android",
+    "postings_together": 61,
+    "n_a": 1259,
+    "n_b": 556,
+    "lift": 3.44,
+    "jaccard": 0.035
+  },
+  {
+    "pair": "Data Analysis + SAP",
+    "skill_a": "Data Analysis",
+    "skill_b": "SAP",
+    "postings_together": 60,
+    "n_a": 1619,
+    "n_b": 2642,
+    "lift": 0.55,
+    "jaccard": 0.014
+  },
+  {
+    "pair": "Python + Data Modeling",
+    "skill_a": "Python",
+    "skill_b": "Data Modeling",
+    "postings_together": 60,
+    "n_a": 2499,
+    "n_b": 856,
+    "lift": 1.11,
+    "jaccard": 0.018
+  },
+  {
+    "pair": "Data Warehousing + Linux",
+    "skill_a": "Data Warehousing",
+    "skill_b": "Linux",
+    "postings_together": 60,
+    "n_a": 654,
+    "n_b": 2997,
+    "lift": 1.21,
+    "jaccard": 0.017
+  },
+  {
+    "pair": "Warehouse Management + SAP",
+    "skill_a": "Warehouse Management",
+    "skill_b": "SAP",
+    "postings_together": 60,
+    "n_a": 132,
+    "n_b": 2642,
+    "lift": 6.8,
+    "jaccard": 0.022
+  },
+  {
+    "pair": "Agile/Scrum + Cybersecurity",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "Cybersecurity",
+    "postings_together": 60,
+    "n_a": 4824,
+    "n_b": 785,
+    "lift": 0.63,
+    "jaccard": 0.011
+  },
+  {
+    "pair": "JavaScript + Android",
+    "skill_a": "JavaScript",
+    "skill_b": "Android",
+    "postings_together": 60,
+    "n_a": 3953,
+    "n_b": 556,
+    "lift": 1.08,
+    "jaccard": 0.013
+  },
+  {
+    "pair": "SQL + Statistics",
+    "skill_a": "SQL",
+    "skill_b": "Statistics",
+    "postings_together": 59,
+    "n_a": 5690,
+    "n_b": 289,
+    "lift": 1.42,
+    "jaccard": 0.01
+  },
+  {
+    "pair": "CRM + Cloud Computing",
+    "skill_a": "CRM",
+    "skill_b": "Cloud Computing",
+    "postings_together": 59,
+    "n_a": 601,
+    "n_b": 3312,
+    "lift": 1.17,
+    "jaccard": 0.015
+  },
+  {
+    "pair": "Data Analysis + Azure",
+    "skill_a": "Data Analysis",
+    "skill_b": "Azure",
+    "postings_together": 58,
+    "n_a": 1619,
+    "n_b": 1683,
+    "lift": 0.84,
+    "jaccard": 0.018
+  },
+  {
+    "pair": "Software Testing + Technical Support",
+    "skill_a": "Software Testing",
+    "skill_b": "Technical Support",
+    "postings_together": 58,
+    "n_a": 1515,
+    "n_b": 3610,
+    "lift": 0.42,
+    "jaccard": 0.011
+  },
+  {
+    "pair": "Linux + SAP",
+    "skill_a": "Linux",
+    "skill_b": "SAP",
+    "postings_together": 58,
+    "n_a": 2997,
+    "n_b": 2642,
+    "lift": 0.29,
+    "jaccard": 0.01
+  },
+  {
+    "pair": "Embedded Systems + Technical Support",
+    "skill_a": "Embedded Systems",
+    "skill_b": "Technical Support",
+    "postings_together": 58,
+    "n_a": 838,
+    "n_b": 3610,
+    "lift": 0.76,
+    "jaccard": 0.013
+  },
+  {
+    "pair": "REST APIs + Azure",
+    "skill_a": "REST APIs",
+    "skill_b": "Azure",
+    "postings_together": 58,
+    "n_a": 787,
+    "n_b": 1683,
+    "lift": 1.73,
+    "jaccard": 0.024
+  },
+  {
+    "pair": "Risk & Compliance + Six Sigma/Lean",
+    "skill_a": "Risk & Compliance",
+    "skill_b": "Six Sigma/Lean",
+    "postings_together": 58,
+    "n_a": 951,
+    "n_b": 696,
+    "lift": 3.46,
+    "jaccard": 0.037
+  },
+  {
+    "pair": "Data Warehousing + Hadoop",
+    "skill_a": "Data Warehousing",
+    "skill_b": "Hadoop",
+    "postings_together": 58,
+    "n_a": 654,
+    "n_b": 434,
+    "lift": 8.07,
+    "jaccard": 0.056
+  },
+  {
+    "pair": "React + Backend Development",
+    "skill_a": "React",
+    "skill_b": "Backend Development",
+    "postings_together": 57,
+    "n_a": 1259,
+    "n_b": 1270,
+    "lift": 1.41,
+    "jaccard": 0.023
+  },
+  {
+    "pair": "AWS + Backend Development",
+    "skill_a": "AWS",
+    "skill_b": "Backend Development",
+    "postings_together": 57,
+    "n_a": 1470,
+    "n_b": 1270,
+    "lift": 1.21,
+    "jaccard": 0.021
+  },
+  {
+    "pair": "Budgeting & Forecasting + SAP",
+    "skill_a": "Budgeting & Forecasting",
+    "skill_b": "SAP",
+    "postings_together": 57,
+    "n_a": 413,
+    "n_b": 2642,
+    "lift": 2.06,
+    "jaccard": 0.019
+  },
+  {
+    "pair": "Spring Boot + Docker",
+    "skill_a": "Spring Boot",
+    "skill_b": "Docker",
+    "postings_together": 57,
+    "n_a": 1396,
+    "n_b": 450,
+    "lift": 3.58,
+    "jaccard": 0.032
+  },
+  {
+    "pair": "Angular + Git",
+    "skill_a": "Angular",
+    "skill_b": "Git",
+    "postings_together": 57,
+    "n_a": 1150,
+    "n_b": 1684,
+    "lift": 1.16,
+    "jaccard": 0.021
+  },
+  {
+    "pair": "Java + SAP",
+    "skill_a": "Java",
+    "skill_b": "SAP",
+    "postings_together": 56,
+    "n_a": 3132,
+    "n_b": 2642,
+    "lift": 0.27,
+    "jaccard": 0.01
+  },
+  {
+    "pair": "Spring Boot + System Design",
+    "skill_a": "Spring Boot",
+    "skill_b": "System Design",
+    "postings_together": 56,
+    "n_a": 1396,
+    "n_b": 1232,
+    "lift": 1.29,
+    "jaccard": 0.022
+  },
+  {
+    "pair": "Spring Boot + Frontend Development",
+    "skill_a": "Spring Boot",
+    "skill_b": "Frontend Development",
+    "postings_together": 56,
+    "n_a": 1396,
+    "n_b": 1548,
+    "lift": 1.02,
+    "jaccard": 0.019
+  },
+  {
+    "pair": "Machine Learning + Linux",
+    "skill_a": "Machine Learning",
+    "skill_b": "Linux",
+    "postings_together": 56,
+    "n_a": 895,
+    "n_b": 2997,
+    "lift": 0.82,
+    "jaccard": 0.015
+  },
+  {
+    "pair": "Data Analysis + Quality Control",
+    "skill_a": "Data Analysis",
+    "skill_b": "Quality Control",
+    "postings_together": 56,
+    "n_a": 1619,
+    "n_b": 1316,
+    "lift": 1.04,
+    "jaccard": 0.019
+  },
+  {
+    "pair": "Technical Support + jQuery",
+    "skill_a": "Technical Support",
+    "skill_b": "jQuery",
+    "postings_together": 56,
+    "n_a": 3610,
+    "n_b": 976,
+    "lift": 0.63,
+    "jaccard": 0.012
+  },
+  {
+    "pair": "Git + Kubernetes",
+    "skill_a": "Git",
+    "skill_b": "Kubernetes",
+    "postings_together": 56,
+    "n_a": 1684,
+    "n_b": 393,
+    "lift": 3.34,
+    "jaccard": 0.028
+  },
+  {
+    "pair": "React + Cloud Computing",
+    "skill_a": "React",
+    "skill_b": "Cloud Computing",
+    "postings_together": 56,
+    "n_a": 1259,
+    "n_b": 3312,
+    "lift": 0.53,
+    "jaccard": 0.012
+  },
+  {
+    "pair": "Software Testing + Project Management",
+    "skill_a": "Software Testing",
+    "skill_b": "Project Management",
+    "postings_together": 56,
+    "n_a": 1515,
+    "n_b": 2650,
+    "lift": 0.55,
+    "jaccard": 0.014
+  },
+  {
+    "pair": "jQuery + Backend Development",
+    "skill_a": "jQuery",
+    "skill_b": "Backend Development",
+    "postings_together": 56,
+    "n_a": 976,
+    "n_b": 1270,
+    "lift": 1.78,
+    "jaccard": 0.026
+  },
+  {
+    "pair": "Node.js + Cloud Computing",
+    "skill_a": "Node.js",
+    "skill_b": "Cloud Computing",
+    "postings_together": 55,
+    "n_a": 704,
+    "n_b": 3312,
+    "lift": 0.93,
+    "jaccard": 0.014
+  },
+  {
+    "pair": "C# + Cloud Computing",
+    "skill_a": "C#",
+    "skill_b": "Cloud Computing",
+    "postings_together": 55,
+    "n_a": 1077,
+    "n_b": 3312,
+    "lift": 0.61,
+    "jaccard": 0.013
+  },
+  {
+    "pair": "Tableau + Data Visualization",
+    "skill_a": "Tableau",
+    "skill_b": "Data Visualization",
+    "postings_together": 55,
+    "n_a": 222,
+    "n_b": 340,
+    "lift": 28.79,
+    "jaccard": 0.108
+  },
+  {
+    "pair": "C# + Software Testing",
+    "skill_a": "C#",
+    "skill_b": "Software Testing",
+    "postings_together": 55,
+    "n_a": 1077,
+    "n_b": 1515,
+    "lift": 1.33,
+    "jaccard": 0.022
+  },
+  {
+    "pair": "SQL + Customer Service",
+    "skill_a": "SQL",
+    "skill_b": "Customer Service",
+    "postings_together": 54,
+    "n_a": 5690,
+    "n_b": 674,
+    "lift": 0.56,
+    "jaccard": 0.009
+  },
+  {
+    "pair": "Django/Flask + REST APIs",
+    "skill_a": "Django/Flask",
+    "skill_b": "REST APIs",
+    "postings_together": 54,
+    "n_a": 315,
+    "n_b": 787,
+    "lift": 8.61,
+    "jaccard": 0.052
+  },
+  {
+    "pair": "Hadoop + Data Analysis",
+    "skill_a": "Hadoop",
+    "skill_b": "Data Analysis",
+    "postings_together": 54,
+    "n_a": 434,
+    "n_b": 1619,
+    "lift": 3.04,
+    "jaccard": 0.027
+  },
+  {
+    "pair": "System Design + Project Management",
+    "skill_a": "System Design",
+    "skill_b": "Project Management",
+    "postings_together": 54,
+    "n_a": 1232,
+    "n_b": 2650,
+    "lift": 0.65,
+    "jaccard": 0.014
+  },
+  {
+    "pair": "Frontend Development + Oracle",
+    "skill_a": "Frontend Development",
+    "skill_b": "Oracle",
+    "postings_together": 54,
+    "n_a": 1548,
+    "n_b": 1815,
+    "lift": 0.76,
+    "jaccard": 0.016
+  },
+  {
+    "pair": "Payroll + Cloud Computing",
+    "skill_a": "Payroll",
+    "skill_b": "Cloud Computing",
+    "postings_together": 54,
+    "n_a": 342,
+    "n_b": 3312,
+    "lift": 1.88,
+    "jaccard": 0.015
+  },
+  {
+    "pair": "C++ + C#",
+    "skill_a": "C++",
+    "skill_b": "C#",
+    "postings_together": 54,
+    "n_a": 1448,
+    "n_b": 1077,
+    "lift": 1.37,
+    "jaccard": 0.022
+  },
+  {
+    "pair": "Accounts Payable/Receivable + SAP FICO",
+    "skill_a": "Accounts Payable/Receivable",
+    "skill_b": "SAP FICO",
+    "postings_together": 54,
+    "n_a": 98,
+    "n_b": 367,
+    "lift": 59.32,
+    "jaccard": 0.131
+  },
+  {
+    "pair": "Data Analysis + Linux",
+    "skill_a": "Data Analysis",
+    "skill_b": "Linux",
+    "postings_together": 53,
+    "n_a": 1619,
+    "n_b": 2997,
+    "lift": 0.43,
+    "jaccard": 0.012
+  },
+  {
+    "pair": ".NET + Technical Support",
+    "skill_a": ".NET",
+    "skill_b": "Technical Support",
+    "postings_together": 53,
+    "n_a": 1662,
+    "n_b": 3610,
+    "lift": 0.35,
+    "jaccard": 0.01
+  },
+  {
+    "pair": "Spring Boot + Azure",
+    "skill_a": "Spring Boot",
+    "skill_b": "Azure",
+    "postings_together": 53,
+    "n_a": 1396,
+    "n_b": 1683,
+    "lift": 0.89,
+    "jaccard": 0.018
+  },
+  {
+    "pair": "Hadoop + Java",
+    "skill_a": "Hadoop",
+    "skill_b": "Java",
+    "postings_together": 53,
+    "n_a": 434,
+    "n_b": 3132,
+    "lift": 1.54,
+    "jaccard": 0.015
+  },
+  {
+    "pair": "Linux + jQuery",
+    "skill_a": "Linux",
+    "skill_b": "jQuery",
+    "postings_together": 53,
+    "n_a": 2997,
+    "n_b": 976,
+    "lift": 0.72,
+    "jaccard": 0.014
+  },
+  {
+    "pair": "Git + Android",
+    "skill_a": "Git",
+    "skill_b": "Android",
+    "postings_together": 53,
+    "n_a": 1684,
+    "n_b": 556,
+    "lift": 2.24,
+    "jaccard": 0.024
+  },
+  {
+    "pair": "JavaScript + Adobe Creative Suite",
+    "skill_a": "JavaScript",
+    "skill_b": "Adobe Creative Suite",
+    "postings_together": 52,
+    "n_a": 3953,
+    "n_b": 780,
+    "lift": 0.67,
+    "jaccard": 0.011
+  },
+  {
+    "pair": "JavaScript + Networking",
+    "skill_a": "JavaScript",
+    "skill_b": "Networking",
+    "postings_together": 52,
+    "n_a": 3953,
+    "n_b": 2097,
+    "lift": 0.25,
+    "jaccard": 0.009
+  },
+  {
+    "pair": "Machine Learning + TensorFlow",
+    "skill_a": "Machine Learning",
+    "skill_b": "TensorFlow",
+    "postings_together": 52,
+    "n_a": 895,
+    "n_b": 94,
+    "lift": 24.42,
+    "jaccard": 0.055
+  },
+  {
+    "pair": "Quality Control + HTML/CSS",
+    "skill_a": "Quality Control",
+    "skill_b": "HTML/CSS",
+    "postings_together": 52,
+    "n_a": 1316,
+    "n_b": 2644,
+    "lift": 0.59,
+    "jaccard": 0.013
+  },
+  {
+    "pair": "Networking + Risk & Compliance",
+    "skill_a": "Networking",
+    "skill_b": "Risk & Compliance",
+    "postings_together": 52,
+    "n_a": 2097,
+    "n_b": 951,
+    "lift": 1.03,
+    "jaccard": 0.017
+  },
+  {
+    "pair": "Networking + Oracle",
+    "skill_a": "Networking",
+    "skill_b": "Oracle",
+    "postings_together": 52,
+    "n_a": 2097,
+    "n_b": 1815,
+    "lift": 0.54,
+    "jaccard": 0.013
+  },
+  {
+    "pair": "Java + GCP",
+    "skill_a": "Java",
+    "skill_b": "GCP",
+    "postings_together": 52,
+    "n_a": 3132,
+    "n_b": 603,
+    "lift": 1.09,
+    "jaccard": 0.014
+  },
+  {
+    "pair": "Payroll + Oracle",
+    "skill_a": "Payroll",
+    "skill_b": "Oracle",
+    "postings_together": 52,
+    "n_a": 342,
+    "n_b": 1815,
+    "lift": 3.31,
+    "jaccard": 0.025
+  },
+  {
+    "pair": "Git + Terraform",
+    "skill_a": "Git",
+    "skill_b": "Terraform",
+    "postings_together": 52,
+    "n_a": 1684,
+    "n_b": 302,
+    "lift": 4.04,
+    "jaccard": 0.027
+  },
+  {
+    "pair": "Python + Project Management",
+    "skill_a": "Python",
+    "skill_b": "Project Management",
+    "postings_together": 51,
+    "n_a": 2499,
+    "n_b": 2650,
+    "lift": 0.3,
+    "jaccard": 0.01
+  },
+  {
+    "pair": "Python + Tableau",
+    "skill_a": "Python",
+    "skill_b": "Tableau",
+    "postings_together": 51,
+    "n_a": 2499,
+    "n_b": 222,
+    "lift": 3.63,
+    "jaccard": 0.019
+  },
+  {
+    "pair": "Power BI + Data Modeling",
+    "skill_a": "Power BI",
+    "skill_b": "Data Modeling",
+    "postings_together": 51,
+    "n_a": 570,
+    "n_b": 856,
+    "lift": 4.13,
+    "jaccard": 0.037
+  },
+  {
+    "pair": "Software Testing + HTML/CSS",
+    "skill_a": "Software Testing",
+    "skill_b": "HTML/CSS",
+    "postings_together": 51,
+    "n_a": 1515,
+    "n_b": 2644,
+    "lift": 0.5,
+    "jaccard": 0.012
+  },
+  {
+    "pair": "SQL + Salesforce",
+    "skill_a": "SQL",
+    "skill_b": "Salesforce",
+    "postings_together": 50,
+    "n_a": 5690,
+    "n_b": 845,
+    "lift": 0.41,
+    "jaccard": 0.008
+  },
+  {
+    "pair": "Power BI + Data Warehousing",
+    "skill_a": "Power BI",
+    "skill_b": "Data Warehousing",
+    "postings_together": 50,
+    "n_a": 570,
+    "n_b": 654,
+    "lift": 5.3,
+    "jaccard": 0.043
+  },
+  {
+    "pair": "Linux + Supply Chain Management",
+    "skill_a": "Linux",
+    "skill_b": "Supply Chain Management",
+    "postings_together": 50,
+    "n_a": 2997,
+    "n_b": 661,
+    "lift": 1.0,
+    "jaccard": 0.014
+  },
+  {
+    "pair": "CI/CD + Backend Development",
+    "skill_a": "CI/CD",
+    "skill_b": "Backend Development",
+    "postings_together": 50,
+    "n_a": 1441,
+    "n_b": 1270,
+    "lift": 1.08,
+    "jaccard": 0.019
+  },
+  {
+    "pair": "REST APIs + Frontend Development",
+    "skill_a": "REST APIs",
+    "skill_b": "Frontend Development",
+    "postings_together": 50,
+    "n_a": 787,
+    "n_b": 1548,
+    "lift": 1.62,
+    "jaccard": 0.022
+  },
+  {
+    "pair": "JavaScript + UI/UX Design",
+    "skill_a": "JavaScript",
+    "skill_b": "UI/UX Design",
+    "postings_together": 50,
+    "n_a": 3953,
+    "n_b": 416,
+    "lift": 1.2,
+    "jaccard": 0.012
+  },
+  {
+    "pair": "Python + Node.js",
+    "skill_a": "Python",
+    "skill_b": "Node.js",
+    "postings_together": 49,
+    "n_a": 2499,
+    "n_b": 704,
+    "lift": 1.1,
+    "jaccard": 0.016
+  },
+  {
+    "pair": "Git + Oracle",
+    "skill_a": "Git",
+    "skill_b": "Oracle",
+    "postings_together": 49,
+    "n_a": 1684,
+    "n_b": 1815,
+    "lift": 0.63,
+    "jaccard": 0.014
+  },
+  {
+    "pair": "Angular + PHP",
+    "skill_a": "Angular",
+    "skill_b": "PHP",
+    "postings_together": 49,
+    "n_a": 1150,
+    "n_b": 961,
+    "lift": 1.75,
+    "jaccard": 0.024
+  },
+  {
+    "pair": "Microservices + Kubernetes",
+    "skill_a": "Microservices",
+    "skill_b": "Kubernetes",
+    "postings_together": 49,
+    "n_a": 889,
+    "n_b": 393,
+    "lift": 5.54,
+    "jaccard": 0.04
+  },
+  {
+    "pair": "Machine Learning + Data Visualization",
+    "skill_a": "Machine Learning",
+    "skill_b": "Data Visualization",
+    "postings_together": 49,
+    "n_a": 895,
+    "n_b": 340,
+    "lift": 6.36,
+    "jaccard": 0.041
+  },
+  {
+    "pair": "Django/Flask + AWS",
+    "skill_a": "Django/Flask",
+    "skill_b": "AWS",
+    "postings_together": 49,
+    "n_a": 315,
+    "n_b": 1470,
+    "lift": 4.18,
+    "jaccard": 0.028
+  },
+  {
+    "pair": "TypeScript + REST APIs",
+    "skill_a": "TypeScript",
+    "skill_b": "REST APIs",
+    "postings_together": 49,
+    "n_a": 298,
+    "n_b": 787,
+    "lift": 8.25,
+    "jaccard": 0.047
+  },
+  {
+    "pair": "Linux + Data Modeling",
+    "skill_a": "Linux",
+    "skill_b": "Data Modeling",
+    "postings_together": 49,
+    "n_a": 2997,
+    "n_b": 856,
+    "lift": 0.75,
+    "jaccard": 0.013
+  },
+  {
+    "pair": "Business Development + CRM",
+    "skill_a": "Business Development",
+    "skill_b": "CRM",
+    "postings_together": 49,
+    "n_a": 233,
+    "n_b": 601,
+    "lift": 13.82,
+    "jaccard": 0.062
+  },
+  {
+    "pair": "Deep Learning + Computer Vision",
+    "skill_a": "Deep Learning",
+    "skill_b": "Computer Vision",
+    "postings_together": 49,
+    "n_a": 255,
+    "n_b": 137,
+    "lift": 55.42,
+    "jaccard": 0.143
+  },
+  {
+    "pair": "Python + Computer Vision",
+    "skill_a": "Python",
+    "skill_b": "Computer Vision",
+    "postings_together": 49,
+    "n_a": 2499,
+    "n_b": 137,
+    "lift": 5.65,
+    "jaccard": 0.019
+  },
+  {
+    "pair": "Azure + HTML/CSS",
+    "skill_a": "Azure",
+    "skill_b": "HTML/CSS",
+    "postings_together": 48,
+    "n_a": 1683,
+    "n_b": 2644,
+    "lift": 0.43,
+    "jaccard": 0.011
+  },
+  {
+    "pair": "Salesforce + Oracle",
+    "skill_a": "Salesforce",
+    "skill_b": "Oracle",
+    "postings_together": 48,
+    "n_a": 845,
+    "n_b": 1815,
+    "lift": 1.24,
+    "jaccard": 0.018
+  },
+  {
+    "pair": "Hadoop + Agile/Scrum",
+    "skill_a": "Hadoop",
+    "skill_b": "Agile/Scrum",
+    "postings_together": 48,
+    "n_a": 434,
+    "n_b": 4824,
+    "lift": 0.91,
+    "jaccard": 0.009
+  },
+  {
+    "pair": "CI/CD + HTML/CSS",
+    "skill_a": "CI/CD",
+    "skill_b": "HTML/CSS",
+    "postings_together": 48,
+    "n_a": 1441,
+    "n_b": 2644,
+    "lift": 0.5,
+    "jaccard": 0.012
+  },
+  {
+    "pair": "CI/CD + Frontend Development",
+    "skill_a": "CI/CD",
+    "skill_b": "Frontend Development",
+    "postings_together": 48,
+    "n_a": 1441,
+    "n_b": 1548,
+    "lift": 0.85,
+    "jaccard": 0.016
+  },
+  {
+    "pair": ".NET + Backend Development",
+    "skill_a": ".NET",
+    "skill_b": "Backend Development",
+    "postings_together": 47,
+    "n_a": 1662,
+    "n_b": 1270,
+    "lift": 0.88,
+    "jaccard": 0.016
+  },
+  {
+    "pair": "JavaScript + Data Modeling",
+    "skill_a": "JavaScript",
+    "skill_b": "Data Modeling",
+    "postings_together": 47,
+    "n_a": 3953,
+    "n_b": 856,
+    "lift": 0.55,
+    "jaccard": 0.01
+  },
+  {
+    "pair": "Python + R",
+    "skill_a": "Python",
+    "skill_b": "R",
+    "postings_together": 47,
+    "n_a": 2499,
+    "n_b": 178,
+    "lift": 4.17,
+    "jaccard": 0.018
+  },
+  {
+    "pair": "JavaScript + Django/Flask",
+    "skill_a": "JavaScript",
+    "skill_b": "Django/Flask",
+    "postings_together": 47,
+    "n_a": 3953,
+    "n_b": 315,
+    "lift": 1.49,
+    "jaccard": 0.011
+  },
+  {
+    "pair": "Data Analysis + Risk & Compliance",
+    "skill_a": "Data Analysis",
+    "skill_b": "Risk & Compliance",
+    "postings_together": 47,
+    "n_a": 1619,
+    "n_b": 951,
+    "lift": 1.21,
+    "jaccard": 0.019
+  },
+  {
+    "pair": "Azure + Oracle",
+    "skill_a": "Azure",
+    "skill_b": "Oracle",
+    "postings_together": 47,
+    "n_a": 1683,
+    "n_b": 1815,
+    "lift": 0.61,
+    "jaccard": 0.014
+  },
+  {
+    "pair": "Python + Microservices",
+    "skill_a": "Python",
+    "skill_b": "Microservices",
+    "postings_together": 46,
+    "n_a": 2499,
+    "n_b": 889,
+    "lift": 0.82,
+    "jaccard": 0.014
+  },
+  {
+    "pair": "C++ + Project Management",
+    "skill_a": "C++",
+    "skill_b": "Project Management",
+    "postings_together": 46,
+    "n_a": 1448,
+    "n_b": 2650,
+    "lift": 0.47,
+    "jaccard": 0.011
+  },
+  {
+    "pair": "C++ + Android",
+    "skill_a": "C++",
+    "skill_b": "Android",
+    "postings_together": 46,
+    "n_a": 1448,
+    "n_b": 556,
+    "lift": 2.26,
+    "jaccard": 0.023
+  },
+  {
+    "pair": "Agile/Scrum + iOS",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "iOS",
+    "postings_together": 46,
+    "n_a": 4824,
+    "n_b": 406,
+    "lift": 0.93,
+    "jaccard": 0.009
+  },
+  {
+    "pair": "Data Analysis + Budgeting & Forecasting",
+    "skill_a": "Data Analysis",
+    "skill_b": "Budgeting & Forecasting",
+    "postings_together": 46,
+    "n_a": 1619,
+    "n_b": 413,
+    "lift": 2.72,
+    "jaccard": 0.023
+  },
+  {
+    "pair": "Python + C#",
+    "skill_a": "Python",
+    "skill_b": "C#",
+    "postings_together": 46,
+    "n_a": 2499,
+    "n_b": 1077,
+    "lift": 0.68,
+    "jaccard": 0.013
+  },
+  {
+    "pair": "Java + PHP",
+    "skill_a": "Java",
+    "skill_b": "PHP",
+    "postings_together": 46,
+    "n_a": 3132,
+    "n_b": 961,
+    "lift": 0.6,
+    "jaccard": 0.011
+  },
+  {
+    "pair": "Data Analysis + JavaScript",
+    "skill_a": "Data Analysis",
+    "skill_b": "JavaScript",
+    "postings_together": 46,
+    "n_a": 1619,
+    "n_b": 3953,
+    "lift": 0.28,
+    "jaccard": 0.008
+  },
+  {
+    "pair": "SAP MM + SAP ABAP",
+    "skill_a": "SAP MM",
+    "skill_b": "SAP ABAP",
+    "postings_together": 46,
+    "n_a": 260,
+    "n_b": 818,
+    "lift": 8.55,
+    "jaccard": 0.045
+  },
+  {
+    "pair": "Procurement + Oracle",
+    "skill_a": "Procurement",
+    "skill_b": "Oracle",
+    "postings_together": 46,
+    "n_a": 442,
+    "n_b": 1815,
+    "lift": 2.27,
+    "jaccard": 0.021
+  },
+  {
+    "pair": "C# + Git",
+    "skill_a": "C#",
+    "skill_b": "Git",
+    "postings_together": 46,
+    "n_a": 1077,
+    "n_b": 1684,
+    "lift": 1.0,
+    "jaccard": 0.017
+  },
+  {
+    "pair": "System Design + SAP",
+    "skill_a": "System Design",
+    "skill_b": "SAP",
+    "postings_together": 46,
+    "n_a": 1232,
+    "n_b": 2642,
+    "lift": 0.56,
+    "jaccard": 0.012
+  },
+  {
+    "pair": "Networking + Ticketing Tools",
+    "skill_a": "Networking",
+    "skill_b": "Ticketing Tools",
+    "postings_together": 46,
+    "n_a": 2097,
+    "n_b": 709,
+    "lift": 1.22,
+    "jaccard": 0.017
+  },
+  {
+    "pair": "Account Management + Project Management",
+    "skill_a": "Account Management",
+    "skill_b": "Project Management",
+    "postings_together": 46,
+    "n_a": 248,
+    "n_b": 2650,
+    "lift": 2.77,
+    "jaccard": 0.016
+  },
+  {
+    "pair": "Python + Frontend Development",
+    "skill_a": "Python",
+    "skill_b": "Frontend Development",
+    "postings_together": 46,
+    "n_a": 2499,
+    "n_b": 1548,
+    "lift": 0.47,
+    "jaccard": 0.011
+  },
+  {
+    "pair": "AWS + Oracle",
+    "skill_a": "AWS",
+    "skill_b": "Oracle",
+    "postings_together": 46,
+    "n_a": 1470,
+    "n_b": 1815,
+    "lift": 0.68,
+    "jaccard": 0.014
+  },
+  {
+    "pair": "Java + iOS",
+    "skill_a": "Java",
+    "skill_b": "iOS",
+    "postings_together": 45,
+    "n_a": 3132,
+    "n_b": 406,
+    "lift": 1.4,
+    "jaccard": 0.013
+  },
+  {
+    "pair": "Data Analysis + Oracle",
+    "skill_a": "Data Analysis",
+    "skill_b": "Oracle",
+    "postings_together": 45,
+    "n_a": 1619,
+    "n_b": 1815,
+    "lift": 0.61,
+    "jaccard": 0.013
+  },
+  {
+    "pair": "Networking + Quality Control",
+    "skill_a": "Networking",
+    "skill_b": "Quality Control",
+    "postings_together": 45,
+    "n_a": 2097,
+    "n_b": 1316,
+    "lift": 0.64,
+    "jaccard": 0.013
+  },
+  {
+    "pair": "Quality Control + Cloud Computing",
+    "skill_a": "Quality Control",
+    "skill_b": "Cloud Computing",
+    "postings_together": 45,
+    "n_a": 1316,
+    "n_b": 3312,
+    "lift": 0.41,
+    "jaccard": 0.01
+  },
+  {
+    "pair": "Data Analysis + System Design",
+    "skill_a": "Data Analysis",
+    "skill_b": "System Design",
+    "postings_together": 45,
+    "n_a": 1619,
+    "n_b": 1232,
+    "lift": 0.89,
+    "jaccard": 0.016
+  },
+  {
+    "pair": "Node.js + Microservices",
+    "skill_a": "Node.js",
+    "skill_b": "Microservices",
+    "postings_together": 45,
+    "n_a": 704,
+    "n_b": 889,
+    "lift": 2.84,
+    "jaccard": 0.029
+  },
+  {
+    "pair": "Android + Linux",
+    "skill_a": "Android",
+    "skill_b": "Linux",
+    "postings_together": 45,
+    "n_a": 556,
+    "n_b": 2997,
+    "lift": 1.07,
+    "jaccard": 0.013
+  },
+  {
+    "pair": "TensorFlow + PyTorch",
+    "skill_a": "TensorFlow",
+    "skill_b": "PyTorch",
+    "postings_together": 45,
+    "n_a": 94,
+    "n_b": 55,
+    "lift": 343.89,
+    "jaccard": 0.433
+  },
+  {
+    "pair": "Azure + Project Management",
+    "skill_a": "Azure",
+    "skill_b": "Project Management",
+    "postings_together": 45,
+    "n_a": 1683,
+    "n_b": 2650,
+    "lift": 0.4,
+    "jaccard": 0.01
+  },
+  {
+    "pair": "Python + Data Visualization",
+    "skill_a": "Python",
+    "skill_b": "Data Visualization",
+    "postings_together": 45,
+    "n_a": 2499,
+    "n_b": 340,
+    "lift": 2.09,
+    "jaccard": 0.016
+  },
+  {
+    "pair": "Six Sigma/Lean + SAP",
+    "skill_a": "Six Sigma/Lean",
+    "skill_b": "SAP",
+    "postings_together": 45,
+    "n_a": 696,
+    "n_b": 2642,
+    "lift": 0.97,
+    "jaccard": 0.014
+  },
+  {
+    "pair": "Cybersecurity + Project Management",
+    "skill_a": "Cybersecurity",
+    "skill_b": "Project Management",
+    "postings_together": 44,
+    "n_a": 785,
+    "n_b": 2650,
+    "lift": 0.84,
+    "jaccard": 0.013
+  },
+  {
+    "pair": "System Design + Data Modeling",
+    "skill_a": "System Design",
+    "skill_b": "Data Modeling",
+    "postings_together": 44,
+    "n_a": 1232,
+    "n_b": 856,
+    "lift": 1.65,
+    "jaccard": 0.022
+  },
+  {
+    "pair": "REST APIs + CI/CD",
+    "skill_a": "REST APIs",
+    "skill_b": "CI/CD",
+    "postings_together": 44,
+    "n_a": 787,
+    "n_b": 1441,
+    "lift": 1.53,
+    "jaccard": 0.02
+  },
+  {
+    "pair": "Microservices + Git",
+    "skill_a": "Microservices",
+    "skill_b": "Git",
+    "postings_together": 44,
+    "n_a": 889,
+    "n_b": 1684,
+    "lift": 1.16,
+    "jaccard": 0.017
+  },
+  {
+    "pair": ".NET + Project Management",
+    "skill_a": ".NET",
+    "skill_b": "Project Management",
+    "postings_together": 44,
+    "n_a": 1662,
+    "n_b": 2650,
+    "lift": 0.39,
+    "jaccard": 0.01
+  },
+  {
+    "pair": "Angular + CI/CD",
+    "skill_a": "Angular",
+    "skill_b": "CI/CD",
+    "postings_together": 44,
+    "n_a": 1150,
+    "n_b": 1441,
+    "lift": 1.05,
+    "jaccard": 0.017
+  },
+  {
+    "pair": "Git + iOS",
+    "skill_a": "Git",
+    "skill_b": "iOS",
+    "postings_together": 44,
+    "n_a": 1684,
+    "n_b": 406,
+    "lift": 2.54,
+    "jaccard": 0.022
+  },
+  {
+    "pair": "Supply Chain Management + Logistics",
+    "skill_a": "Supply Chain Management",
+    "skill_b": "Logistics",
+    "postings_together": 43,
+    "n_a": 661,
+    "n_b": 119,
+    "lift": 21.6,
+    "jaccard": 0.058
+  },
+  {
+    "pair": "Account Management + SAP",
+    "skill_a": "Account Management",
+    "skill_b": "SAP",
+    "postings_together": 43,
+    "n_a": 248,
+    "n_b": 2642,
+    "lift": 2.59,
+    "jaccard": 0.015
+  },
+  {
+    "pair": "SQL + Kubernetes",
+    "skill_a": "SQL",
+    "skill_b": "Kubernetes",
+    "postings_together": 43,
+    "n_a": 5690,
+    "n_b": 393,
+    "lift": 0.76,
+    "jaccard": 0.007
+  },
+  {
+    "pair": "NLP + TensorFlow",
+    "skill_a": "NLP",
+    "skill_b": "TensorFlow",
+    "postings_together": 43,
+    "n_a": 253,
+    "n_b": 94,
+    "lift": 71.44,
+    "jaccard": 0.141
+  },
+  {
+    "pair": "JavaScript + Customer Service",
+    "skill_a": "JavaScript",
+    "skill_b": "Customer Service",
+    "postings_together": 43,
+    "n_a": 3953,
+    "n_b": 674,
+    "lift": 0.64,
+    "jaccard": 0.009
+  },
+  {
+    "pair": "Microservices + HTML/CSS",
+    "skill_a": "Microservices",
+    "skill_b": "HTML/CSS",
+    "postings_together": 43,
+    "n_a": 889,
+    "n_b": 2644,
+    "lift": 0.72,
+    "jaccard": 0.012
+  },
+  {
+    "pair": "SQL + NLP",
+    "skill_a": "SQL",
+    "skill_b": "NLP",
+    "postings_together": 43,
+    "n_a": 5690,
+    "n_b": 253,
+    "lift": 1.18,
+    "jaccard": 0.007
+  },
+  {
+    "pair": "Social Media Marketing + Video Editing",
+    "skill_a": "Social Media Marketing",
+    "skill_b": "Video Editing",
+    "postings_together": 43,
+    "n_a": 333,
+    "n_b": 254,
+    "lift": 20.09,
+    "jaccard": 0.079
+  },
+  {
+    "pair": "Six Sigma/Lean + Customer Service",
+    "skill_a": "Six Sigma/Lean",
+    "skill_b": "Customer Service",
+    "postings_together": 43,
+    "n_a": 696,
+    "n_b": 674,
+    "lift": 3.62,
+    "jaccard": 0.032
+  },
+  {
+    "pair": "PHP + XML/XSLT",
+    "skill_a": "PHP",
+    "skill_b": "XML/XSLT",
+    "postings_together": 43,
+    "n_a": 961,
+    "n_b": 962,
+    "lift": 1.84,
+    "jaccard": 0.023
+  },
+  {
+    "pair": "Data Analysis + AWS",
+    "skill_a": "Data Analysis",
+    "skill_b": "AWS",
+    "postings_together": 43,
+    "n_a": 1619,
+    "n_b": 1470,
+    "lift": 0.71,
+    "jaccard": 0.014
+  },
+  {
+    "pair": "Agile/Scrum + Kubernetes",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "Kubernetes",
+    "postings_together": 42,
+    "n_a": 4824,
+    "n_b": 393,
+    "lift": 0.88,
+    "jaccard": 0.008
+  },
+  {
+    "pair": "Agile/Scrum + Payroll",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "Payroll",
+    "postings_together": 42,
+    "n_a": 4824,
+    "n_b": 342,
+    "lift": 1.01,
+    "jaccard": 0.008
+  },
+  {
+    "pair": "Spring Boot + Kubernetes",
+    "skill_a": "Spring Boot",
+    "skill_b": "Kubernetes",
+    "postings_together": 42,
+    "n_a": 1396,
+    "n_b": 393,
+    "lift": 3.02,
+    "jaccard": 0.024
+  },
+  {
+    "pair": "C++ + Quality Control",
+    "skill_a": "C++",
+    "skill_b": "Quality Control",
+    "postings_together": 42,
+    "n_a": 1448,
+    "n_b": 1316,
+    "lift": 0.87,
+    "jaccard": 0.015
+  },
+  {
+    "pair": "Technical Support + PHP",
+    "skill_a": "Technical Support",
+    "skill_b": "PHP",
+    "postings_together": 42,
+    "n_a": 3610,
+    "n_b": 961,
+    "lift": 0.48,
+    "jaccard": 0.009
+  },
+  {
+    "pair": "Statistics + Deep Learning",
+    "skill_a": "Statistics",
+    "skill_b": "Deep Learning",
+    "postings_together": 42,
+    "n_a": 289,
+    "n_b": 255,
+    "lift": 22.52,
+    "jaccard": 0.084
+  },
+  {
+    "pair": "Figma + HTML/CSS",
+    "skill_a": "Figma",
+    "skill_b": "HTML/CSS",
+    "postings_together": 42,
+    "n_a": 228,
+    "n_b": 2644,
+    "lift": 2.75,
+    "jaccard": 0.015
+  },
+  {
+    "pair": "Spring Boot + Project Management",
+    "skill_a": "Spring Boot",
+    "skill_b": "Project Management",
+    "postings_together": 42,
+    "n_a": 1396,
+    "n_b": 2650,
+    "lift": 0.45,
+    "jaccard": 0.01
+  },
+  {
+    "pair": "SAP MM + Warehouse Management",
+    "skill_a": "SAP MM",
+    "skill_b": "Warehouse Management",
+    "postings_together": 42,
+    "n_a": 260,
+    "n_b": 132,
+    "lift": 48.35,
+    "jaccard": 0.12
+  },
+  {
+    "pair": "Customer Service + Cloud Computing",
+    "skill_a": "Customer Service",
+    "skill_b": "Cloud Computing",
+    "postings_together": 42,
+    "n_a": 674,
+    "n_b": 3312,
+    "lift": 0.74,
+    "jaccard": 0.011
+  },
+  {
+    "pair": "Software Testing + Android",
+    "skill_a": "Software Testing",
+    "skill_b": "Android",
+    "postings_together": 42,
+    "n_a": 1515,
+    "n_b": 556,
+    "lift": 1.97,
+    "jaccard": 0.021
+  },
+  {
+    "pair": "C# + Microservices",
+    "skill_a": "C#",
+    "skill_b": "Microservices",
+    "postings_together": 41,
+    "n_a": 1077,
+    "n_b": 889,
+    "lift": 1.69,
+    "jaccard": 0.021
+  },
+  {
+    "pair": "Networking + XML/XSLT",
+    "skill_a": "Networking",
+    "skill_b": "XML/XSLT",
+    "postings_together": 41,
+    "n_a": 2097,
+    "n_b": 962,
+    "lift": 0.8,
+    "jaccard": 0.014
+  },
+  {
+    "pair": "Microservices + System Design",
+    "skill_a": "Microservices",
+    "skill_b": "System Design",
+    "postings_together": 41,
+    "n_a": 889,
+    "n_b": 1232,
+    "lift": 1.48,
+    "jaccard": 0.02
+  },
+  {
+    "pair": "GCP + Technical Support",
+    "skill_a": "GCP",
+    "skill_b": "Technical Support",
+    "postings_together": 41,
+    "n_a": 603,
+    "n_b": 3610,
+    "lift": 0.74,
+    "jaccard": 0.01
+  },
+  {
+    "pair": "Project Management + Civil/Site Execution",
+    "skill_a": "Project Management",
+    "skill_b": "Civil/Site Execution",
+    "postings_together": 41,
+    "n_a": 2650,
+    "n_b": 81,
+    "lift": 7.55,
+    "jaccard": 0.015
+  },
+  {
+    "pair": "Power BI + Agile/Scrum",
+    "skill_a": "Power BI",
+    "skill_b": "Agile/Scrum",
+    "postings_together": 41,
+    "n_a": 570,
+    "n_b": 4824,
+    "lift": 0.59,
+    "jaccard": 0.008
+  },
+  {
+    "pair": "Machine Learning + AWS",
+    "skill_a": "Machine Learning",
+    "skill_b": "AWS",
+    "postings_together": 41,
+    "n_a": 895,
+    "n_b": 1470,
+    "lift": 1.23,
+    "jaccard": 0.018
+  },
+  {
+    "pair": "SQL + TypeScript",
+    "skill_a": "SQL",
+    "skill_b": "TypeScript",
+    "postings_together": 41,
+    "n_a": 5690,
+    "n_b": 298,
+    "lift": 0.96,
+    "jaccard": 0.007
+  },
+  {
+    "pair": "Angular + Backend Development",
+    "skill_a": "Angular",
+    "skill_b": "Backend Development",
+    "postings_together": 41,
+    "n_a": 1150,
+    "n_b": 1270,
+    "lift": 1.11,
+    "jaccard": 0.017
+  },
+  {
+    "pair": "Node.js + Agile/Scrum",
+    "skill_a": "Node.js",
+    "skill_b": "Agile/Scrum",
+    "postings_together": 40,
+    "n_a": 704,
+    "n_b": 4824,
+    "lift": 0.47,
+    "jaccard": 0.007
+  },
+  {
+    "pair": "Git + Quality Control",
+    "skill_a": "Git",
+    "skill_b": "Quality Control",
+    "postings_together": 40,
+    "n_a": 1684,
+    "n_b": 1316,
+    "lift": 0.71,
+    "jaccard": 0.014
+  },
+  {
+    "pair": "Cybersecurity + Auditing",
+    "skill_a": "Cybersecurity",
+    "skill_b": "Auditing",
+    "postings_together": 40,
+    "n_a": 785,
+    "n_b": 271,
+    "lift": 7.43,
+    "jaccard": 0.039
+  },
+  {
+    "pair": "Python + PHP",
+    "skill_a": "Python",
+    "skill_b": "PHP",
+    "postings_together": 40,
+    "n_a": 2499,
+    "n_b": 961,
+    "lift": 0.66,
+    "jaccard": 0.012
+  },
+  {
+    "pair": "Supply Chain Management + Cloud Computing",
+    "skill_a": "Supply Chain Management",
+    "skill_b": "Cloud Computing",
+    "postings_together": 40,
+    "n_a": 661,
+    "n_b": 3312,
+    "lift": 0.72,
+    "jaccard": 0.01
+  },
+  {
+    "pair": "C++ + XML/XSLT",
+    "skill_a": "C++",
+    "skill_b": "XML/XSLT",
+    "postings_together": 40,
+    "n_a": 1448,
+    "n_b": 962,
+    "lift": 1.13,
+    "jaccard": 0.017
+  },
+  {
+    "pair": "Networking + HTML/CSS",
+    "skill_a": "Networking",
+    "skill_b": "HTML/CSS",
+    "postings_together": 40,
+    "n_a": 2097,
+    "n_b": 2644,
+    "lift": 0.29,
+    "jaccard": 0.009
+  },
+  {
+    "pair": "CRM + Project Management",
+    "skill_a": "CRM",
+    "skill_b": "Project Management",
+    "postings_together": 40,
+    "n_a": 601,
+    "n_b": 2650,
+    "lift": 0.99,
+    "jaccard": 0.012
+  },
+  {
+    "pair": "HRIS + SAP",
+    "skill_a": "HRIS",
+    "skill_b": "SAP",
+    "postings_together": 40,
+    "n_a": 104,
+    "n_b": 2642,
+    "lift": 5.75,
+    "jaccard": 0.015
+  },
+  {
+    "pair": "Machine Learning + JavaScript",
+    "skill_a": "Machine Learning",
+    "skill_b": "JavaScript",
+    "postings_together": 39,
+    "n_a": 895,
+    "n_b": 3953,
+    "lift": 0.44,
+    "jaccard": 0.008
+  },
+  {
+    "pair": "Machine Learning + Networking",
+    "skill_a": "Machine Learning",
+    "skill_b": "Networking",
+    "postings_together": 39,
+    "n_a": 895,
+    "n_b": 2097,
+    "lift": 0.82,
+    "jaccard": 0.013
+  },
+  {
+    "pair": "Machine Learning + GCP",
+    "skill_a": "Machine Learning",
+    "skill_b": "GCP",
+    "postings_together": 39,
+    "n_a": 895,
+    "n_b": 603,
+    "lift": 2.86,
+    "jaccard": 0.027
+  },
+  {
+    "pair": "Java + Salesforce",
+    "skill_a": "Java",
+    "skill_b": "Salesforce",
+    "postings_together": 39,
+    "n_a": 3132,
+    "n_b": 845,
+    "lift": 0.58,
+    "jaccard": 0.01
+  },
+  {
+    "pair": "SQL + Payroll",
+    "skill_a": "SQL",
+    "skill_b": "Payroll",
+    "postings_together": 39,
+    "n_a": 5690,
+    "n_b": 342,
+    "lift": 0.79,
+    "jaccard": 0.007
+  },
+  {
+    "pair": "Software Testing + Backend Development",
+    "skill_a": "Software Testing",
+    "skill_b": "Backend Development",
+    "postings_together": 39,
+    "n_a": 1515,
+    "n_b": 1270,
+    "lift": 0.8,
+    "jaccard": 0.014
+  },
+  {
+    "pair": "JavaScript + Payroll",
+    "skill_a": "JavaScript",
+    "skill_b": "Payroll",
+    "postings_together": 39,
+    "n_a": 3953,
+    "n_b": 342,
+    "lift": 1.14,
+    "jaccard": 0.009
+  },
+  {
+    "pair": "Deep Learning + TensorFlow",
+    "skill_a": "Deep Learning",
+    "skill_b": "TensorFlow",
+    "postings_together": 39,
+    "n_a": 255,
+    "n_b": 94,
+    "lift": 64.28,
+    "jaccard": 0.126
+  },
+  {
+    "pair": "Data Warehousing + Agile/Scrum",
+    "skill_a": "Data Warehousing",
+    "skill_b": "Agile/Scrum",
+    "postings_together": 39,
+    "n_a": 654,
+    "n_b": 4824,
+    "lift": 0.49,
+    "jaccard": 0.007
+  },
+  {
+    "pair": "Python + TensorFlow",
+    "skill_a": "Python",
+    "skill_b": "TensorFlow",
+    "postings_together": 39,
+    "n_a": 2499,
+    "n_b": 94,
+    "lift": 6.56,
+    "jaccard": 0.015
+  },
+  {
+    "pair": "Logistics + SAP",
+    "skill_a": "Logistics",
+    "skill_b": "SAP",
+    "postings_together": 39,
+    "n_a": 119,
+    "n_b": 2642,
+    "lift": 4.9,
+    "jaccard": 0.014
+  },
+  {
+    "pair": "Project Management + Ticketing Tools",
+    "skill_a": "Project Management",
+    "skill_b": "Ticketing Tools",
+    "postings_together": 39,
+    "n_a": 2650,
+    "n_b": 709,
+    "lift": 0.82,
+    "jaccard": 0.012
+  },
+  {
+    "pair": "C++ + Oracle",
+    "skill_a": "C++",
+    "skill_b": "Oracle",
+    "postings_together": 39,
+    "n_a": 1448,
+    "n_b": 1815,
+    "lift": 0.59,
+    "jaccard": 0.012
+  },
+  {
+    "pair": "C++ + MATLAB",
+    "skill_a": "C++",
+    "skill_b": "MATLAB",
+    "postings_together": 39,
+    "n_a": 1448,
+    "n_b": 154,
+    "lift": 6.91,
+    "jaccard": 0.025
+  },
+  {
+    "pair": "Quality Control + Frontend Development",
+    "skill_a": "Quality Control",
+    "skill_b": "Frontend Development",
+    "postings_together": 39,
+    "n_a": 1316,
+    "n_b": 1548,
+    "lift": 0.76,
+    "jaccard": 0.014
+  },
+  {
+    "pair": "Data Analysis + Supply Chain Management",
+    "skill_a": "Data Analysis",
+    "skill_b": "Supply Chain Management",
+    "postings_together": 39,
+    "n_a": 1619,
+    "n_b": 661,
+    "lift": 1.44,
+    "jaccard": 0.017
+  },
+  {
+    "pair": "JavaScript + iOS",
+    "skill_a": "JavaScript",
+    "skill_b": "iOS",
+    "postings_together": 39,
+    "n_a": 3953,
+    "n_b": 406,
+    "lift": 0.96,
+    "jaccard": 0.009
+  },
+  {
+    "pair": "Agile/Scrum + Procurement",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "Procurement",
+    "postings_together": 39,
+    "n_a": 4824,
+    "n_b": 442,
+    "lift": 0.72,
+    "jaccard": 0.007
+  },
+  {
+    "pair": "Backend Development + SAP",
+    "skill_a": "Backend Development",
+    "skill_b": "SAP",
+    "postings_together": 39,
+    "n_a": 1270,
+    "n_b": 2642,
+    "lift": 0.46,
+    "jaccard": 0.01
+  },
+  {
+    "pair": "XML/XSLT + Frontend Development",
+    "skill_a": "XML/XSLT",
+    "skill_b": "Frontend Development",
+    "postings_together": 39,
+    "n_a": 962,
+    "n_b": 1548,
+    "lift": 1.03,
+    "jaccard": 0.016
+  },
+  {
+    "pair": "Ticketing Tools + HTML/CSS",
+    "skill_a": "Ticketing Tools",
+    "skill_b": "HTML/CSS",
+    "postings_together": 38,
+    "n_a": 709,
+    "n_b": 2644,
+    "lift": 0.8,
+    "jaccard": 0.011
+  },
+  {
+    "pair": "Django/Flask + Git",
+    "skill_a": "Django/Flask",
+    "skill_b": "Git",
+    "postings_together": 38,
+    "n_a": 315,
+    "n_b": 1684,
+    "lift": 2.83,
+    "jaccard": 0.019
+  },
+  {
+    "pair": "Django/Flask + HTML/CSS",
+    "skill_a": "Django/Flask",
+    "skill_b": "HTML/CSS",
+    "postings_together": 38,
+    "n_a": 315,
+    "n_b": 2644,
+    "lift": 1.8,
+    "jaccard": 0.013
+  },
+  {
+    "pair": "CRM + HTML/CSS",
+    "skill_a": "CRM",
+    "skill_b": "HTML/CSS",
+    "postings_together": 38,
+    "n_a": 601,
+    "n_b": 2644,
+    "lift": 0.94,
+    "jaccard": 0.012
+  },
+  {
+    "pair": "SQL + Six Sigma/Lean",
+    "skill_a": "SQL",
+    "skill_b": "Six Sigma/Lean",
+    "postings_together": 38,
+    "n_a": 5690,
+    "n_b": 696,
+    "lift": 0.38,
+    "jaccard": 0.006
+  },
+  {
+    "pair": "Quality Control + Backend Development",
+    "skill_a": "Quality Control",
+    "skill_b": "Backend Development",
+    "postings_together": 38,
+    "n_a": 1316,
+    "n_b": 1270,
+    "lift": 0.9,
+    "jaccard": 0.015
+  },
+  {
+    "pair": "Node.js + CI/CD",
+    "skill_a": "Node.js",
+    "skill_b": "CI/CD",
+    "postings_together": 38,
+    "n_a": 704,
+    "n_b": 1441,
+    "lift": 1.48,
+    "jaccard": 0.018
+  },
+  {
+    "pair": "Software Testing + System Design",
+    "skill_a": "Software Testing",
+    "skill_b": "System Design",
+    "postings_together": 38,
+    "n_a": 1515,
+    "n_b": 1232,
+    "lift": 0.8,
+    "jaccard": 0.014
+  },
+  {
+    "pair": "Agile/Scrum + UI/UX Design",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "UI/UX Design",
+    "postings_together": 38,
+    "n_a": 4824,
+    "n_b": 416,
+    "lift": 0.75,
+    "jaccard": 0.007
+  },
+  {
+    "pair": "Data Modeling + SAP ABAP",
+    "skill_a": "Data Modeling",
+    "skill_b": "SAP ABAP",
+    "postings_together": 38,
+    "n_a": 856,
+    "n_b": 818,
+    "lift": 2.14,
+    "jaccard": 0.023
+  },
+  {
+    "pair": "NLP + Computer Vision",
+    "skill_a": "NLP",
+    "skill_b": "Computer Vision",
+    "postings_together": 38,
+    "n_a": 253,
+    "n_b": 137,
+    "lift": 43.32,
+    "jaccard": 0.108
+  },
+  {
+    "pair": "Quality Control + Oracle",
+    "skill_a": "Quality Control",
+    "skill_b": "Oracle",
+    "postings_together": 38,
+    "n_a": 1316,
+    "n_b": 1815,
+    "lift": 0.63,
+    "jaccard": 0.012
+  },
+  {
+    "pair": "Project Management + PHP",
+    "skill_a": "Project Management",
+    "skill_b": "PHP",
+    "postings_together": 38,
+    "n_a": 2650,
+    "n_b": 961,
+    "lift": 0.59,
+    "jaccard": 0.011
+  },
+  {
+    "pair": "Spark + Java",
+    "skill_a": "Spark",
+    "skill_b": "Java",
+    "postings_together": 38,
+    "n_a": 567,
+    "n_b": 3132,
+    "lift": 0.85,
+    "jaccard": 0.01
+  },
+  {
+    "pair": "CRM + Technical Support",
+    "skill_a": "CRM",
+    "skill_b": "Technical Support",
+    "postings_together": 38,
+    "n_a": 601,
+    "n_b": 3610,
+    "lift": 0.69,
+    "jaccard": 0.009
+  },
+  {
+    "pair": "MATLAB + Embedded Systems",
+    "skill_a": "MATLAB",
+    "skill_b": "Embedded Systems",
+    "postings_together": 38,
+    "n_a": 154,
+    "n_b": 838,
+    "lift": 11.63,
+    "jaccard": 0.04
+  },
+  {
+    "pair": "Machine Learning + Azure",
+    "skill_a": "Machine Learning",
+    "skill_b": "Azure",
+    "postings_together": 38,
+    "n_a": 895,
+    "n_b": 1683,
+    "lift": 1.0,
+    "jaccard": 0.015
+  },
+  {
+    "pair": "Spring Boot + Software Testing",
+    "skill_a": "Spring Boot",
+    "skill_b": "Software Testing",
+    "postings_together": 38,
+    "n_a": 1396,
+    "n_b": 1515,
+    "lift": 0.71,
+    "jaccard": 0.013
+  },
+  {
+    "pair": "Backend Development + Oracle",
+    "skill_a": "Backend Development",
+    "skill_b": "Oracle",
+    "postings_together": 37,
+    "n_a": 1270,
+    "n_b": 1815,
+    "lift": 0.63,
+    "jaccard": 0.012
+  },
+  {
+    "pair": "Excel + Agile/Scrum",
+    "skill_a": "Excel",
+    "skill_b": "Agile/Scrum",
+    "postings_together": 37,
+    "n_a": 519,
+    "n_b": 4824,
+    "lift": 0.58,
+    "jaccard": 0.007
+  },
+  {
+    "pair": "Linux + Ticketing Tools",
+    "skill_a": "Linux",
+    "skill_b": "Ticketing Tools",
+    "postings_together": 37,
+    "n_a": 2997,
+    "n_b": 709,
+    "lift": 0.69,
+    "jaccard": 0.01
+  },
+  {
+    "pair": "Git + Project Management",
+    "skill_a": "Git",
+    "skill_b": "Project Management",
+    "postings_together": 37,
+    "n_a": 1684,
+    "n_b": 2650,
+    "lift": 0.33,
+    "jaccard": 0.009
+  },
+  {
+    "pair": "Python + SAP",
+    "skill_a": "Python",
+    "skill_b": "SAP",
+    "postings_together": 37,
+    "n_a": 2499,
+    "n_b": 2642,
+    "lift": 0.22,
+    "jaccard": 0.007
+  },
+  {
+    "pair": "System Design + Oracle",
+    "skill_a": "System Design",
+    "skill_b": "Oracle",
+    "postings_together": 37,
+    "n_a": 1232,
+    "n_b": 1815,
+    "lift": 0.65,
+    "jaccard": 0.012
+  },
+  {
+    "pair": "C# + AWS",
+    "skill_a": "C#",
+    "skill_b": "AWS",
+    "postings_together": 37,
+    "n_a": 1077,
+    "n_b": 1470,
+    "lift": 0.92,
+    "jaccard": 0.015
+  },
+  {
+    "pair": "ETL + SAP",
+    "skill_a": "ETL",
+    "skill_b": "SAP",
+    "postings_together": 37,
+    "n_a": 1001,
+    "n_b": 2642,
+    "lift": 0.55,
+    "jaccard": 0.01
+  },
+  {
+    "pair": "Accounts Payable/Receivable + SAP",
+    "skill_a": "Accounts Payable/Receivable",
+    "skill_b": "SAP",
+    "postings_together": 37,
+    "n_a": 98,
+    "n_b": 2642,
+    "lift": 5.65,
+    "jaccard": 0.014
+  },
+  {
+    "pair": "Spark + Agile/Scrum",
+    "skill_a": "Spark",
+    "skill_b": "Agile/Scrum",
+    "postings_together": 37,
+    "n_a": 567,
+    "n_b": 4824,
+    "lift": 0.53,
+    "jaccard": 0.007
+  },
+  {
+    "pair": "REST APIs + jQuery",
+    "skill_a": "REST APIs",
+    "skill_b": "jQuery",
+    "postings_together": 37,
+    "n_a": 787,
+    "n_b": 976,
+    "lift": 1.9,
+    "jaccard": 0.021
+  },
+  {
+    "pair": "GCP + Oracle",
+    "skill_a": "GCP",
+    "skill_b": "Oracle",
+    "postings_together": 37,
+    "n_a": 603,
+    "n_b": 1815,
+    "lift": 1.34,
+    "jaccard": 0.016
+  },
+  {
+    "pair": "Machine Learning + Backend Development",
+    "skill_a": "Machine Learning",
+    "skill_b": "Backend Development",
+    "postings_together": 37,
+    "n_a": 895,
+    "n_b": 1270,
+    "lift": 1.29,
+    "jaccard": 0.017
+  },
+  {
+    "pair": "SQL + R",
+    "skill_a": "SQL",
+    "skill_b": "R",
+    "postings_together": 36,
+    "n_a": 5690,
+    "n_b": 178,
+    "lift": 1.4,
+    "jaccard": 0.006
+  },
+  {
+    "pair": "jQuery + Oracle",
+    "skill_a": "jQuery",
+    "skill_b": "Oracle",
+    "postings_together": 36,
+    "n_a": 976,
+    "n_b": 1815,
+    "lift": 0.8,
+    "jaccard": 0.013
+  },
+  {
+    "pair": "Python + Angular",
+    "skill_a": "Python",
+    "skill_b": "Angular",
+    "postings_together": 36,
+    "n_a": 2499,
+    "n_b": 1150,
+    "lift": 0.49,
+    "jaccard": 0.01
+  },
+  {
+    "pair": "Data Analysis + Customer Service",
+    "skill_a": "Data Analysis",
+    "skill_b": "Customer Service",
+    "postings_together": 36,
+    "n_a": 1619,
+    "n_b": 674,
+    "lift": 1.3,
+    "jaccard": 0.016
+  },
+  {
+    "pair": "Machine Learning + Project Management",
+    "skill_a": "Machine Learning",
+    "skill_b": "Project Management",
+    "postings_together": 36,
+    "n_a": 895,
+    "n_b": 2650,
+    "lift": 0.6,
+    "jaccard": 0.01
+  },
+  {
+    "pair": "Spark + CI/CD",
+    "skill_a": "Spark",
+    "skill_b": "CI/CD",
+    "postings_together": 36,
+    "n_a": 567,
+    "n_b": 1441,
+    "lift": 1.74,
+    "jaccard": 0.018
+  },
+  {
+    "pair": "CI/CD + Project Management",
+    "skill_a": "CI/CD",
+    "skill_b": "Project Management",
+    "postings_together": 36,
+    "n_a": 1441,
+    "n_b": 2650,
+    "lift": 0.37,
+    "jaccard": 0.009
+  },
+  {
+    "pair": "Azure + Data Modeling",
+    "skill_a": "Azure",
+    "skill_b": "Data Modeling",
+    "postings_together": 36,
+    "n_a": 1683,
+    "n_b": 856,
+    "lift": 0.99,
+    "jaccard": 0.014
+  },
+  {
+    "pair": "SAP FICO + SAP ABAP",
+    "skill_a": "SAP FICO",
+    "skill_b": "SAP ABAP",
+    "postings_together": 36,
+    "n_a": 367,
+    "n_b": 818,
+    "lift": 4.74,
+    "jaccard": 0.031
+  },
+  {
+    "pair": "ETL + XML/XSLT",
+    "skill_a": "ETL",
+    "skill_b": "XML/XSLT",
+    "postings_together": 36,
+    "n_a": 1001,
+    "n_b": 962,
+    "lift": 1.48,
+    "jaccard": 0.019
+  },
+  {
+    "pair": "Java + TypeScript",
+    "skill_a": "Java",
+    "skill_b": "TypeScript",
+    "postings_together": 35,
+    "n_a": 3132,
+    "n_b": 298,
+    "lift": 1.48,
+    "jaccard": 0.01
+  },
+  {
+    "pair": "Salesforce + Project Management",
+    "skill_a": "Salesforce",
+    "skill_b": "Project Management",
+    "postings_together": 35,
+    "n_a": 845,
+    "n_b": 2650,
+    "lift": 0.62,
+    "jaccard": 0.01
+  },
+  {
+    "pair": "ETL + GCP",
+    "skill_a": "ETL",
+    "skill_b": "GCP",
+    "postings_together": 35,
+    "n_a": 1001,
+    "n_b": 603,
+    "lift": 2.29,
+    "jaccard": 0.022
+  },
+  {
+    "pair": "AWS + PHP",
+    "skill_a": "AWS",
+    "skill_b": "PHP",
+    "postings_together": 35,
+    "n_a": 1470,
+    "n_b": 961,
+    "lift": 0.98,
+    "jaccard": 0.015
+  },
+  {
+    "pair": "System Design + XML/XSLT",
+    "skill_a": "System Design",
+    "skill_b": "XML/XSLT",
+    "postings_together": 35,
+    "n_a": 1232,
+    "n_b": 962,
+    "lift": 1.17,
+    "jaccard": 0.016
+  },
+  {
+    "pair": "Power BI + Statistics",
+    "skill_a": "Power BI",
+    "skill_b": "Statistics",
+    "postings_together": 35,
+    "n_a": 570,
+    "n_b": 289,
+    "lift": 8.39,
+    "jaccard": 0.042
+  },
+  {
+    "pair": "Networking + Six Sigma/Lean",
+    "skill_a": "Networking",
+    "skill_b": "Six Sigma/Lean",
+    "postings_together": 35,
+    "n_a": 2097,
+    "n_b": 696,
+    "lift": 0.95,
+    "jaccard": 0.013
+  },
+  {
+    "pair": "Linux + Frontend Development",
+    "skill_a": "Linux",
+    "skill_b": "Frontend Development",
+    "postings_together": 35,
+    "n_a": 2997,
+    "n_b": 1548,
+    "lift": 0.3,
+    "jaccard": 0.008
+  },
+  {
+    "pair": "Software Testing + Frontend Development",
+    "skill_a": "Software Testing",
+    "skill_b": "Frontend Development",
+    "postings_together": 35,
+    "n_a": 1515,
+    "n_b": 1548,
+    "lift": 0.59,
+    "jaccard": 0.012
+  },
+  {
+    "pair": "System Design + AWS",
+    "skill_a": "System Design",
+    "skill_b": "AWS",
+    "postings_together": 35,
+    "n_a": 1232,
+    "n_b": 1470,
+    "lift": 0.76,
+    "jaccard": 0.013
+  },
+  {
+    "pair": "JavaScript + Docker",
+    "skill_a": "JavaScript",
+    "skill_b": "Docker",
+    "postings_together": 35,
+    "n_a": 3953,
+    "n_b": 450,
+    "lift": 0.78,
+    "jaccard": 0.008
+  },
+  {
+    "pair": "Data Analysis + Networking",
+    "skill_a": "Data Analysis",
+    "skill_b": "Networking",
+    "postings_together": 35,
+    "n_a": 1619,
+    "n_b": 2097,
+    "lift": 0.41,
+    "jaccard": 0.01
+  },
+  {
+    "pair": "SQL + Android",
+    "skill_a": "SQL",
+    "skill_b": "Android",
+    "postings_together": 35,
+    "n_a": 5690,
+    "n_b": 556,
+    "lift": 0.44,
+    "jaccard": 0.006
+  },
+  {
+    "pair": "Python + Cybersecurity",
+    "skill_a": "Python",
+    "skill_b": "Cybersecurity",
+    "postings_together": 35,
+    "n_a": 2499,
+    "n_b": 785,
+    "lift": 0.7,
+    "jaccard": 0.011
+  },
+  {
+    "pair": "Git + Networking",
+    "skill_a": "Git",
+    "skill_b": "Networking",
+    "postings_together": 35,
+    "n_a": 1684,
+    "n_b": 2097,
+    "lift": 0.39,
+    "jaccard": 0.009
+  },
+  {
+    "pair": "Hadoop + Data Modeling",
+    "skill_a": "Hadoop",
+    "skill_b": "Data Modeling",
+    "postings_together": 35,
+    "n_a": 434,
+    "n_b": 856,
+    "lift": 3.72,
+    "jaccard": 0.028
+  },
+  {
+    "pair": "Machine Learning + Data Modeling",
+    "skill_a": "Machine Learning",
+    "skill_b": "Data Modeling",
+    "postings_together": 35,
+    "n_a": 895,
+    "n_b": 856,
+    "lift": 1.8,
+    "jaccard": 0.02
+  },
+  {
+    "pair": ".NET + XML/XSLT",
+    "skill_a": ".NET",
+    "skill_b": "XML/XSLT",
+    "postings_together": 35,
+    "n_a": 1662,
+    "n_b": 962,
+    "lift": 0.86,
+    "jaccard": 0.014
+  },
+  {
+    "pair": "Project Management + Frontend Development",
+    "skill_a": "Project Management",
+    "skill_b": "Frontend Development",
+    "postings_together": 35,
+    "n_a": 2650,
+    "n_b": 1548,
+    "lift": 0.34,
+    "jaccard": 0.008
+  },
+  {
+    "pair": "C++ + AutoCAD/CAD",
+    "skill_a": "C++",
+    "skill_b": "AutoCAD/CAD",
+    "postings_together": 34,
+    "n_a": 1448,
+    "n_b": 993,
+    "lift": 0.93,
+    "jaccard": 0.014
+  },
+  {
+    "pair": "Agile/Scrum + Performance Management",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "Performance Management",
+    "postings_together": 34,
+    "n_a": 4824,
+    "n_b": 167,
+    "lift": 1.67,
+    "jaccard": 0.007
+  },
+  {
+    "pair": "Frontend Development + SAP",
+    "skill_a": "Frontend Development",
+    "skill_b": "SAP",
+    "postings_together": 34,
+    "n_a": 1548,
+    "n_b": 2642,
+    "lift": 0.33,
+    "jaccard": 0.008
+  },
+  {
+    "pair": "Machine Learning + Django/Flask",
+    "skill_a": "Machine Learning",
+    "skill_b": "Django/Flask",
+    "postings_together": 34,
+    "n_a": 895,
+    "n_b": 315,
+    "lift": 4.76,
+    "jaccard": 0.029
+  },
+  {
+    "pair": "Machine Learning + Technical Support",
+    "skill_a": "Machine Learning",
+    "skill_b": "Technical Support",
+    "postings_together": 34,
+    "n_a": 895,
+    "n_b": 3610,
+    "lift": 0.42,
+    "jaccard": 0.008
+  },
+  {
+    "pair": "Data Analysis + C++",
+    "skill_a": "Data Analysis",
+    "skill_b": "C++",
+    "postings_together": 34,
+    "n_a": 1619,
+    "n_b": 1448,
+    "lift": 0.57,
+    "jaccard": 0.011
+  },
+  {
+    "pair": "Agile/Scrum + Social Media Marketing",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "Social Media Marketing",
+    "postings_together": 33,
+    "n_a": 4824,
+    "n_b": 333,
+    "lift": 0.81,
+    "jaccard": 0.006
+  },
+  {
+    "pair": "SQL + Deep Learning",
+    "skill_a": "SQL",
+    "skill_b": "Deep Learning",
+    "postings_together": 33,
+    "n_a": 5690,
+    "n_b": 255,
+    "lift": 0.9,
+    "jaccard": 0.006
+  },
+  {
+    "pair": "Power BI + Cloud Computing",
+    "skill_a": "Power BI",
+    "skill_b": "Cloud Computing",
+    "postings_together": 33,
+    "n_a": 570,
+    "n_b": 3312,
+    "lift": 0.69,
+    "jaccard": 0.009
+  },
+  {
+    "pair": "Android + Backend Development",
+    "skill_a": "Android",
+    "skill_b": "Backend Development",
+    "postings_together": 33,
+    "n_a": 556,
+    "n_b": 1270,
+    "lift": 1.85,
+    "jaccard": 0.018
+  },
+  {
+    "pair": "Agile/Scrum + Docker",
+    "skill_a": "Agile/Scrum",
+    "skill_b": "Docker",
+    "postings_together": 33,
+    "n_a": 4824,
+    "n_b": 450,
+    "lift": 0.6,
+    "jaccard": 0.006
+  },
+  {
+    "pair": "Project Management + Backend Development",
+    "skill_a": "Project Management",
+    "skill_b": "Backend Development",
+    "postings_together": 33,
+    "n_a": 2650,
+    "n_b": 1270,
+    "lift": 0.39,
+    "jaccard": 0.008
+  },
+  {
+    "pair": "Python + Quality Control",
+    "skill_a": "Python",
+    "skill_b": "Quality Control",
+    "postings_together": 33,
+    "n_a": 2499,
+    "n_b": 1316,
+    "lift": 0.4,
+    "jaccard": 0.009
+  },
+  {
+    "pair": "Linux + Risk & Compliance",
+    "skill_a": "Linux",
+    "skill_b": "Risk & Compliance",
+    "postings_together": 33,
+    "n_a": 2997,
+    "n_b": 951,
+    "lift": 0.46,
+    "jaccard": 0.008
+  },
+  {
+    "pair": "System Design + Quality Control",
+    "skill_a": "System Design",
+    "skill_b": "Quality Control",
+    "postings_together": 33,
+    "n_a": 1232,
+    "n_b": 1316,
+    "lift": 0.8,
+    "jaccard": 0.013
+  },
+  {
+    "pair": "CI/CD + Networking",
+    "skill_a": "CI/CD",
+    "skill_b": "Networking",
+    "postings_together": 33,
+    "n_a": 1441,
+    "n_b": 2097,
+    "lift": 0.43,
+    "jaccard": 0.009
+  },
+  {
+    "pair": "Python + Excel",
+    "skill_a": "Python",
+    "skill_b": "Excel",
+    "postings_together": 33,
+    "n_a": 2499,
+    "n_b": 519,
+    "lift": 1.01,
+    "jaccard": 0.011
+  },
+  {
+    "pair": ".NET + Oracle",
+    "skill_a": ".NET",
+    "skill_b": "Oracle",
+    "postings_together": 33,
+    "n_a": 1662,
+    "n_b": 1815,
+    "lift": 0.43,
+    "jaccard": 0.01
+  },
+  {
+    "pair": "Power BI + Talent Acquisition",
+    "skill_a": "Power BI",
+    "skill_b": "Talent Acquisition",
+    "postings_together": 32,
+    "n_a": 570,
+    "n_b": 213,
+    "lift": 10.41,
+    "jaccard": 0.043
+  },
+  {
+    "pair": "Customer Service + Oracle",
+    "skill_a": "Customer Service",
+    "skill_b": "Oracle",
+    "postings_together": 32,
+    "n_a": 674,
+    "n_b": 1815,
+    "lift": 1.03,
+    "jaccard": 0.013
+  },
+  {
+    "pair": "JavaScript + Supply Chain Management",
+    "skill_a": "JavaScript",
+    "skill_b": "Supply Chain Management",
+    "postings_together": 32,
+    "n_a": 3953,
+    "n_b": 661,
+    "lift": 0.48,
+    "jaccard": 0.007
+  },
+  {
+    "pair": "Computer Vision + C++",
+    "skill_a": "Computer Vision",
+    "skill_b": "C++",
+    "postings_together": 32,
+    "n_a": 137,
+    "n_b": 1448,
+    "lift": 6.37,
+    "jaccard": 0.021
+  },
+  {
+    "pair": "Machine Learning + PyTorch",
+    "skill_a": "Machine Learning",
+    "skill_b": "PyTorch",
+    "postings_together": 32,
+    "n_a": 895,
+    "n_b": 55,
+    "lift": 25.68,
+    "jaccard": 0.035
+  },
+  {
+    "pair": "REST APIs + Docker",
+    "skill_a": "REST APIs",
+    "skill_b": "Docker",
+    "postings_together": 32,
+    "n_a": 787,
+    "n_b": 450,
+    "lift": 3.57,
+    "jaccard": 0.027
+  },
+  {
+    "pair": "Angular + Docker",
+    "skill_a": "Angular",
+    "skill_b": "Docker",
+    "postings_together": 32,
+    "n_a": 1150,
+    "n_b": 450,
+    "lift": 2.44,
+    "jaccard": 0.02
+  },
+  {
+    "pair": "Azure + Cybersecurity",
+    "skill_a": "Azure",
+    "skill_b": "Cybersecurity",
+    "postings_together": 32,
+    "n_a": 1683,
+    "n_b": 785,
+    "lift": 0.96,
+    "jaccard": 0.013
+  },
+  {
+    "pair": "GCP + Backend Development",
+    "skill_a": "GCP",
+    "skill_b": "Backend Development",
+    "postings_together": 32,
+    "n_a": 603,
+    "n_b": 1270,
+    "lift": 1.65,
+    "jaccard": 0.017
+  },
+  {
+    "pair": "C++ + jQuery",
+    "skill_a": "C++",
+    "skill_b": "jQuery",
+    "postings_together": 32,
+    "n_a": 1448,
+    "n_b": 976,
+    "lift": 0.89,
+    "jaccard": 0.013
+  },
+  {
+    "pair": "Social Media Marketing + HTML/CSS",
+    "skill_a": "Social Media Marketing",
+    "skill_b": "HTML/CSS",
+    "postings_together": 32,
+    "n_a": 333,
+    "n_b": 2644,
+    "lift": 1.44,
+    "jaccard": 0.011
+  },
+  {
+    "pair": "C++ + Backend Development",
+    "skill_a": "C++",
+    "skill_b": "Backend Development",
+    "postings_together": 32,
+    "n_a": 1448,
+    "n_b": 1270,
+    "lift": 0.69,
+    "jaccard": 0.012
+  },
+  {
+    "pair": "SQL + Cybersecurity",
+    "skill_a": "SQL",
+    "skill_b": "Cybersecurity",
+    "postings_together": 32,
+    "n_a": 5690,
+    "n_b": 785,
+    "lift": 0.28,
+    "jaccard": 0.005
+  },
+  {
+    "pair": "R + Machine Learning",
+    "skill_a": "R",
+    "skill_b": "Machine Learning",
+    "postings_together": 32,
+    "n_a": 178,
+    "n_b": 895,
+    "lift": 7.94,
+    "jaccard": 0.031
+  },
+  {
+    "pair": "CI/CD + Oracle",
+    "skill_a": "CI/CD",
+    "skill_b": "Oracle",
+    "postings_together": 32,
+    "n_a": 1441,
+    "n_b": 1815,
+    "lift": 0.48,
+    "jaccard": 0.01
+  },
+  {
+    "pair": "Salesforce + SAP",
+    "skill_a": "Salesforce",
+    "skill_b": "SAP",
+    "postings_together": 31,
+    "n_a": 845,
+    "n_b": 2642,
+    "lift": 0.55,
+    "jaccard": 0.009
+  },
+  {
+    "pair": "ETL + JavaScript",
+    "skill_a": "ETL",
+    "skill_b": "JavaScript",
+    "postings_together": 31,
+    "n_a": 1001,
+    "n_b": 3953,
+    "lift": 0.31,
+    "jaccard": 0.006
+  },
+  {
+    "pair": "C++ + CI/CD",
+    "skill_a": "C++",
+    "skill_b": "CI/CD",
+    "postings_together": 31,
+    "n_a": 1448,
+    "n_b": 1441,
+    "lift": 0.59,
+    "jaccard": 0.011
+  },
+  {
+    "pair": "Risk & Compliance + Supply Chain Management",
+    "skill_a": "Risk & Compliance",
+    "skill_b": "Supply Chain Management",
+    "postings_together": 31,
+    "n_a": 951,
+    "n_b": 661,
+    "lift": 1.95,
+    "jaccard": 0.02
+  },
+  {
+    "pair": "REST APIs + Android",
+    "skill_a": "REST APIs",
+    "skill_b": "Android",
+    "postings_together": 31,
+    "n_a": 787,
+    "n_b": 556,
+    "lift": 2.8,
+    "jaccard": 0.024
+  },
+  {
+    "pair": "JavaScript + Social Media Marketing",
+    "skill_a": "JavaScript",
+    "skill_b": "Social Media Marketing",
+    "postings_together": 31,
+    "n_a": 3953,
+    "n_b": 333,
+    "lift": 0.93,
+    "jaccard": 0.007
+  },
+  {
+    "pair": "Machine Learning + Hadoop",
+    "skill_a": "Machine Learning",
+    "skill_b": "Hadoop",
+    "postings_together": 31,
+    "n_a": 895,
+    "n_b": 434,
+    "lift": 3.15,
+    "jaccard": 0.024
+  },
+  {
+    "pair": "Django/Flask + Cloud Computing",
+    "skill_a": "Django/Flask",
+    "skill_b": "Cloud Computing",
+    "postings_together": 31,
+    "n_a": 315,
+    "n_b": 3312,
+    "lift": 1.17,
+    "jaccard": 0.009
+  },
+  {
+    "pair": "AWS + Networking",
+    "skill_a": "AWS",
+    "skill_b": "Networking",
+    "postings_together": 31,
+    "n_a": 1470,
+    "n_b": 2097,
+    "lift": 0.4,
+    "jaccard": 0.009
+  },
+  {
+    "pair": "Software Testing + XML/XSLT",
+    "skill_a": "Software Testing",
+    "skill_b": "XML/XSLT",
+    "postings_together": 31,
+    "n_a": 1515,
+    "n_b": 962,
+    "lift": 0.84,
+    "jaccard": 0.013
+  },
+  {
+    "pair": "TypeScript + AWS",
+    "skill_a": "TypeScript",
+    "skill_b": "AWS",
+    "postings_together": 31,
+    "n_a": 298,
+    "n_b": 1470,
+    "lift": 2.8,
+    "jaccard": 0.018
+  },
+  {
+    "pair": "Auditing + Quality Control",
+    "skill_a": "Auditing",
+    "skill_b": "Quality Control",
+    "postings_together": 31,
+    "n_a": 271,
+    "n_b": 1316,
+    "lift": 3.43,
+    "jaccard": 0.02
+  },
+  {
+    "pair": "SQL + Risk & Compliance",
+    "skill_a": "SQL",
+    "skill_b": "Risk & Compliance",
+    "postings_together": 31,
+    "n_a": 5690,
+    "n_b": 951,
+    "lift": 0.23,
+    "jaccard": 0.005
+  },
+  {
+    "pair": "Payroll + SAP ABAP",
+    "skill_a": "Payroll",
+    "skill_b": "SAP ABAP",
+    "postings_together": 31,
+    "n_a": 342,
+    "n_b": 818,
+    "lift": 4.38,
+    "jaccard": 0.027
+  },
+  {
+    "pair": "Payroll + HTML/CSS",
+    "skill_a": "Payroll",
+    "skill_b": "HTML/CSS",
+    "postings_together": 31,
+    "n_a": 342,
+    "n_b": 2644,
+    "lift": 1.35,
+    "jaccard": 0.01
+  },
+  {
+    "pair": "Supply Chain Management + Quality Control",
+    "skill_a": "Supply Chain Management",
+    "skill_b": "Quality Control",
+    "postings_together": 31,
+    "n_a": 661,
+    "n_b": 1316,
+    "lift": 1.41,
+    "jaccard": 0.016
+  },
+  {
+    "pair": "Power BI + Spark",
+    "skill_a": "Power BI",
+    "skill_b": "Spark",
+    "postings_together": 31,
+    "n_a": 570,
+    "n_b": 567,
+    "lift": 3.79,
+    "jaccard": 0.028
+  },
+  {
+    "pair": "Project Management + XML/XSLT",
+    "skill_a": "Project Management",
+    "skill_b": "XML/XSLT",
+    "postings_together": 31,
+    "n_a": 2650,
+    "n_b": 962,
+    "lift": 0.48,
+    "jaccard": 0.009
+  },
+  {
+    "pair": "Six Sigma/Lean + Cloud Computing",
+    "skill_a": "Six Sigma/Lean",
+    "skill_b": "Cloud Computing",
+    "postings_together": 31,
+    "n_a": 696,
+    "n_b": 3312,
+    "lift": 0.53,
+    "jaccard": 0.008
+  },
+  {
+    "pair": "Docker + Backend Development",
+    "skill_a": "Docker",
+    "skill_b": "Backend Development",
+    "postings_together": 31,
+    "n_a": 450,
+    "n_b": 1270,
+    "lift": 2.14,
+    "jaccard": 0.018
+  },
+  {
+    "pair": "Customer Service + HTML/CSS",
+    "skill_a": "Customer Service",
+    "skill_b": "HTML/CSS",
+    "postings_together": 31,
+    "n_a": 674,
+    "n_b": 2644,
+    "lift": 0.69,
+    "jaccard": 0.009
+  },
+  {
+    "pair": "Node.js + jQuery",
+    "skill_a": "Node.js",
+    "skill_b": "jQuery",
+    "postings_together": 31,
+    "n_a": 704,
+    "n_b": 976,
+    "lift": 1.78,
+    "jaccard": 0.019
+  },
+  {
+    "pair": "Node.js + Azure",
+    "skill_a": "Node.js",
+    "skill_b": "Azure",
+    "postings_together": 31,
+    "n_a": 704,
+    "n_b": 1683,
+    "lift": 1.03,
+    "jaccard": 0.013
+  },
+  {
+    "pair": "Excel + Data Visualization",
+    "skill_a": "Excel",
+    "skill_b": "Data Visualization",
+    "postings_together": 30,
+    "n_a": 519,
+    "n_b": 340,
+    "lift": 6.72,
+    "jaccard": 0.036
+  },
+  {
+    "pair": "Deep Learning + Data Analysis",
+    "skill_a": "Deep Learning",
+    "skill_b": "Data Analysis",
+    "postings_together": 30,
+    "n_a": 255,
+    "n_b": 1619,
+    "lift": 2.87,
+    "jaccard": 0.016
+  },
+  {
+    "pair": "jQuery + SAP",
+    "skill_a": "jQuery",
+    "skill_b": "SAP",
+    "postings_together": 30,
+    "n_a": 976,
+    "n_b": 2642,
+    "lift": 0.46,
+    "jaccard": 0.008
+  },
+  {
+    "pair": "CRM + Backend Development",
+    "skill_a": "CRM",
+    "skill_b": "Backend Development",
+    "postings_together": 30,
+    "n_a": 601,
+    "n_b": 1270,
+    "lift": 1.55,
+    "jaccard": 0.016
+  },
+  {
+    "pair": "Deep Learning + System Design",
+    "skill_a": "Deep Learning",
+    "skill_b": "System Design",
+    "postings_together": 30,
+    "n_a": 255,
+    "n_b": 1232,
+    "lift": 3.77,
+    "jaccard": 0.021
+  },
+  {
+    "pair": "Budgeting & Forecasting + Risk & Compliance",
+    "skill_a": "Budgeting & Forecasting",
+    "skill_b": "Risk & Compliance",
+    "postings_together": 30,
+    "n_a": 413,
+    "n_b": 951,
+    "lift": 3.02,
+    "jaccard": 0.022
+  },
+  {
+    "pair": "Supply Chain Management + Six Sigma/Lean",
+    "skill_a": "Supply Chain Management",
+    "skill_b": "Six Sigma/Lean",
+    "postings_together": 30,
+    "n_a": 661,
+    "n_b": 696,
+    "lift": 2.58,
+    "jaccard": 0.023
+  },
+  {
+    "pair": "Supply Chain Management + Data Modeling",
+    "skill_a": "Supply Chain Management",
+    "skill_b": "Data Modeling",
+    "postings_together": 30,
+    "n_a": 661,
+    "n_b": 856,
+    "lift": 2.09,
+    "jaccard": 0.02
+  },
+  {
+    "pair": "GCP + Networking",
+    "skill_a": "GCP",
+    "skill_b": "Networking",
+    "postings_together": 30,
+    "n_a": 603,
+    "n_b": 2097,
+    "lift": 0.94,
+    "jaccard": 0.011
+  },
+  {
+    "pair": "Procurement + Technical Support",
+    "skill_a": "Procurement",
+    "skill_b": "Technical Support",
+    "postings_together": 30,
+    "n_a": 442,
+    "n_b": 3610,
+    "lift": 0.74,
+    "jaccard": 0.007
+  },
+  {
+    "pair": "Quality Control + Customer Service",
+    "skill_a": "Quality Control",
+    "skill_b": "Customer Service",
+    "postings_together": 30,
+    "n_a": 1316,
+    "n_b": 674,
+    "lift": 1.34,
+    "jaccard": 0.015
+  },
+  {
+    "pair": "Python + .NET",
+    "skill_a": "Python",
+    "skill_b": ".NET",
+    "postings_together": 30,
+    "n_a": 2499,
+    "n_b": 1662,
+    "lift": 0.29,
+    "jaccard": 0.007
+  },
+  {
+    "pair": "Customer Service + SAP",
+    "skill_a": "Customer Service",
+    "skill_b": "SAP",
+    "postings_together": 30,
+    "n_a": 674,
+    "n_b": 2642,
+    "lift": 0.67,
+    "jaccard": 0.009
+  }
+]

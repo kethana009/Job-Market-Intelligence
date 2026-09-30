@@ -1,0 +1,642 @@
+[
+  {
+    "id": 1,
+    "name": "SQL",
+    "category": "Data & Analytics"
+  },
+  {
+    "id": 2,
+    "name": "Python",
+    "category": "Data & Analytics"
+  },
+  {
+    "id": 3,
+    "name": "R",
+    "category": "Data & Analytics"
+  },
+  {
+    "id": 4,
+    "name": "Excel",
+    "category": "Data & Analytics"
+  },
+  {
+    "id": 5,
+    "name": "Power BI",
+    "category": "Data & Analytics"
+  },
+  {
+    "id": 6,
+    "name": "Tableau",
+    "category": "Data & Analytics"
+  },
+  {
+    "id": 7,
+    "name": "Statistics",
+    "category": "Data & Analytics"
+  },
+  {
+    "id": 8,
+    "name": "Machine Learning",
+    "category": "Data & Analytics"
+  },
+  {
+    "id": 9,
+    "name": "Deep Learning",
+    "category": "Data & Analytics"
+  },
+  {
+    "id": 10,
+    "name": "NLP",
+    "category": "Data & Analytics"
+  },
+  {
+    "id": 11,
+    "name": "Data Visualization",
+    "category": "Data & Analytics"
+  },
+  {
+    "id": 12,
+    "name": "ETL",
+    "category": "Data & Analytics"
+  },
+  {
+    "id": 13,
+    "name": "Data Warehousing",
+    "category": "Data & Analytics"
+  },
+  {
+    "id": 14,
+    "name": "Spark",
+    "category": "Data & Analytics"
+  },
+  {
+    "id": 15,
+    "name": "Hadoop",
+    "category": "Data & Analytics"
+  },
+  {
+    "id": 16,
+    "name": "A/B Testing",
+    "category": "Data & Analytics"
+  },
+  {
+    "id": 17,
+    "name": "Google Analytics",
+    "category": "Data & Analytics"
+  },
+  {
+    "id": 18,
+    "name": "Data Analysis",
+    "category": "Data & Analytics"
+  },
+  {
+    "id": 19,
+    "name": "Generative AI",
+    "category": "AI"
+  },
+  {
+    "id": 20,
+    "name": "LLMs",
+    "category": "AI"
+  },
+  {
+    "id": 21,
+    "name": "TensorFlow",
+    "category": "AI"
+  },
+  {
+    "id": 22,
+    "name": "PyTorch",
+    "category": "AI"
+  },
+  {
+    "id": 23,
+    "name": "Computer Vision",
+    "category": "AI"
+  },
+  {
+    "id": 24,
+    "name": "Java",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 25,
+    "name": "JavaScript",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 26,
+    "name": "TypeScript",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 27,
+    "name": "C++",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 28,
+    "name": "C#",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 29,
+    "name": ".NET",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 30,
+    "name": "Node.js",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 31,
+    "name": "React",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 32,
+    "name": "Angular",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 33,
+    "name": "Django/Flask",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 34,
+    "name": "Spring Boot",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 35,
+    "name": "REST APIs",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 36,
+    "name": "Microservices",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 37,
+    "name": "Git",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 38,
+    "name": "Agile/Scrum",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 39,
+    "name": "Software Testing",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 40,
+    "name": "Android",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 41,
+    "name": "iOS",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 42,
+    "name": "System Design",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 43,
+    "name": "AWS",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "id": 44,
+    "name": "Azure",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "id": 45,
+    "name": "GCP",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "id": 46,
+    "name": "Docker",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "id": 47,
+    "name": "Kubernetes",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "id": 48,
+    "name": "CI/CD",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "id": 49,
+    "name": "Terraform",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "id": 50,
+    "name": "Linux",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "id": 51,
+    "name": "Networking",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "id": 52,
+    "name": "Cybersecurity",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "id": 53,
+    "name": "Tally",
+    "category": "Finance & Accounting"
+  },
+  {
+    "id": 54,
+    "name": "GST",
+    "category": "Finance & Accounting"
+  },
+  {
+    "id": 55,
+    "name": "Taxation",
+    "category": "Finance & Accounting"
+  },
+  {
+    "id": 56,
+    "name": "Financial Modelling",
+    "category": "Finance & Accounting"
+  },
+  {
+    "id": 57,
+    "name": "Financial Reporting",
+    "category": "Finance & Accounting"
+  },
+  {
+    "id": 58,
+    "name": "Accounts Payable/Receivable",
+    "category": "Finance & Accounting"
+  },
+  {
+    "id": 59,
+    "name": "Auditing",
+    "category": "Finance & Accounting"
+  },
+  {
+    "id": 60,
+    "name": "SAP FICO",
+    "category": "Finance & Accounting"
+  },
+  {
+    "id": 61,
+    "name": "Budgeting & Forecasting",
+    "category": "Finance & Accounting"
+  },
+  {
+    "id": 62,
+    "name": "Risk & Compliance",
+    "category": "Finance & Accounting"
+  },
+  {
+    "id": 63,
+    "name": "Credit Analysis",
+    "category": "Finance & Accounting"
+  },
+  {
+    "id": 64,
+    "name": "Business Development",
+    "category": "Sales & Marketing"
+  },
+  {
+    "id": 65,
+    "name": "Lead Generation",
+    "category": "Sales & Marketing"
+  },
+  {
+    "id": 66,
+    "name": "B2B Sales",
+    "category": "Sales & Marketing"
+  },
+  {
+    "id": 67,
+    "name": "CRM",
+    "category": "Sales & Marketing"
+  },
+  {
+    "id": 68,
+    "name": "Salesforce",
+    "category": "Sales & Marketing"
+  },
+  {
+    "id": 69,
+    "name": "SEO",
+    "category": "Sales & Marketing"
+  },
+  {
+    "id": 70,
+    "name": "Google Ads/SEM",
+    "category": "Sales & Marketing"
+  },
+  {
+    "id": 71,
+    "name": "Social Media Marketing",
+    "category": "Sales & Marketing"
+  },
+  {
+    "id": 72,
+    "name": "Content Writing",
+    "category": "Sales & Marketing"
+  },
+  {
+    "id": 73,
+    "name": "Email Marketing",
+    "category": "Sales & Marketing"
+  },
+  {
+    "id": 74,
+    "name": "Digital Marketing",
+    "category": "Sales & Marketing"
+  },
+  {
+    "id": 75,
+    "name": "Account Management",
+    "category": "Sales & Marketing"
+  },
+  {
+    "id": 76,
+    "name": "Negotiation",
+    "category": "Sales & Marketing"
+  },
+  {
+    "id": 77,
+    "name": "Talent Acquisition",
+    "category": "HR"
+  },
+  {
+    "id": 78,
+    "name": "Payroll",
+    "category": "HR"
+  },
+  {
+    "id": 79,
+    "name": "Employee Engagement",
+    "category": "HR"
+  },
+  {
+    "id": 80,
+    "name": "HRIS",
+    "category": "HR"
+  },
+  {
+    "id": 81,
+    "name": "Performance Management",
+    "category": "HR"
+  },
+  {
+    "id": 82,
+    "name": "Supply Chain Management",
+    "category": "Operations & Supply Chain"
+  },
+  {
+    "id": 83,
+    "name": "Logistics",
+    "category": "Operations & Supply Chain"
+  },
+  {
+    "id": 84,
+    "name": "Inventory Management",
+    "category": "Operations & Supply Chain"
+  },
+  {
+    "id": 85,
+    "name": "Procurement",
+    "category": "Operations & Supply Chain"
+  },
+  {
+    "id": 86,
+    "name": "Six Sigma/Lean",
+    "category": "Operations & Supply Chain"
+  },
+  {
+    "id": 87,
+    "name": "SAP MM",
+    "category": "Operations & Supply Chain"
+  },
+  {
+    "id": 88,
+    "name": "Warehouse Management",
+    "category": "Operations & Supply Chain"
+  },
+  {
+    "id": 89,
+    "name": "Project Management",
+    "category": "Operations & Supply Chain"
+  },
+  {
+    "id": 90,
+    "name": "Quality Control",
+    "category": "Operations & Supply Chain"
+  },
+  {
+    "id": 91,
+    "name": "Patient Care",
+    "category": "Healthcare & Life Sciences"
+  },
+  {
+    "id": 92,
+    "name": "Clinical Research",
+    "category": "Healthcare & Life Sciences"
+  },
+  {
+    "id": 93,
+    "name": "Medical Coding",
+    "category": "Healthcare & Life Sciences"
+  },
+  {
+    "id": 94,
+    "name": "Pharmacovigilance",
+    "category": "Healthcare & Life Sciences"
+  },
+  {
+    "id": 95,
+    "name": "Regulatory Affairs",
+    "category": "Healthcare & Life Sciences"
+  },
+  {
+    "id": 96,
+    "name": "EMR/EHR",
+    "category": "Healthcare & Life Sciences"
+  },
+  {
+    "id": 97,
+    "name": "Figma",
+    "category": "Design & Creative"
+  },
+  {
+    "id": 98,
+    "name": "Adobe Creative Suite",
+    "category": "Design & Creative"
+  },
+  {
+    "id": 99,
+    "name": "UI/UX Design",
+    "category": "Design & Creative"
+  },
+  {
+    "id": 100,
+    "name": "Video Editing",
+    "category": "Design & Creative"
+  },
+  {
+    "id": 101,
+    "name": "AutoCAD/CAD",
+    "category": "Engineering"
+  },
+  {
+    "id": 102,
+    "name": "SolidWorks",
+    "category": "Engineering"
+  },
+  {
+    "id": 103,
+    "name": "PLC/SCADA",
+    "category": "Engineering"
+  },
+  {
+    "id": 104,
+    "name": "MATLAB",
+    "category": "Engineering"
+  },
+  {
+    "id": 105,
+    "name": "Embedded Systems",
+    "category": "Engineering"
+  },
+  {
+    "id": 106,
+    "name": "Civil/Site Execution",
+    "category": "Engineering"
+  },
+  {
+    "id": 107,
+    "name": "Curriculum Development",
+    "category": "Education"
+  },
+  {
+    "id": 108,
+    "name": "Classroom Management",
+    "category": "Education"
+  },
+  {
+    "id": 109,
+    "name": "Customer Service",
+    "category": "Customer Support"
+  },
+  {
+    "id": 110,
+    "name": "Ticketing Tools",
+    "category": "Customer Support"
+  },
+  {
+    "id": 111,
+    "name": "Technical Support",
+    "category": "Customer Support"
+  },
+  {
+    "id": 112,
+    "name": "Communication",
+    "category": "Soft Skills"
+  },
+  {
+    "id": 113,
+    "name": "Leadership",
+    "category": "Soft Skills"
+  },
+  {
+    "id": 114,
+    "name": "Stakeholder Management",
+    "category": "Soft Skills"
+  },
+  {
+    "id": 115,
+    "name": "Problem Solving",
+    "category": "Soft Skills"
+  },
+  {
+    "id": 116,
+    "name": "Team Management",
+    "category": "Soft Skills"
+  },
+  {
+    "id": 117,
+    "name": "Presentation Skills",
+    "category": "Soft Skills"
+  },
+  {
+    "id": 118,
+    "name": "HTML/CSS",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 119,
+    "name": "jQuery",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 120,
+    "name": "PHP",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 121,
+    "name": "XML/XSLT",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 122,
+    "name": "Frontend Development",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 123,
+    "name": "Backend Development",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 124,
+    "name": "Data Modeling",
+    "category": "Data & Analytics"
+  },
+  {
+    "id": 125,
+    "name": "Cloud Computing",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "id": 126,
+    "name": "SAP",
+    "category": "Operations & Supply Chain"
+  },
+  {
+    "id": 127,
+    "name": "SAP ABAP",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 128,
+    "name": "Oracle",
+    "category": "Data & Analytics"
+  }
+]
